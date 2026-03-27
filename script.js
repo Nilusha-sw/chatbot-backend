@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:8000"; // change to Render URL after deployment
+const API_URL = "http://localhost:8000"; 
 
 const chatBody = document.getElementById("chat-body");
 const chatForm = document.getElementById("chat-form");
@@ -9,7 +9,7 @@ function appendMessage(sender, text) {
   div.classList.add("message", sender === "user" ? "user-message" : "bot-message");
   div.innerHTML = `<p>${text}</p>`;
   chatBody.appendChild(div);
-  chatBody.scrollTop = chatBody.scrollHeight; // auto scroll to bottom
+  chatBody.scrollTop = chatBody.scrollHeight; 
 }
 
 function showTyping() {
