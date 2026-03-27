@@ -8,7 +8,7 @@ const fs = require("fs");
 
 const app = express();
 app.use(express.json());
-app.use(cors({ origin: "*" })); // lock to your Netlify URL after testing
+app.use(cors({ origin: "*" })); 
 
 // MongoDB chat log
 mongoose.connect(process.env.MONGO_URI)
