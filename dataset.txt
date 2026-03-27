@@ -1,0 +1,980 @@
+What programming languages are you proficient in? Java, JavaScript, PHP, and Python.
+What databases have you worked with? MySQL for SQL and MongoDB for NoSQL.
+What frameworks do you use with Java? Spring Boot for building microservices and RESTful APIs.
+What frontend frameworks do you know? ReactJS, along with Tailwind CSS and Bootstrap for styling.
+What is a RESTful API? It is an architectural style for building web services using HTTP requests to perform CRUD operations.
+What is a microservices architecture? It is an approach where an application is built as a collection of small, independently deployable services.
+What is JWT and why did you use it? JSON Web Token is used for secure authentication and authorization between parties, which I implemented using Spring Security.
+What is MongoDB and when would you use it? A NoSQL database used for storing unstructured or semi-structured data, which I used for storing CEFTS report data.
+What is the difference between SQL and NoSQL? SQL is relational and structured, while NoSQL is non-relational and flexible with data formats.
+What version control tools do you use? Git and GitHub for tracking changes and collaboration.
+What was the CEFTS Reconciliation Application? A system to ensure interbank transactions processed through CEFTS are accurately recorded and matched between banks.
+How many transactions did you handle in the CEFTS project? Over 1,000,000 transactions executed every three days.
+What database did CEFTS use? AS400 IBM database for transaction storage and MongoDB for report data.
+How did you generate reports in the CEFTS project? I used Java with Spring Boot and implemented CSV writer libraries to generate Excel files.
+What testing framework did you use for APIs? MockMVC for API testing.
+What was the Captive Portal project? A system where I implemented user authentication and authorization using Spring Security with JWT.
+What did you do at Sri Lanka Telecom? I worked on three projects: a GIS project using PHP/MySQL, a UAE Embassy system using Angular/Node.js, and a workflow system using React/Node.js.
+What is your final year research project about? An integrated dog training and monitoring system with smart collar integration specifically designed for deaf dogs.
+What technologies are you using for your final year project? Java, React, Python, C++, and IoT integration.
+What was the Online Hardware Store project? A fully fledged e-commerce application where staff and clients can perform all CRUD operations using HTML, CSS, Java, and MySQL.
+What cloud platforms have you worked with? AWS, with certifications in AWS Cloud Practitioner and AWS Academy Cloud Foundations.
+What monitoring tools do you know? AppDynamics, and I completed Black Belt Presales Stage 1 & 2 certifications from Cisco.
+What API tools have you used? Postman for API testing and I completed the Postman API Fundamentals Student Expert certification.
+What is Docker? A containerization platform used to package applications and dependencies for consistent deployment.
+What is Kubernetes? An orchestration tool for managing and scaling containerized applications.
+What is Maven? A build automation tool used primarily for Java projects to manage dependencies and builds.
+What design tools have you used? Figma, Lucidchart, and Draw.io for wireframing and system design.
+What Linux commands are you familiar with? Basic navigation, file management, and process monitoring commands.
+Where are you studying? Sri Lanka Institute of Information Technology (SLIIT), BSc (Hons) in Information Technology, graduating in 2026.
+What did you study for GCE Advanced Level? Mathematics stream at Trinity College Kandy.
+What were your GCE Ordinary Level results? Completed in 2017 at Trinity College Kandy.
+What extracurricular activities were you involved in? Member of the Science Society, Buddhist Society, and Astronomical Society at Trinity College.
+Did you play any sports? Yes, I played for the college baseball team.
+How would you describe your personality? Self-driven, creative, ambitious, and able to work under stressful conditions.
+How do you handle stressful situations? I remain calm, assess the challenge, and work systematically to overcome it.
+Can you work in a team? Yes, I am able to work with others to achieve the highest level required.
+What is your approach to learning new technologies? I use online courses, hands-on projects, and certifications to build practical skills.
+What is the difference between authentication and authorization? Authentication verifies identity, while authorization determines what resources a user can access.
+What is an API? Application Programming Interface that allows different software applications to communicate.
+What is the difference between PUT and POST? PUT updates an existing resource, while POST creates a new resource.
+What is dependency injection? A design pattern where objects receive their dependencies from an external source rather than creating them internally.
+What is the purpose of the @SpringBootApplication annotation? It combines @Configuration, @EnableAutoConfiguration, and @ComponentScan for Spring Boot applications.
+What is the difference between MongoDB and MySQL in terms of schema? MongoDB is schema-less, while MySQL requires a predefined schema.
+What is the CAP theorem? It states that distributed systems can only guarantee two of three: Consistency, Availability, and Partition Tolerance.
+What is an index in a database? A data structure that improves the speed of data retrieval operations.
+What is the difference between inner join and left join? Inner join returns only matching records, while left join returns all records from the left table and matching ones from the right.
+What is the purpose of Git branching? To allow developers to work on features independently without affecting the main codebase.
+What is the difference between HTTP and HTTPS? HTTPS is HTTP with SSL/TLS encryption for secure communication.
+What is a JWT token structure? It consists of three parts: Header, Payload, and Signature.
+What is the use of Postman in API development? To test, document, and debug RESTful APIs during development.
+What is the difference between monolithic and microservices architecture? Monolithic is a single unified application, while microservices consist of multiple independent services.
+What is the purpose of Docker Compose? To define and run multi-container Docker applications.
+What is the difference between Agile and Waterfall? Agile is iterative and flexible, while Waterfall is sequential and rigid.
+What is the role of a software engineer in an internship? To develop features, fix bugs, collaborate with teams, and learn industry best practices.
+Why did you choose IT as a career? I am creative and ambitious, and I enjoy solving complex problems with technology.
+What are your future career goals? To grow as a software engineer, specialize in backend systems and cloud technologies, and contribute to impactful projects.
+What was the Frame Harmony feature in your Wall Frame Store project?A unique feature I implemented that helps users visualize how frames will look in their space.
+What is the purpose of the Job Portal mobile application? To connect online workers with employers using Kotlin and Firebase.
+What is the Office Automation System? A web application for business process automation using HTML, CSS, PHP, and MS SQL.
+What is the Health and Fitness tracking web application? A MERN stack application for tracking fitness activities and health metrics.
+Who is Nilusha Wijerathne? An IT graduate from SLIIT with 1 year of experience as a software engineer specializing in modern web technologies and scalable microservices.
+How would you describe yourself in one sentence? A self-driven, creative, and ambitious individual who turns complex problems into elegant solutions.
+How do you handle stressful conditions? I remain calm, responsible, and leverage my knowledge to tackle challenges systematically.
+What is your educational background? BSc (Hons) in Information Technology from SLIIT (2021–2025), with GCE Advanced Level in Mathematics from Trinity College Kandy.
+What is your contact information? Phone: +94 77 257 6120, Email: nilushawijerathne1@gmail.com
+What was your role at NCINGA? Intern Software Engineer working on the CEFTS Reconciliation Application and Captive Portal.
+What is CEFTS? A real-time interbank fund transfer system enabling paperless transactions and ensuring accurate settlement between banks.
+What did you implement for CEFTS? A report-generating API extracting over 1,000,000 transactions every three days using Java Spring Boot from an AS400 IBM database.
+How did you generate reports in CEFTS? Used a CSV writer library in Java to generate Excel files for the reports.
+Where did you store CEFTS report data? In a MongoDB database after extracting and processing the transactions.
+What testing did you do for CEFTS APIs? Implemented API testing using MockMVC.
+What was the Captive Portal project? A system where I built user authentication and authorization using Spring Security with JWT.
+What security features did you implement in Captive Portal? Role-based access control for different user roles with a fully-fledged security system.
+What frontend technologies did you use at NCINGA? Production-level exposure working with ReactJS and TypeScript.
+What was your role at Sri Lanka Telecom? Intern Software Engineer working on three different projects.
+What was the GIS Project at SLT? Telecommunications Infrastructure Management System using Google Maps API for optical fiber network visualization.
+What did you visualize in the GIS Project? Optical Distribution Frames (ODF), fiber cable ports, cable joins, and real-time network status.
+What features did you build for the GIS Project? Dynamic mapping, power loss tracking, and report generation for network resources.
+What was the UAE Embassy System? A user management system with full CRUD functionality for web and mobile users.
+What security features did you implement for the UAE Embassy System? Role-based access control, authentication, validation, and profile management.
+What was the CR, UAT, and Production Check System? A workflow management system where I built data tables with save actions, remarks, and selections.
+What features did you add to the workflow system? Report generation and activity logging for system traceability.
+What is your final year research project? An integrated dog training and monitoring system with smart collar integration specifically for deaf dogs.
+What technologies are you using for your final year project? Java, React, Python, C++, and IoT integration.
+What problem does your final year project solve? It helps owners of deaf dogs train and monitor their pets using non-auditory cues and IoT sensors.
+What was the Online Hardware Store? A fully fledged e-commerce application where staff and clients can perform all CRUD operations.
+What technologies did you use for the Online Hardware Store? HTML, CSS, Java, and MySQL.
+What was the Online Workers Hiring App? A job portal and mobile application for hiring online workers.
+What technologies did you use for the hiring app? Kotlin and Firebase.
+What was the Office Automation System? A web application for business process automation.
+What technologies did you use for the Office Automation System? HTML, CSS, PHP, and MS SQL.
+What was the Health and Fitness Tracker? An online web application for tracking health and fitness activities.
+What stack did you use for the Health and Fitness Tracker? MERN stack: MongoDB, Express, React, and Node.js.
+What was the Wall Frame Store? An e-commerce application with a unique feature called "frame harmony" for visualization.
+What stack did you use for the Wall Frame Store? HTML, CSS, MongoDB, Express, React, Node, and Python.
+What programming languages do you know? Java, JavaScript, TypeScript, PHP, Python, C++, and Kotlin.
+What frameworks are you proficient in? ReactJS, Spring Boot, Node.js, Express, Angular, Laravel, Django, Tailwind CSS, and Bootstrap.
+What databases have you worked with? MySQL, MongoDB, MS SQL, and Firebase.
+What cloud and DevOps tools do you know? AWS, Docker, Kubernetes, and AppDynamics.
+What version control tools do you use? Git and GitHub.
+What API concepts are you familiar with? REST APIs, microservices, and Postman testing.
+What development tools do you use? VS Code, IntelliJ IDEA, Draw.io, Lucidchart, Figma, and Linux commands.
+What AWS certifications do you have? AWS Cloud Practitioner Essentials and AWS Academy Graduate - Cloud Foundations.
+What Postman certification do you have? Postman API Fundamentals Student Expert.
+What AppDynamics certifications do you have? Black Belt - AppDynamics Presales Stage 1 & 2 from Cisco.
+What MongoDB certification do you have? Introduction to MongoDB Course.
+What societies were you a member of? Science Society, Buddhist Society, and Astronomical Society at Trinity College.
+Did you play any sports? Yes, I played for the college baseball team.
+What did you learn from being in the Astronomical Society? Curiosity about space and collaborative learning with peers.
+How does playing baseball relate to your work ethic? It taught me teamwork, discipline, and performing under pressure.
+What type of problems do you enjoy solving? Complex problems that require elegant, scalable solutions using modern technologies.
+How do you approach learning new technologies? Through hands-on projects, certifications, and continuous practice.
+What is your greatest strength? I am self-driven, creative, and able to overcome challenges under stressful conditions.
+What are you looking for in your next role? An opportunity to grow as a software engineer working with scalable microservices and modern web technologies.
+Why should someone hire you? I have proven experience delivering production-level solutions, a strong technical skillset, and the ability to work independently and in teams.
+Where did you complete your school education? Trinity College, Kandy, from 2006 to 2020.
+When did you complete your GCE Advanced Level? In 2020.
+What was your GCE Advanced Level admission number? 3318084.
+What medium did you study for A/L? Sinhala medium.
+What subjects did you take for GCE Advanced Level? General English, Chemistry, Combined Mathematics, and Physics.
+What was your General English result at A/L? B.
+What was your Chemistry result at A/L? S.
+What was your Combined Mathematics result at A/L? S.
+What was your Physics result at A/L? C.
+When did you complete your GCE Ordinary Level? In 2017.
+What was your GCE Ordinary Level admission number? 62303872.
+What medium did you study for O/L? Sinhala medium.
+What was your English result at O/L? A.
+What was your Mathematics result at O/L? A.
+What was your Sinhala result at O/L? A.
+What was your Dancing result at O/L? C.
+What was your History result at O/L? A.
+What was your Buddhism result at O/L? A.
+What was your Health and Science Education result at O/L? A.
+What was your Science result at O/L? S.
+What was your Business and Accounts result at O/L? C.
+How many A grades did you achieve at O/L? Six A grades: English, Mathematics, Sinhala, History, Buddhism, and Health and Science Education.
+Which subject was your strongest at O/L? English, Mathematics, Sinhala, History, Buddhism, and Health and Science Education all with A grades.
+How did your O/L results prepare you for A/L? They built a strong foundation in core subjects like Mathematics and English.
+What was your best A/L subject? Physics with a C, followed by General English with a B.
+Why did you choose the Mathematics stream for A/L? I have a strong interest in analytical subjects and problem-solving.
+How does your A/L Mathematics background help in IT? Combined Mathematics develops logical thinking and problem-solving skills essential for programming.
+What did you learn from studying Chemistry and Physics? Analytical thinking and systematic problem-solving approaches.
+How did your General English result help your IT career? A B grade shows strong English proficiency, which is essential for technical documentation and communication.
+How long did you study at Trinity College? 14 years, from 2006 to 2020.
+What extracurricular activities did you do at Trinity College? Member of Science Society, Buddhist Society, and Astronomical Society, plus college baseball.
+Did you participate in any cultural activities? Yes, I studied Dancing at O/L and was involved in the Buddhist Society.
+Why did you transition from Mathematics stream to IT? I wanted to combine my analytical skills with modern technology to build real-world solutions.
+How did your O/L results influence your career path? Strong grades in English and Mathematics gave me confidence to pursue a technical degree.
+What skills from Trinity College help you in IT? Discipline, teamwork from baseball, and analytical thinking from mathematics.
+How does your Buddhist Society membership help your career? It taught me mindfulness, patience, and respect for others.
+How does your Astronomical Society membership relate to IT? It developed curiosity and systematic observation skills.
+What did you learn from the Science Society? Collaboration and exploration of scientific concepts.
+How do you balance academics and extracurricular activities? Time management and prioritization, skills developed through 14 years at Trinity College.
+How do you overcome academic challenges? I stay persistent, seek help when needed, and focus on continuous improvement.
+What would you do differently academically? I would focus more on Combined Mathematics and Chemistry during A/L to improve those grades.
+How does your education background make you unique? A strong foundation in mathematics, sciences, and humanities gives me a well-rounded perspective.
+What does your education journey say about you? I am persistent, well-rounded, and committed to continuous learning.
+What does "excellent in fostering relationships" mean to you? Building strong, trusting connections with colleagues and stakeholders through open communication and collaboration.
+How do you demonstrate that you are a fast learner? I quickly pick up new technologies through hands-on projects, like learning Spring Security and JWT during my internship to implement a full security system.
+What makes you reliable and pleasant? I consistently meet my commitments and maintain a positive, approachable attitude that makes teamwork smooth.
+How do you ensure punctuality in meeting deadlines? I stay highly organized by breaking tasks into smaller milestones and prioritizing effectively.
+What makes you a good team player? I collaborate openly, share knowledge, and support teammates to achieve the highest level of results together.
+How do you adapt quickly to new situations? I remain calm under pressure and assess new environments or challenges with a solution-oriented mindset.
+What drives your passion to deliver the best? I take pride in my work and believe that every task deserves the highest quality I can provide.
+How do you approach rational decision making? I gather relevant facts, evaluate options objectively, and consider the impact before making a choice.
+Can you give an example of quick adaptability? When assigned to the CEFTS project with AS400 database, I quickly learned how to efficiently query and integrate it with Spring Boot.
+How do your personal skills benefit an employer? They get a reliable, adaptable team player who learns fast, meets deadlines, and consistently delivers high-quality work.
+What can I ask this chatbot? You can ask about my skills, projects, experience, education, and technical knowledge.
+What is this chatbot for? It is designed to answer questions about my professional profile and experience.
+Who created this chatbot? I developed this chatbot using my knowledge of AI, backend systems, and structured datasets.
+What technologies power this chatbot? It is powered using a custom Q&A dataset with backend processing and frontend integration.
+Can I trust the chatbot answers? Yes, the responses are based on my verified CV and project experience.
+Does this chatbot use AI? Yes, it uses structured AI logic and dataset-driven responses.
+Why did you build this chatbot? To provide an interactive way for recruiters to learn about me.
+What makes this chatbot unique? It is tailored specifically to answer professional questions about my skills and experience.
+Can this chatbot answer technical questions? Yes, it can answer both technical and general questions.
+What is dependency inversion principle? High-level modules should not depend on low-level modules; both should depend on abstractions.
+What is SOLID principle? A set of five design principles for writing maintainable and scalable software.
+What is loose coupling? Reducing dependencies between components so they can function independently.
+What is high cohesion? Keeping related functionality within a single module or class.
+What is a design pattern? A reusable solution to common software design problems.
+What is Singleton pattern? A design pattern that restricts a class to one instance.
+What is Factory pattern? A pattern used to create objects without specifying the exact class.
+What is MVC architecture? Model-View-Controller separates application logic, UI, and control flow.
+What is REST constraint? Stateless communication, client-server architecture, and uniform interface.
+What is stateless API? Each request contains all necessary information without relying on previous requests.
+What is Spring Boot? A framework for building Java-based web applications quickly.
+What is Spring Security? A framework for authentication and authorization.
+What is @RestController? A Spring annotation used to create RESTful web services.
+What is @Autowired? Used for dependency injection in Spring.
+What is application properties? Configuration file for Spring Boot applications.
+What is exception handling in Spring Boot? Managing errors using @ControllerAdvice and @ExceptionHandler.
+What is JPA? Java Persistence API for database interaction.
+What is Hibernate? ORM framework used with JPA.
+What is lazy loading? Loading data only when needed.
+What is eager loading? Loading data immediately.
+What is normalization? Process of organizing data to reduce redundancy.
+What is denormalization? Adding redundancy for performance optimization.
+What is a primary key? Unique identifier for a record.
+What is a foreign key? A field linking two tables.
+What is query optimization? Improving query performance.
+What is indexing in MongoDB? Improving search speed using indexes.
+What is aggregation in MongoDB? Processing data records to return computed results.
+What is ACID property? Atomicity, Consistency, Isolation, Durability.
+What is transaction management? Ensuring data consistency in operations.
+What is sharding? Splitting data across multiple servers.
+What is ReactJS? A JavaScript library for building user interfaces.
+What is a component in React? A reusable UI element.
+What is state in React? Data managed within a component.
+What is props in React? Data passed between components.
+What is useEffect? A hook for handling side effects.
+What is useState? A hook for managing state.
+What is virtual DOM? A lightweight representation of the real DOM.
+What is JSX? JavaScript syntax extension used in React.
+What is conditional rendering? Rendering UI based on conditions.
+What is event handling in React? Handling user interactions like clicks.
+What is API gateway? A server that manages API requests.
+What is rate limiting? Controlling the number of API requests.
+What is API authentication? Verifying user identity for API access.
+What is OAuth? Authorization framework for secure access.
+What is JSON? Data format used in APIs.
+What is XML? Markup language for structured data.
+What is API versioning? Managing changes in APIs.
+What is error handling in APIs? Returning meaningful error responses.
+What is HTTP status code 200? Success response.
+What is HTTP status code 404? Resource not found.
+What is CI/CD? Continuous Integration and Continuous Deployment.
+What is AWS EC2? Virtual server in the cloud.
+What is AWS S3? Storage service.
+What is containerization? Packaging applications with dependencies.
+What is Docker image? A template for containers.
+What is Docker container? Running instance of an image.
+What is Kubernetes pod? Smallest deployable unit in Kubernetes.
+What is scaling? Increasing system capacity.
+What is load balancing? Distributing traffic across servers.
+What is monitoring? Tracking system performance.
+How do you handle tight deadlines? I prioritize tasks and focus on efficient execution.
+How do you deal with failure? I analyze mistakes and improve for the future.
+How do you handle criticism? I take it positively and use it to improve.
+How do you work under pressure? I stay calm and focused on solutions.
+How do you manage time? By prioritizing tasks and setting deadlines.
+How do you learn new tools quickly? Through hands-on practice and research.
+How do you solve bugs? By debugging systematically and testing solutions.
+How do you communicate in a team? Clearly and regularly.
+How do you handle conflicts? By discussing and finding mutual solutions.
+How do you stay motivated? By setting goals and achieving them.
+How did you handle large data in CEFTS? By optimizing queries and processing efficiently.
+How did you ensure accuracy in reports? By validating data before generating reports.
+What challenges did you face in CEFTS? Handling large datasets and ensuring performance.
+How did you solve performance issues? By optimizing database queries and processing logic.
+How did you design microservices? By separating functionalities into independent services.
+How did you handle authentication? Using JWT and Spring Security.
+How did you test APIs? Using MockMVC and Postman.
+How did you manage frontend-backend communication? Using REST APIs.
+What was the biggest challenge in your internship? Handling real-world production data.
+What did you learn from internships? Industry practices and teamwork.
+Why should we hire you? I bring strong technical skills and real-world experience.
+What makes you different? My ability to learn fast and adapt quickly.
+What is your weakness? I sometimes focus too much on details, but I manage it with deadlines.
+Where do you see yourself in 5 years? A senior software engineer specializing in backend systems.
+Why did you leave your internship? It was a fixed-term internship.
+Are you comfortable working in a team? Yes, I enjoy collaboration.
+Can you work independently? Yes, I can manage tasks effectively on my own.
+What type of company do you prefer? A company that values growth and innovation.
+Are you open to learning new technologies? Yes, always.
+What is your expected salary? Open to discussion based on role and responsibilities.
+Where can I see your projects? On my portfolio and GitHub profile.
+Do you have live demos? Yes, some projects are deployed.
+What is your strongest project? The CEFTS system and my final year research project.
+What project are you most proud of? My dog monitoring system for deaf dogs.
+Do you work on personal projects? Yes, I continuously build and improve projects.
+How often do you update your portfolio? Regularly with new projects and skills.
+Do you contribute to open source? I am open to contributing.
+What technologies do you prefer? Java Spring Boot and React.
+Do you like frontend or backend more? Backend development.
+Are you full-stack? Yes, with stronger backend expertise.
+Are you a leader? I can take leadership when required.
+Are you adaptable? Yes, I adapt quickly to new environments.
+Are you detail-oriented? Yes, I pay attention to details.
+Are you creative? Yes, I enjoy solving problems creatively.
+Are you organized? Yes, I manage tasks effectively.
+Are you punctual? Yes, I meet deadlines consistently.
+Do you take initiative? Yes, I proactively solve problems.
+Do you accept feedback? Yes, I use it to improve.
+Do you enjoy teamwork? Yes, I value collaboration.
+Do you handle multitasking? Yes, with proper prioritization.
+Who are you? I am Nilusha Wijerathne, an IT graduate specializing in software engineering and modern web technologies.
+Can you introduce yourself? I am a self-driven software engineer with experience in backend and full-stack development.
+Tell me about yourself briefly. I am an IT graduate with internship experience in real-world systems and scalable applications.
+Give me a quick intro about you. I am a passionate developer focused on building efficient and scalable software solutions.
+What kind of developer are you? I am primarily a backend-focused full-stack developer.
+How would you describe yourself professionally? I am a responsible and ambitious software engineer with strong technical skills.
+What do you do? I develop web applications and backend systems using modern technologies.
+What is your profession? I am a software engineer.
+What is your specialization? I specialize in Information Technology and backend development.
+What is your main expertise? Backend systems, APIs, and microservices.
+How can I contact you? You can contact me via phone or email listed in my portfolio.
+What is your email? nilushawijerathne1@gmail.com
+What is your phone number? +94 77 257 6120
+Where can I find your LinkedIn? On my portfolio page under LinkedIn section.
+Where is your GitHub? Available on my portfolio.
+Are you available for hire? Yes, I am open to opportunities.
+Are you open for internships? Yes, I am open to internships and entry-level roles.
+Are you currently working? I recently completed my internship and am open for new roles.
+Can I hire you? Yes, I am available for hiring opportunities.
+Are you open to remote work? Yes, I am open to remote and hybrid roles.
+What can I find in your portfolio? My projects, skills, experience, and contact information.
+What is included in your portfolio? My work experience, technical skills, and project details.
+How do I explore your projects? You can browse them in the projects section.
+Where are your projects listed? In the portfolio projects section.
+Do you have a portfolio website? Yes, it is available online.
+What does your portfolio showcase? My skills, projects, and experience.
+Can I see your work? Yes, through my portfolio and GitHub.
+Do you have live demos? Yes, some projects include live demos.
+Is your portfolio updated? Yes, it is regularly updated.
+What is the purpose of your portfolio? To showcase my skills and experience to recruiters.
+What projects have you done? I have completed multiple web and software development projects.
+Can you list your projects? I have worked on e-commerce, AI, and full-stack applications.
+Tell me about your work. I have developed systems including IoT, web apps, and APIs.
+What kind of projects do you build? Web applications, backend systems, and AI-based solutions.
+Do you have experience in real-world projects? Yes, through internships and academic work.
+What is your best project? My final year research project and CEFTS system.
+Which project are you most proud of? My smart dog monitoring system.
+Do you build full-stack apps? Yes, I build both frontend and backend systems.
+Do you have experience in IoT? Yes, through my research project.
+What technologies did you use in projects? Java, React, Node.js, Python, and more.
+What is the CEFTS system? A real-time interbank fund transfer system.
+Explain your CEFTS work. I developed APIs for processing and reporting transactions.
+What did you do in CEFTS? Built report generation APIs and handled large datasets.
+How big was the CEFTS data? Over 1 million transactions every three days.
+What tech did you use in CEFTS? Java, Spring Boot, MongoDB, AS400.
+Did you work with large-scale systems? Yes, in CEFTS.
+What challenges did you face in CEFTS? Handling large data efficiently.
+How did you ensure performance in CEFTS? Optimized queries and processing.
+What database was used in CEFTS? AS400 and MongoDB.
+Did you test CEFTS APIs? Yes, using MockMVC.
+What is your research project? A smart dog monitoring system for deaf dogs.
+Explain your final year project. It uses IoT and AI for dog training and health monitoring.
+What problem does your project solve? Helps deaf dogs communicate and be trained.
+What technologies are used? Java, Python, React, C++, IoT.
+Is your project AI-based? Yes, it includes AI features.
+Does your project use IoT? Yes, smart collar integration.
+Who benefits from your project? Dog owners, especially those with deaf dogs.
+Is your project unique? Yes, it targets a specific niche problem.
+What features does your project include? Monitoring, training, and communication insights.
+Is your project deployed? It is in development/research stage.
+What are your skills? Programming, backend development, APIs, and cloud tools.
+What technologies do you know? Java, React, Node.js, Python, etc.
+What languages do you code in? Java, JavaScript, PHP, Python.
+Are you good at backend? Yes, backend is my strength.
+Do you know frontend? Yes, ReactJS and UI frameworks.
+Are you full-stack? Yes, with stronger backend focus.
+Do you know databases? Yes, MySQL and MongoDB.
+Do you use Git? Yes, for version control.
+Do you know cloud computing? Yes, AWS basics.
+Do you use Docker? Yes, for containerization.
+Do you have work experience? Yes, through internships.
+Where did you intern? NCINGA and Sri Lanka Telecom.
+What did you do at NCINGA? Backend development and API implementation.
+What did you do at SLT? Worked on multiple software systems.
+Do you have real industry experience? Yes, internship-based.
+What type of systems have you worked on? Banking, telecom, and web systems.
+Have you worked in teams? Yes, in both internships.
+Did you work on production systems? Yes.
+Do you have client project experience? Yes, through internships.
+What did you learn from industry? Best practices and teamwork.
+Why should I hire you? I bring strong skills and real-world experience.
+What makes you unique? My adaptability and problem-solving ability.
+Are you a fast learner? Yes, I quickly learn new technologies.
+Do you work under pressure? Yes, effectively.
+Are you reliable? Yes, I consistently deliver results.
+Do you meet deadlines? Yes, always.
+Do you take responsibility? Yes, fully.
+Are you self-motivated? Yes, highly.
+Do you need supervision? Minimal supervision required.
+Are you goal-oriented? Yes.
+What can you tell me about Nilusha? He is a software engineer with strong backend skills.
+Who is the developer of this portfolio? Nilusha Wijerathne.
+Can you describe Nilusha’s skills? Backend, APIs, and full-stack development.
+What does Nilusha specialize in? Backend and microservices.
+What is Nilusha good at? Building scalable systems.
+What is Nilusha’s experience? Internship experience in real-world systems.
+What are Nilusha’s strengths? Problem-solving and adaptability.
+What technologies does Nilusha use? Java, React, Node.js, etc.
+Is Nilusha experienced? Yes, with internship and project experience.
+Why choose Nilusha? Strong skills and practical experience.
+Hey, what do you do? I am a software engineer.
+Hi, tell me about you. I am an IT graduate with development experience.
+What’s your background? IT and software engineering.
+What can you build? Web apps, APIs, and backend systems.
+Are you experienced? Yes, through internships and projects.
+Can you code? Yes, in multiple languages.
+What are you good at? Backend development.
+What do you enjoy? Solving technical problems.
+What do you work on? Software systems and applications.
+What’s your goal? To grow as a software engineer.
+What kind of questions can I ask here? You can ask about my skills, experience, projects, education, and technical knowledge.
+What does this chatbot help with? It helps you learn about my professional background and technical expertise.
+What information can I get from this chatbot? You can get information about my career, projects, and skills.
+What topics does this chatbot cover? It covers my professional experience, projects, and technical abilities.
+Can this chatbot explain your experience? Yes, it can provide details about my work experience and internships.
+Can I ask about your projects here? Yes, you can ask about any of my projects.
+Can this chatbot describe your skills? Yes, it can explain my technical and soft skills.
+Does this chatbot know your CV? Yes, it is trained using my CV and professional data.
+Can I learn about your education here? Yes, it can provide details about my academic background.
+Is this chatbot only about you? Yes, it is specifically designed to answer questions about me.
+What is the purpose of this chatbot? It is designed to provide an interactive way to explore my portfolio.
+Why should I use this chatbot? It helps you quickly find information about my skills and experience.
+What makes this chatbot useful? It provides instant answers about my professional profile.
+How does this chatbot improve your portfolio? It makes my portfolio interactive and user-friendly.
+Is this chatbot part of your portfolio? Yes, it is integrated into my portfolio website.
+What problem does this chatbot solve? It allows recruiters to quickly access relevant information about me.
+Why did you add a chatbot to your portfolio? To enhance user experience and engagement.
+What is the goal of this chatbot? To present my profile in an interactive and modern way.
+How does this chatbot benefit recruiters? It helps them quickly understand my qualifications.
+Is this chatbot meant for employers? Yes, primarily for recruiters and hiring managers.
+How does this chatbot work? It processes questions and matches them with relevant answers from a dataset.
+What technology is behind this chatbot? It uses a structured dataset and backend processing logic.
+Is this chatbot rule-based or AI-based? It combines structured logic with AI-based matching techniques.
+Does this chatbot use machine learning? Yes, it can use ML-based similarity matching.
+How are answers generated? Answers are retrieved from a trained dataset based on user queries.
+Is this chatbot connected to a database? Yes, it can use a backend database for storing responses.
+Does this chatbot use NLP? Yes, it uses natural language processing techniques.
+Can this chatbot understand different questions? Yes, it supports multiple variations of questions.
+How accurate is this chatbot? It is designed to provide accurate answers based on my data.
+Does this chatbot improve over time? Yes, by adding more data and training.
+Can I ask complex questions? Yes, it can handle both simple and complex questions.
+Can this chatbot answer technical questions? Yes, including programming and development topics.
+Can this chatbot answer personal questions? It focuses mainly on professional-related questions.
+Can I ask about your experience here? Yes, it provides detailed answers about my experience.
+Can I ask about your skills here? Yes, it can list and explain my skills.
+Can I ask about your certifications? Yes, it includes information about my certifications.
+Can I ask about your internships? Yes, it can describe my internship experience.
+Can I ask about your projects in detail? Yes, it can explain each project.
+Can I ask about your achievements? Yes, it can highlight my achievements.
+Can I ask about your career goals? Yes, it can describe my future goals.
+Who should use this chatbot? Recruiters, hiring managers, and anyone interested in my profile.
+Is this chatbot useful for hiring decisions? Yes, it provides quick insights into my qualifications.
+Can employers rely on this chatbot? Yes, it is based on verified professional data.
+Is this chatbot suitable for technical evaluation? Yes, it can answer technical questions.
+Can this chatbot replace reading your CV? It complements my CV by providing interactive answers.
+Is this chatbot better than a resume? It enhances the resume experience interactively.
+Does this chatbot provide real-time answers? Yes, it responds instantly.
+Is this chatbot easy to use? Yes, it is designed to be simple and user-friendly.
+Do I need instructions to use this chatbot? No, just ask questions naturally.
+Can non-technical users use this chatbot? Yes, it is designed for all users.
+Is this chatbot custom-built? Yes, it is developed specifically for my portfolio.
+Did you build this chatbot yourself? Yes, I developed it using my technical skills.
+What inspired you to build this chatbot? To create a modern and interactive portfolio.
+Is this chatbot part of your projects? Yes, it is one of my featured implementations.
+Does this chatbot demonstrate your skills? Yes, it showcases my development and AI skills.
+What skills does this chatbot highlight? Backend, frontend, AI, and API integration skills.
+Is this chatbot a real-world application? Yes, similar chatbots are used in industries.
+Can this chatbot be extended further? Yes, it can be improved with more features.
+Can this chatbot be integrated into other systems? Yes, it can be integrated into various platforms.
+Is this chatbot scalable? Yes, it can be scaled with better infrastructure.
+Can this chatbot be improved? Yes, by adding more training data and features.
+What features can be added to this chatbot? Voice input, better AI, and analytics.
+Can this chatbot support multiple languages? Yes, with additional implementation.
+Can this chatbot learn automatically? It can be improved with machine learning models.
+Is this chatbot production-ready? It is a strong prototype with real-world potential.
+Can this chatbot handle multiple users? Yes, with proper backend scaling.
+Is this chatbot secure? Yes, with proper backend security implementation.
+Can this chatbot store conversations? Yes, if integrated with a database.
+Does this chatbot log queries? It can log queries for improvement.
+Can this chatbot analyze user behavior? Yes, with analytics integration.
+Is this chatbot mobile-friendly? Yes, it works on both desktop and mobile devices.
+Can I use this chatbot anytime? Yes, it is available 24/7.
+Does this chatbot require login? No, it is accessible without authentication.
+Is this chatbot fast? Yes, it provides quick responses.
+Does this chatbot have UI design considerations? Yes, it follows modern UI/UX principles.
+Is this chatbot interactive? Yes, it allows real-time interaction.
+Can I test your chatbot freely? Yes, you can interact with it anytime.
+Does this chatbot support continuous conversation? Yes, depending on implementation.
+Is this chatbot responsive? Yes, it adapts to different screen sizes.
+Can this chatbot guide users? Yes, it helps users explore my portfolio.
+What makes your chatbot different? It is personalized specifically for my professional profile.
+How is your chatbot better than others? It provides accurate, tailored responses.
+Is this chatbot unique? Yes, it is customized for my portfolio.
+Does this chatbot show your creativity? Yes, it reflects innovation and technical ability.
+Why is this chatbot impressive? It combines AI, development, and UX design.
+What value does this chatbot add? It improves user engagement and accessibility.
+Is this chatbot innovative? Yes, it adds a modern touch to portfolios.
+Does this chatbot reflect your skills? Yes, it demonstrates real-world implementation.
+Can this chatbot impress recruiters? Yes, it creates a strong first impression.
+Is this chatbot a good portfolio feature? Yes, it is a standout feature.
+What is polymorphism in Java? It allows objects to take multiple forms using method overloading and overriding.
+What is encapsulation? Wrapping data and methods into a single unit while restricting access.
+What is inheritance? A mechanism where one class acquires properties of another class.
+What is abstraction? Hiding implementation details and showing only essential features.
+What is method overloading? Defining multiple methods with the same name but different parameters.
+What is method overriding? Redefining a method in a subclass.
+What is an interface? A contract that defines abstract methods.
+What is an abstract class? A class that cannot be instantiated and may contain abstract methods.
+What is the difference between interface and abstract class? Interfaces are fully abstract while abstract classes can have implemented methods.
+What is the final keyword? Used to restrict modification of classes, methods, or variables.
+What would you do if a NullPointerException occurs? Check for null values and add proper validations.
+How do you debug Java code? Use logs, breakpoints, and debugging tools.
+What if your application crashes randomly? Analyze logs and identify root causes.
+How do you handle memory leaks? Optimize object usage and use garbage collection properly.
+What if a method runs too slow? Optimize logic and reduce unnecessary operations.
+What is Spring Boot Auto Configuration? Automatically configures beans based on dependencies.
+What is @ComponentScan? Scans for components in a package.
+What is @Bean? Defines a bean in Spring context.
+What is Spring Boot Actuator? Provides monitoring and management endpoints.
+What is a filter in Spring Boot? Used to process requests and responses.
+What if your API returns 500 error? Check logs and validate backend logic.
+How do you secure an API? Use JWT and Spring Security.
+What if authentication fails? Validate token and credentials.
+How do you handle exceptions globally? Use @ControllerAdvice.
+What if your API is slow? Optimize queries and use caching.
+What is indexing? Improving query performance using data structures.
+What is normalization vs denormalization? Normalization reduces redundancy, denormalization improves performance.
+What is a composite key? A key made of multiple columns.
+What is a stored procedure? Predefined SQL queries stored in the database.
+What is a trigger? Automatically executed SQL code on events.
+What if a query is slow? Add indexes and optimize queries.
+What if database connection fails? Check credentials and server status.
+How do you handle large datasets? Use pagination and indexing.
+What if duplicate data appears? Enforce constraints and validation.
+How do you ensure data consistency? Use transactions.
+What is a document in MongoDB? A JSON-like data structure.
+What is a collection? A group of documents.
+What is aggregation pipeline? Used for data processing.
+What is $match? Filters documents.
+What is $group? Groups data for aggregation.
+What if MongoDB query is slow? Use indexes.
+How do you handle large collections? Use sharding.
+What if data is inconsistent? Validate schema.
+How do you optimize queries? Use projection.
+What if duplicate documents exist? Use unique indexes.
+What is React lifecycle? Phases of component rendering.
+What is useEffect dependency array? Controls when effect runs.
+What is memoization? Optimizing performance by caching results.
+What is React Router? Used for navigation.
+What is Redux? State management library.
+What if UI is slow? Optimize rendering and use memoization.
+What if state is not updating? Check state logic and hooks.
+How do you debug React? Use console logs and dev tools.
+What if API data is not loading? Check API calls.
+How do you manage forms? Controlled components.
+What is idempotency? Same request produces same result.
+What is rate limiting? Restricting API requests.
+What is API throttling? Controlling request rate.
+What is webhook? Event-driven API communication.
+What is serialization? Converting objects into JSON.
+What if API fails? Handle errors and retry.
+What if API response is incorrect? Validate backend logic.
+How do you secure APIs? Use authentication tokens.
+What if API latency is high? Optimize backend and caching.
+How do you test APIs? Use Postman.
+What is cloud computing? Delivering services over internet.
+What is AWS EC2? Virtual machine service.
+What is AWS S3? Storage service.
+What is CI/CD pipeline? Automating build and deployment.
+What is container orchestration? Managing containers.
+What if deployment fails? Check logs and configs.
+How do you rollback? Use previous stable version.
+What if server crashes? Restart and analyze logs.
+How do you monitor apps? Use AppDynamics.
+What if traffic spikes? Scale servers.
+What is XSS? Cross-site scripting attack.
+What is CSRF? Cross-site request forgery.
+What is encryption? Securing data using algorithms.
+What is hashing? One-way data conversion.
+What is SSL/TLS? Secure communication protocol.
+What if a user hacks your system? Analyze logs and patch vulnerabilities.
+How do you prevent SQL injection? Use prepared statements.
+How do you secure passwords? Hash and salt them.
+What if token is stolen? Invalidate and reissue.
+How do you handle unauthorized access? Implement role-based access.
+How do I interact with this bot? Just type your question and get instant answers.
+How can I use this chatbot effectively? Ask clear questions about my skills or experience.
+Is there a limit to questions? No, you can ask unlimited questions.
+Can I ask follow-up questions? Yes, you can continue asking related questions.
+Does this chatbot understand simple words? Yes, it can handle simple queries.
+Can I ask incomplete questions? Yes, it will try to understand and respond.
+What if I misspell words? It may still match similar questions.
+Can I ask in different formats? Yes, it supports different question styles.
+Can I test random queries? Yes, but it works best with relevant questions.
+Is this chatbot interactive? Yes, it provides real-time interaction.
+How smart is this chatbot? It is designed to answer based on trained data and similarity matching.
+Does this chatbot think like a human? It simulates human-like responses using data.
+Is this chatbot intelligent? Yes, within the scope of its dataset.
+Can this chatbot understand context? To some extent, based on input similarity.
+Does this chatbot remember previous questions? It depends on implementation.
+Can this chatbot handle complex queries? Yes, if they match trained patterns.
+How does it choose answers? By comparing input with trained questions.
+Does it learn automatically? It improves when new data is added.
+Can it improve accuracy? Yes, by adding more variations.
+Does it support NLP? Yes, it uses basic NLP techniques.
+What backend supports this chatbot? A backend system processes and matches queries.
+Is this chatbot API-based? Yes, it can use APIs for communication.
+How is data stored? In structured datasets or databases.
+Does this chatbot use JSON? Yes, for structured data handling.
+Is there a training dataset? Yes, built from my CV and Q&A.
+How do you update answers? By updating the dataset.
+Is this chatbot scalable? Yes, with proper backend support.
+Can it handle concurrent users? Yes, with proper scaling.
+What algorithm is used? Similarity matching like TF-IDF or cosine similarity.
+Does it use embeddings? It can be extended to use embeddings.
+What should I look at first? Start with the projects section.
+What is the highlight of your portfolio? My projects and chatbot feature.
+What is the most important section? Projects and experience.
+What makes your site interesting? Interactive chatbot and real projects.
+Is your portfolio beginner-friendly? Yes, it is easy to navigate.
+Can I understand your skills quickly? Yes, through chatbot and sections.
+Is everything explained clearly? Yes, with structured information.
+Does your portfolio show real work? Yes, real projects and experience.
+Is this portfolio professional? Yes, designed for recruiters.
+Does this portfolio reflect your personality? Yes, it reflects my approach and skills.
+What can I evaluate here? Skills, experience, and project quality.
+Does this portfolio show real experience? Yes, including internships.
+Can I assess your coding ability? Yes, through projects and GitHub.
+Does this show industry readiness? Yes, through practical work.
+Is your experience relevant? Yes, aligned with software engineering roles.
+Can I see your technical depth? Yes, through project details.
+Does this portfolio show problem-solving? Yes, through real-world projects.
+Can I trust your experience? Yes, based on real implementations.
+Is your work production-level? Some projects include production exposure.
+Does your portfolio show growth? Yes, through continuous learning.
+What kind of applications have you built? Web apps, APIs, and AI-based systems.
+Do you have AI projects? Yes, including chatbot and dog monitoring system.
+Have you built backend systems? Yes, using Java Spring Boot.
+Have you worked on microservices? Yes, in CEFTS project.
+Do you have frontend projects? Yes, using ReactJS.
+Do you have mobile projects? Yes, using Kotlin and Firebase.
+Do you build full systems? Yes, full-stack applications.
+Have you worked with databases? Yes, SQL and NoSQL.
+Do your projects solve real problems? Yes, real-world use cases.
+Are your projects complex? Yes, involving multiple technologies.
+Is your chatbot optimized? Yes, for fast responses.
+How fast is your chatbot? It responds instantly.
+Does it handle large datasets? Yes, depending on backend.
+Is your portfolio optimized? Yes, for speed and usability.
+Does your chatbot slow down? No, optimized for performance.
+How do you improve performance? Optimize logic and queries.
+Is your code efficient? Yes, written with performance in mind.
+Do you test performance? Yes, during development.
+Can performance be improved? Yes, continuously.
+Is scalability considered? Yes, in design.
+Is your chatbot secure? Yes, with proper backend handling.
+Does your portfolio follow security practices? Yes.
+Can data be misused? No sensitive data is exposed.
+Do you validate inputs? Yes, to prevent errors.
+Is your backend protected? Yes, with secure logic.
+Do you handle errors safely? Yes, with error handling.
+Is your system reliable? Yes, designed for stability.
+Can your chatbot crash? It is designed to handle errors gracefully.
+Do you log errors? It can log errors for improvement.
+Is your code safe? Yes, following best practices.
+who? Nilusha Wijerathne, software engineer.
+what? Software engineer portfolio.
+skills list? Java, React, Node, Python.
+projects list? Multiple full-stack and AI projects.
+experience details? Internship experience.
+education details? IT degree from SLIIT.
+contact info? Email and phone available.
+hire? Yes, available for hire.
+location? Sri Lanka.
+availability? Open for opportunities.
+hey what’s this site? It’s my personal portfolio website.
+yo what u do? I build software applications.
+what can u show? My projects and skills.
+u legit? Yes, all info is real.
+u built this bot? Yes, I developed it.
+this site yours? Yes, it’s my portfolio.
+u available? Yes, open for work.
+u got experience? Yes, internships and projects.
+what u specialize in? Backend systems.
+What if I ask unrelated questions? It may not respond accurately.
+Can I trick this chatbot? It tries to handle queries logically.
+Does it support slang? It can handle some casual language.
+What if I type incomplete words? It may still match similar queries.
+Does it understand synonyms? Yes, to some extent.
+Can it handle spelling mistakes? Sometimes, depending on similarity.
+Does it support multi-language? Currently focused on English.
+Can it be trained further? Yes, easily extendable.
+Is this chatbot rule-based? It uses structured logic with AI enhancements.
+Can it be improved with ML? Yes, significantly.
+Should I hire you? Yes, I bring strong technical and practical skills.
+Are you worth considering? Yes, based on skills and experience.
+Do you fit a developer role? Yes, especially backend roles.
+Can you handle real-world tasks? Yes, through internship experience.
+What is the Java memory model? It defines how threads interact through memory and ensures visibility and ordering.
+What is multithreading? Running multiple threads concurrently within a program.
+What is synchronization? Controlling thread access to shared resources.
+What is a deadlock? A situation where threads wait indefinitely for each other.
+What is a race condition? When multiple threads access shared data causing inconsistent results.
+What is volatile keyword? Ensures visibility of changes across threads.
+What is thread pool? A collection of reusable threads.
+What is ExecutorService? A framework to manage thread execution.
+What is Callable vs Runnable? Callable returns a result, Runnable does not.
+How do you handle deadlocks? Avoid circular dependencies and use timeout mechanisms.
+What if multiple threads update the same variable? Use synchronization or locks.
+How do you improve multithreading performance? Use thread pools and avoid excessive locking.
+What if memory usage is high? Optimize object creation and use profiling tools.
+How do you debug concurrency issues? Use logs and thread dump analysis.
+What is Spring Boot Starter? Predefined dependency sets.
+What is Spring Bean lifecycle? Initialization → usage → destruction.
+What is @Transactional? Ensures atomic database operations.
+What is AOP? Aspect-Oriented Programming for cross-cutting concerns.
+What is interceptor? Pre/post processing of requests.
+What is DTO? Data Transfer Object for transferring data between layers.
+What is service layer? Contains business logic.
+What is repository layer? Handles database operations.
+What is controller layer? Handles HTTP requests.
+What is dependency injection? Injecting dependencies automatically.
+What if a transaction fails midway? Rollback using @Transactional.
+How do you handle API versioning? Use URI versioning or headers.
+What if multiple services depend on each other? Use loose coupling and interfaces.
+How do you secure microservices? Use JWT and API Gateway.
+What if service crashes? Use retries and fallback mechanisms.
+What is a join? Combining data from multiple tables.
+What is an inner join? Returns matching rows only.
+What is left join? Returns all left table rows.
+What is right join? Returns all right table rows.
+What is full join? Returns all rows from both tables.
+What is a subquery? Query inside another query.
+What is indexing? Improves query performance.
+What is clustering index? Defines physical data order.
+What is non-clustered index? Separate structure pointing to data.
+What is query execution plan? Shows how database executes queries.
+What if query is very slow? Add indexes and optimize joins.
+What if duplicate records appear? Use constraints and validation.
+How do you handle large tables? Partitioning and indexing.
+What if database crashes? Restore from backup.
+How do you prevent data loss? Use transactions and backups.
+What is BSON? Binary JSON format used by MongoDB.
+What is replica set? Provides redundancy and high availability.
+What is sharding? Distributes data across servers.
+What is capped collection? Fixed-size collection.
+What is document embedding? Storing related data in one document.
+What is referencing? Linking documents via IDs.
+What is indexing in MongoDB? Improves search speed.
+What is aggregation framework? Processes data pipelines.
+What is schema design? Structuring data efficiently.
+What is TTL index? Automatically deletes expired data.
+What if data grows rapidly? Use sharding.
+How do you ensure high availability? Use replica sets.
+What if query performance drops? Optimize indexes.
+How do you model relationships? Embedding or referencing.
+What if data duplication occurs? Normalize structure.
+What is reconciliation? Updating DOM efficiently.
+What is key prop? Identifies list elements uniquely.
+What is lazy loading? Loading components on demand.
+What is code splitting? Splitting code into smaller chunks.
+What is context API? Global state management.
+What is hooks? Functions for managing state and lifecycle.
+What is useMemo? Memoizes computed values.
+What is useCallback? Memoizes functions.
+What is controlled component? Form controlled by React state.
+What is uncontrolled component? Form handled by DOM.
+What if component re-renders too often? Use memoization.
+How do you optimize React performance? Use lazy loading and memo.
+What if state is lost? Manage state properly.
+How do you debug UI bugs? Use React DevTools.
+What if API fails in React? Handle errors and fallback UI.
+What is REST? Architectural style for APIs.
+What is GraphQL? Query language for APIs.
+What is idempotent method? Same result for repeated calls.
+What is stateless API? No session stored on server.
+What is caching in APIs? Storing responses to reduce load.
+What is pagination? Splitting data into pages.
+What is filtering? Selecting specific data.
+What is rate limiting? Limiting API usage.
+What is API gateway? Centralized API management.
+What is service discovery? Locating services dynamically.
+What if API returns wrong data? Validate logic and DB queries.
+What if API is slow? Optimize backend and caching.
+How do you secure APIs? Use authentication tokens.
+What if API fails frequently? Add retries and logging.
+How do you handle large responses? Use pagination.
+What is virtualization? Running multiple systems on one machine.
+What is containerization? Packaging apps with dependencies.
+What is Dockerfile? Script to build Docker images.
+What is Kubernetes? Container orchestration tool.
+What is pod? Smallest unit in Kubernetes.
+What is deployment? Running applications in environment.
+What is scaling? Increasing capacity.
+What is CI/CD? Automating build and deployment.
+What is monitoring? Tracking system health.
+What is logging? Recording system activity.
+What if deployment fails? Check logs and configs.
+How do you scale apps? Use load balancing.
+What if server crashes? Restart and debug logs.
+How do you ensure uptime? Use monitoring tools.
+What if traffic spikes? Auto-scale servers.
+What is authentication? Verifying identity.
+What is authorization? Granting access.
+What is hashing? One-way encryption.
+What is salting? Adding randomness to hashes.
+What is encryption? Securing data.
+What is JWT? Token-based authentication.
+What is OAuth? Authorization protocol.
+What is SSL/TLS? Secure communication.
+What is XSS? Script injection attack.
+What is SQL injection? Malicious SQL execution.
+What if user data is leaked? Patch vulnerability and notify users.
+How do you prevent hacking? Use secure coding practices.
+What if password is weak? Enforce strong password rules.
+How do you secure APIs? Use tokens and validation.
+What if unauthorized access occurs? Restrict access and log events.
+What is microservices architecture? Independent services.
+What is monolithic architecture? Single unified system.
+What is scalability? Handling growth.
+What is fault tolerance? System survives failures.
+What is load balancing? Distributing traffic.
+What is caching? Storing frequently used data.
+What is CDN? Content delivery network.
+What is database replication? Copying data across servers.
+What is eventual consistency? Data consistency over time.
+What is horizontal scaling? Adding more machines.
+How would you design a large-scale system? Use microservices and scaling.
+How do you design a chat system? Use real-time messaging and APIs.
+What if system fails? Use redundancy.
+How do you handle millions of users? Scale infrastructure.
+What if latency is high? Use caching and CDN.
+How does this chatbot work? It works by matching your question with a trained dataset and returning the most relevant answer.
+How does your chatbot function? The chatbot processes user input and finds the closest matching response from a structured dataset.
+How is this chatbot implemented? It is implemented using a frontend interface and a backend system that matches queries to answers.
+What is the working mechanism of this chatbot? It uses similarity matching techniques to compare user questions with stored data and return the best match.
+Can you explain how this chatbot works? It analyzes your input and retrieves the most relevant answer from its trained dataset.
+What happens when I ask a question? Your question is processed and compared with stored questions to find the closest answer.
+How does the chatbot generate responses? Responses are selected from a dataset based on similarity between your input and stored questions.
+Is this chatbot rule-based? It uses structured logic combined with similarity matching techniques.
+Does this chatbot use AI? Yes, it uses basic AI concepts like natural language processing and similarity matching.
+How does it understand my question? It compares your input text with known patterns in its dataset.
+What algorithm does this chatbot use? It can use TF-IDF with cosine similarity to match questions and answers.
+Does this chatbot use machine learning? It can incorporate machine learning techniques for better accuracy.
+How does similarity matching work here? It calculates how similar your question is to stored questions and selects the closest one.
+What is TF-IDF in this chatbot? It is a method used to convert text into numerical vectors for comparison.
+What is cosine similarity? It measures how similar two text vectors are to find the best match.
+Does the chatbot learn automatically? It improves when more data is added to its dataset.
+Can this chatbot be trained further? Yes, by adding more questions and answers.
+How do you improve chatbot accuracy? By increasing dataset size and adding paraphrased questions.
+Does it support NLP? Yes, it uses basic natural language processing techniques.
+Can it understand different phrasings? Yes, if similar variations are included in the dataset.
+Is there a backend behind this chatbot? Yes, a backend processes queries and returns responses.
+Does this chatbot use APIs? Yes, it can communicate through APIs between frontend and backend.
+Where are the answers stored? Answers are stored in a structured dataset or database.
+Is this chatbot connected to a database? Yes, it can use databases like MongoDB.
+Does it process data in real time? Yes, it processes user queries instantly.
+How fast is the response time? Responses are generated almost instantly.
+Does this chatbot handle multiple users? Yes, with proper backend scaling.
+Is the chatbot scalable? Yes, it can be scaled using cloud infrastructure.
+Can this chatbot be deployed online? Yes, it can be deployed as a web application.
+Does it require internet? Yes, for real-time interaction.
+What happens if the chatbot doesn’t find an answer? It may return a default response indicating no match was found.
+Why does the chatbot sometimes give wrong answers? Because it depends on similarity matching and dataset quality.
+How can you fix incorrect answers? By improving dataset quality and adding more variations.
+What if I ask a new question? It will try to match it with the closest known question.
+Does it understand context? Limited context understanding based on input similarity.
+Can it handle long questions? Yes, if the key terms match stored data.
+Can it handle short queries? Yes, including single-word queries.
+Does it support typo handling? Partially, depending on similarity matching.
+Can it be improved with AI models? Yes, by integrating advanced NLP or deep learning models.
+What technologies are used in this chatbot? It uses frontend UI, backend logic, and a structured dataset.
+What programming languages are used? Typically Java, JavaScript, or Python.
+Does it use React? Yes, React can be used for frontend.
+Does it use Spring Boot? Yes, Spring Boot can be used for backend APIs.
+Does it use MongoDB? Yes, MongoDB can store chat data.
+Is this chatbot full-stack? Yes, it involves both frontend and backend development.
+Can this chatbot be integrated into apps? Yes, it can be integrated into web or mobile apps.
+Can this chatbot be reused? Yes, with modifications for other use cases.
+Is this chatbot production-ready? It is a strong prototype that can be enhanced for production.
+What is the difference between HashMap and ConcurrentHashMap? HashMap is not thread-safe while ConcurrentHashMap is thread-safe and supports concurrent access.
+What is the difference between String, StringBuilder, and StringBuffer? String is immutable, StringBuilder is mutable and not thread-safe, StringBuffer is mutable and thread-safe.
+What is immutability in Java? Objects whose state cannot be changed after creation.
+What is the difference between equals() and ==? equals() compares values, == compares memory references.
+What is garbage collection? Automatic memory management that removes unused objects.
+What is finalize() method? A method called before garbage collection, now deprecated.
+What is a thread? A lightweight process for executing tasks concurrently.
+What is thread pool? A pool of reusable threads to improve performance.
+What is ExecutorService? A framework for managing threads.
+What is deadlock? A situation where threads block each other permanently.
+What is Spring Boot auto-configuration? Automatically configures application based on dependencies.
+What is @ComponentScan? Scans for components in packages.
+What is @Bean? Defines a bean manually in Spring context.
+What is Spring Bean lifecycle? Creation, initialization, usage, destruction.
+What is AOP? Aspect-Oriented Programming for cross-cutting concerns.
+What is @Transactional? Ensures database operations are executed as a transaction.
+What is lazy initialization? Beans created only when needed.
+What is eager initialization? Beans created at startup.
+What is Spring profile? Used to define environment-specific configurations.
+What is configuration class? Class that defines beans and settings.
+What is idempotency in APIs? Same request produces same result every time.
+Which HTTP methods are idempotent? GET, PUT, DELETE.
+What is API throttling? Limiting number of API requests.
+What is pagination? Dividing results into pages.
+What is filtering in APIs? Returning specific data based on conditions.
+What is HATEOAS? Hypermedia-driven REST API design.
+What is API versioning? Managing changes without breaking clients.
+What is rate limiting? Restricting API usage per user.
+What is API gateway role? Centralized request routing and security.
+What is request validation? Ensuring correct data before processing.
+What is indexing strategy? Choosing indexes to optimize queries.
+What is composite index? Index on multiple columns.
+What is database sharding? Splitting database into smaller parts.
+What is replication? Copying data across servers.
+What is eventual consistency? Data becomes consistent over time.
+What is strong consistency? Immediate consistency after update.
+What is query optimization? Improving performance of queries.
+What is execution plan? Steps database takes to execute query.
+What is deadlock in DB? Two transactions blocking each other.
+What is connection pooling? Reusing database connections.
+What is MongoDB aggregation pipeline? Framework for processing data in stages.
+What is $match in MongoDB? Filters documents.
+What is $group? Groups data by fields.
+What is $lookup? Performs join operation.
+What is capped collection? Fixed-size collection.
+What is TTL index? Automatically deletes expired data.
+What is document embedding? Storing related data in one document.
+What is referencing? Linking documents using IDs.
+What is write concern? Level of acknowledgment for writes.
+What is read preference? Determines how data is read from replicas.
+What is React lifecycle? Phases of component rendering.
+What is useMemo? Optimizes performance by memoizing values.
+What is useCallback? Memoizes functions.
+What is context API? Shares state globally.
+What is Redux? State management library.
+What is prop drilling? Passing props through multiple layers.
+What is lazy loading? Loading components only when needed.
+What is code splitting? Splitting code for performance.
+What is reconciliation? React updating DOM efficiently.
+What is hooks rule? Hooks must be called at top level.
+What is Infrastructure as Code? Managing infrastructure using code.
+What is Dockerfile? Instructions to build Docker image.
+What is Kubernetes deployment? Managing application deployment.
+What is rolling update? Updating app without downtime.
+What is blue-green deployment? Two environments for safe deployment.
+What is CI pipeline? Automates build and testing.
+What is CD pipeline? Automates deployment.
+What is cloud scalability? Adjusting resources dynamically.
+What is fault tolerance? System continues despite failures.
+What is high availability? System uptime with minimal downtime.
+How do you design a scalable API? Use load balancing, caching, and microservices.
+How do you design a chat system? Use WebSockets and real-time messaging.
+How do you design a notification system? Use queues and event-driven architecture.
+How do you design a large database? Use sharding and replication.
+How do you reduce latency? Use caching and CDN.
+How do you handle millions of users? Use scaling and distributed systems.
+How do you design logging system? Centralized logging with monitoring tools.
+What is horizontal scaling? Adding more machines.
+What is vertical scaling? Increasing resources of a single machine.
+What is CDN? Content delivery network for fast content access.
+What is token-based authentication? Authentication using tokens instead of sessions.
+What is refresh token? Used to renew access tokens.
+What is session hijacking? Unauthorized access to session.
+What is encryption vs hashing? Encryption reversible, hashing not.
+What is salting? Adding random data before hashing.
+What is API security best practice? Use HTTPS and authentication.
+What is role-based access control? Access based on user roles.
+What is brute force attack? Trying many passwords.
+What is rate limiting security? Prevent abuse.
+What is firewall? Network security system.
+What is TDD? Test Driven Development.
+What is mocking? Simulating dependencies.
+What is test coverage? Percentage of code tested.
+What is integration testing? Testing combined modules.
+What is load testing? Testing system under heavy load.
+What is stress testing? Testing beyond limits.
+What is smoke testing? Basic functionality testing.
+What is test automation? Automated testing scripts.
+What is API mocking? Simulating API responses.
+What is CI testing? Running tests in CI pipeline.
+How do you fix a slow database query? Add indexes and optimize joins.
+How do you handle high traffic? Use load balancing and scaling.
+How do you debug production issues? Analyze logs and monitor systems.
+How do you handle API failure? Retry and fallback mechanisms.
+How do you prevent duplicate requests? Use idempotency keys.
+How do you manage sessions? Use tokens or session storage.
+How do you ensure system reliability? Use redundancy and monitoring.
+How do you design fault-tolerant systems? Use backup and failover.
+How do you handle memory leaks? Monitor and optimize memory usage.
+How do you improve application performance? Optimize code and caching.
+
+
+

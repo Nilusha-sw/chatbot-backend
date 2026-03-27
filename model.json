@@ -1,0 +1,8140 @@
+{
+  "qaPairs": [
+    {
+      "question": "What programming languages are you proficient in?",
+      "answer": "Java, JavaScript, PHP, and Python."
+    },
+    {
+      "question": "What databases have you worked with?",
+      "answer": "MySQL for SQL and MongoDB for NoSQL."
+    },
+    {
+      "question": "What frameworks do you use with Java?",
+      "answer": "Spring Boot for building microservices and RESTful APIs."
+    },
+    {
+      "question": "What frontend frameworks do you know?",
+      "answer": "ReactJS, along with Tailwind CSS and Bootstrap for styling."
+    },
+    {
+      "question": "What is a RESTful API?",
+      "answer": "It is an architectural style for building web services using HTTP requests to perform CRUD operations."
+    },
+    {
+      "question": "What is a microservices architecture?",
+      "answer": "It is an approach where an application is built as a collection of small, independently deployable services."
+    },
+    {
+      "question": "What is JWT and why did you use it?",
+      "answer": "JSON Web Token is used for secure authentication and authorization between parties, which I implemented using Spring Security."
+    },
+    {
+      "question": "What is MongoDB and when would you use it?",
+      "answer": "A NoSQL database used for storing unstructured or semi-structured data, which I used for storing CEFTS report data."
+    },
+    {
+      "question": "What is the difference between SQL and NoSQL?",
+      "answer": "SQL is relational and structured, while NoSQL is non-relational and flexible with data formats."
+    },
+    {
+      "question": "What version control tools do you use?",
+      "answer": "Git and GitHub for tracking changes and collaboration."
+    },
+    {
+      "question": "What was the CEFTS Reconciliation Application?",
+      "answer": "A system to ensure interbank transactions processed through CEFTS are accurately recorded and matched between banks."
+    },
+    {
+      "question": "How many transactions did you handle in the CEFTS project?",
+      "answer": "Over 1,000,000 transactions executed every three days."
+    },
+    {
+      "question": "What database did CEFTS use?",
+      "answer": "AS400 IBM database for transaction storage and MongoDB for report data."
+    },
+    {
+      "question": "How did you generate reports in the CEFTS project?",
+      "answer": "I used Java with Spring Boot and implemented CSV writer libraries to generate Excel files."
+    },
+    {
+      "question": "What testing framework did you use for APIs?",
+      "answer": "MockMVC for API testing."
+    },
+    {
+      "question": "What was the Captive Portal project?",
+      "answer": "A system where I implemented user authentication and authorization using Spring Security with JWT."
+    },
+    {
+      "question": "What did you do at Sri Lanka Telecom?",
+      "answer": "I worked on three projects: a GIS project using PHP/MySQL, a UAE Embassy system using Angular/Node.js, and a workflow system using React/Node.js."
+    },
+    {
+      "question": "What is your final year research project about?",
+      "answer": "An integrated dog training and monitoring system with smart collar integration specifically designed for deaf dogs."
+    },
+    {
+      "question": "What technologies are you using for your final year project?",
+      "answer": "Java, React, Python, C++, and IoT integration."
+    },
+    {
+      "question": "What was the Online Hardware Store project?",
+      "answer": "A fully fledged e-commerce application where staff and clients can perform all CRUD operations using HTML, CSS, Java, and MySQL."
+    },
+    {
+      "question": "What cloud platforms have you worked with?",
+      "answer": "AWS, with certifications in AWS Cloud Practitioner and AWS Academy Cloud Foundations."
+    },
+    {
+      "question": "What monitoring tools do you know?",
+      "answer": "AppDynamics, and I completed Black Belt Presales Stage 1 & 2 certifications from Cisco."
+    },
+    {
+      "question": "What API tools have you used?",
+      "answer": "Postman for API testing and I completed the Postman API Fundamentals Student Expert certification."
+    },
+    {
+      "question": "What is Docker?",
+      "answer": "A containerization platform used to package applications and dependencies for consistent deployment."
+    },
+    {
+      "question": "What is Kubernetes?",
+      "answer": "An orchestration tool for managing and scaling containerized applications."
+    },
+    {
+      "question": "What is Maven?",
+      "answer": "A build automation tool used primarily for Java projects to manage dependencies and builds."
+    },
+    {
+      "question": "What design tools have you used?",
+      "answer": "Figma, Lucidchart, and Draw.io for wireframing and system design."
+    },
+    {
+      "question": "What Linux commands are you familiar with?",
+      "answer": "Basic navigation, file management, and process monitoring commands."
+    },
+    {
+      "question": "Where are you studying?",
+      "answer": "Sri Lanka Institute of Information Technology (SLIIT), BSc (Hons) in Information Technology, graduating in 2026."
+    },
+    {
+      "question": "What did you study for GCE Advanced Level?",
+      "answer": "Mathematics stream at Trinity College Kandy."
+    },
+    {
+      "question": "What were your GCE Ordinary Level results?",
+      "answer": "Completed in 2017 at Trinity College Kandy."
+    },
+    {
+      "question": "What extracurricular activities were you involved in?",
+      "answer": "Member of the Science Society, Buddhist Society, and Astronomical Society at Trinity College."
+    },
+    {
+      "question": "Did you play any sports?",
+      "answer": "Yes, I played for the college baseball team."
+    },
+    {
+      "question": "How would you describe your personality?",
+      "answer": "Self-driven, creative, ambitious, and able to work under stressful conditions."
+    },
+    {
+      "question": "How do you handle stressful situations?",
+      "answer": "I remain calm, assess the challenge, and work systematically to overcome it."
+    },
+    {
+      "question": "Can you work in a team?",
+      "answer": "Yes, I am able to work with others to achieve the highest level required."
+    },
+    {
+      "question": "What is your approach to learning new technologies?",
+      "answer": "I use online courses, hands-on projects, and certifications to build practical skills."
+    },
+    {
+      "question": "What is the difference between authentication and authorization?",
+      "answer": "Authentication verifies identity, while authorization determines what resources a user can access."
+    },
+    {
+      "question": "What is an API?",
+      "answer": "Application Programming Interface that allows different software applications to communicate."
+    },
+    {
+      "question": "What is the difference between PUT and POST?",
+      "answer": "PUT updates an existing resource, while POST creates a new resource."
+    },
+    {
+      "question": "What is dependency injection?",
+      "answer": "A design pattern where objects receive their dependencies from an external source rather than creating them internally."
+    },
+    {
+      "question": "What is the purpose of the @SpringBootApplication annotation?",
+      "answer": "It combines @Configuration, @EnableAutoConfiguration, and @ComponentScan for Spring Boot applications."
+    },
+    {
+      "question": "What is the difference between MongoDB and MySQL in terms of schema?",
+      "answer": "MongoDB is schema-less, while MySQL requires a predefined schema."
+    },
+    {
+      "question": "What is the CAP theorem?",
+      "answer": "It states that distributed systems can only guarantee two of three: Consistency, Availability, and Partition Tolerance."
+    },
+    {
+      "question": "What is an index in a database?",
+      "answer": "A data structure that improves the speed of data retrieval operations."
+    },
+    {
+      "question": "What is the difference between inner join and left join?",
+      "answer": "Inner join returns only matching records, while left join returns all records from the left table and matching ones from the right."
+    },
+    {
+      "question": "What is the purpose of Git branching?",
+      "answer": "To allow developers to work on features independently without affecting the main codebase."
+    },
+    {
+      "question": "What is the difference between HTTP and HTTPS?",
+      "answer": "HTTPS is HTTP with SSL/TLS encryption for secure communication."
+    },
+    {
+      "question": "What is a JWT token structure?",
+      "answer": "It consists of three parts: Header, Payload, and Signature."
+    },
+    {
+      "question": "What is the use of Postman in API development?",
+      "answer": "To test, document, and debug RESTful APIs during development."
+    },
+    {
+      "question": "What is the difference between monolithic and microservices architecture?",
+      "answer": "Monolithic is a single unified application, while microservices consist of multiple independent services."
+    },
+    {
+      "question": "What is the purpose of Docker Compose?",
+      "answer": "To define and run multi-container Docker applications."
+    },
+    {
+      "question": "What is the difference between Agile and Waterfall?",
+      "answer": "Agile is iterative and flexible, while Waterfall is sequential and rigid."
+    },
+    {
+      "question": "What is the role of a software engineer in an internship?",
+      "answer": "To develop features, fix bugs, collaborate with teams, and learn industry best practices."
+    },
+    {
+      "question": "Why did you choose IT as a career?",
+      "answer": "I am creative and ambitious, and I enjoy solving complex problems with technology."
+    },
+    {
+      "question": "What are your future career goals?",
+      "answer": "To grow as a software engineer, specialize in backend systems and cloud technologies, and contribute to impactful projects."
+    },
+    {
+      "question": "What was the Frame Harmony feature in your Wall Frame Store project?",
+      "answer": "A unique feature I implemented that helps users visualize how frames will look in their space."
+    },
+    {
+      "question": "What is the purpose of the Job Portal mobile application?",
+      "answer": "To connect online workers with employers using Kotlin and Firebase."
+    },
+    {
+      "question": "What is the Office Automation System?",
+      "answer": "A web application for business process automation using HTML, CSS, PHP, and MS SQL."
+    },
+    {
+      "question": "What is the Health and Fitness tracking web application?",
+      "answer": "A MERN stack application for tracking fitness activities and health metrics."
+    },
+    {
+      "question": "Who is Nilusha Wijerathne?",
+      "answer": "An IT graduate from SLIIT with 1 year of experience as a software engineer specializing in modern web technologies and scalable microservices."
+    },
+    {
+      "question": "How would you describe yourself in one sentence?",
+      "answer": "A self-driven, creative, and ambitious individual who turns complex problems into elegant solutions."
+    },
+    {
+      "question": "How do you handle stressful conditions?",
+      "answer": "I remain calm, responsible, and leverage my knowledge to tackle challenges systematically."
+    },
+    {
+      "question": "What is your educational background?",
+      "answer": "BSc (Hons) in Information Technology from SLIIT (2021–2025), with GCE Advanced Level in Mathematics from Trinity College Kandy."
+    },
+    {
+      "question": "What is your contact information?",
+      "answer": "Phone: +94 77 257 6120, Email: nilushawijerathne1@gmail.com"
+    },
+    {
+      "question": "What was your role at NCINGA?",
+      "answer": "Intern Software Engineer working on the CEFTS Reconciliation Application and Captive Portal."
+    },
+    {
+      "question": "What is CEFTS?",
+      "answer": "A real-time interbank fund transfer system enabling paperless transactions and ensuring accurate settlement between banks."
+    },
+    {
+      "question": "What did you implement for CEFTS?",
+      "answer": "A report-generating API extracting over 1,000,000 transactions every three days using Java Spring Boot from an AS400 IBM database."
+    },
+    {
+      "question": "How did you generate reports in CEFTS?",
+      "answer": "Used a CSV writer library in Java to generate Excel files for the reports."
+    },
+    {
+      "question": "Where did you store CEFTS report data?",
+      "answer": "In a MongoDB database after extracting and processing the transactions."
+    },
+    {
+      "question": "What testing did you do for CEFTS APIs?",
+      "answer": "Implemented API testing using MockMVC."
+    },
+    {
+      "question": "What was the Captive Portal project?",
+      "answer": "A system where I built user authentication and authorization using Spring Security with JWT."
+    },
+    {
+      "question": "What security features did you implement in Captive Portal?",
+      "answer": "Role-based access control for different user roles with a fully-fledged security system."
+    },
+    {
+      "question": "What frontend technologies did you use at NCINGA?",
+      "answer": "Production-level exposure working with ReactJS and TypeScript."
+    },
+    {
+      "question": "What was your role at Sri Lanka Telecom?",
+      "answer": "Intern Software Engineer working on three different projects."
+    },
+    {
+      "question": "What was the GIS Project at SLT?",
+      "answer": "Telecommunications Infrastructure Management System using Google Maps API for optical fiber network visualization."
+    },
+    {
+      "question": "What did you visualize in the GIS Project?",
+      "answer": "Optical Distribution Frames (ODF), fiber cable ports, cable joins, and real-time network status."
+    },
+    {
+      "question": "What features did you build for the GIS Project?",
+      "answer": "Dynamic mapping, power loss tracking, and report generation for network resources."
+    },
+    {
+      "question": "What was the UAE Embassy System?",
+      "answer": "A user management system with full CRUD functionality for web and mobile users."
+    },
+    {
+      "question": "What security features did you implement for the UAE Embassy System?",
+      "answer": "Role-based access control, authentication, validation, and profile management."
+    },
+    {
+      "question": "What was the CR, UAT, and Production Check System?",
+      "answer": "A workflow management system where I built data tables with save actions, remarks, and selections."
+    },
+    {
+      "question": "What features did you add to the workflow system?",
+      "answer": "Report generation and activity logging for system traceability."
+    },
+    {
+      "question": "What is your final year research project?",
+      "answer": "An integrated dog training and monitoring system with smart collar integration specifically for deaf dogs."
+    },
+    {
+      "question": "What technologies are you using for your final year project?",
+      "answer": "Java, React, Python, C++, and IoT integration."
+    },
+    {
+      "question": "What problem does your final year project solve?",
+      "answer": "It helps owners of deaf dogs train and monitor their pets using non-auditory cues and IoT sensors."
+    },
+    {
+      "question": "What was the Online Hardware Store?",
+      "answer": "A fully fledged e-commerce application where staff and clients can perform all CRUD operations."
+    },
+    {
+      "question": "What technologies did you use for the Online Hardware Store?",
+      "answer": "HTML, CSS, Java, and MySQL."
+    },
+    {
+      "question": "What was the Online Workers Hiring App?",
+      "answer": "A job portal and mobile application for hiring online workers."
+    },
+    {
+      "question": "What technologies did you use for the hiring app?",
+      "answer": "Kotlin and Firebase."
+    },
+    {
+      "question": "What was the Office Automation System?",
+      "answer": "A web application for business process automation."
+    },
+    {
+      "question": "What technologies did you use for the Office Automation System?",
+      "answer": "HTML, CSS, PHP, and MS SQL."
+    },
+    {
+      "question": "What was the Health and Fitness Tracker?",
+      "answer": "An online web application for tracking health and fitness activities."
+    },
+    {
+      "question": "What stack did you use for the Health and Fitness Tracker?",
+      "answer": "MERN stack: MongoDB, Express, React, and Node.js."
+    },
+    {
+      "question": "What was the Wall Frame Store?",
+      "answer": "An e-commerce application with a unique feature called \"frame harmony\" for visualization."
+    },
+    {
+      "question": "What stack did you use for the Wall Frame Store?",
+      "answer": "HTML, CSS, MongoDB, Express, React, Node, and Python."
+    },
+    {
+      "question": "What programming languages do you know?",
+      "answer": "Java, JavaScript, TypeScript, PHP, Python, C++, and Kotlin."
+    },
+    {
+      "question": "What frameworks are you proficient in?",
+      "answer": "ReactJS, Spring Boot, Node.js, Express, Angular, Laravel, Django, Tailwind CSS, and Bootstrap."
+    },
+    {
+      "question": "What databases have you worked with?",
+      "answer": "MySQL, MongoDB, MS SQL, and Firebase."
+    },
+    {
+      "question": "What cloud and DevOps tools do you know?",
+      "answer": "AWS, Docker, Kubernetes, and AppDynamics."
+    },
+    {
+      "question": "What version control tools do you use?",
+      "answer": "Git and GitHub."
+    },
+    {
+      "question": "What API concepts are you familiar with?",
+      "answer": "REST APIs, microservices, and Postman testing."
+    },
+    {
+      "question": "What development tools do you use?",
+      "answer": "VS Code, IntelliJ IDEA, Draw.io, Lucidchart, Figma, and Linux commands."
+    },
+    {
+      "question": "What AWS certifications do you have?",
+      "answer": "AWS Cloud Practitioner Essentials and AWS Academy Graduate - Cloud Foundations."
+    },
+    {
+      "question": "What Postman certification do you have?",
+      "answer": "Postman API Fundamentals Student Expert."
+    },
+    {
+      "question": "What AppDynamics certifications do you have?",
+      "answer": "Black Belt - AppDynamics Presales Stage 1 & 2 from Cisco."
+    },
+    {
+      "question": "What MongoDB certification do you have?",
+      "answer": "Introduction to MongoDB Course."
+    },
+    {
+      "question": "What societies were you a member of?",
+      "answer": "Science Society, Buddhist Society, and Astronomical Society at Trinity College."
+    },
+    {
+      "question": "Did you play any sports?",
+      "answer": "Yes, I played for the college baseball team."
+    },
+    {
+      "question": "What did you learn from being in the Astronomical Society?",
+      "answer": "Curiosity about space and collaborative learning with peers."
+    },
+    {
+      "question": "How does playing baseball relate to your work ethic?",
+      "answer": "It taught me teamwork, discipline, and performing under pressure."
+    },
+    {
+      "question": "What type of problems do you enjoy solving?",
+      "answer": "Complex problems that require elegant, scalable solutions using modern technologies."
+    },
+    {
+      "question": "How do you approach learning new technologies?",
+      "answer": "Through hands-on projects, certifications, and continuous practice."
+    },
+    {
+      "question": "What is your greatest strength?",
+      "answer": "I am self-driven, creative, and able to overcome challenges under stressful conditions."
+    },
+    {
+      "question": "What are you looking for in your next role?",
+      "answer": "An opportunity to grow as a software engineer working with scalable microservices and modern web technologies."
+    },
+    {
+      "question": "Why should someone hire you?",
+      "answer": "I have proven experience delivering production-level solutions, a strong technical skillset, and the ability to work independently and in teams."
+    },
+    {
+      "question": "Where did you complete your school education?",
+      "answer": "Trinity College, Kandy, from 2006 to 2020."
+    },
+    {
+      "question": "When did you complete your GCE Advanced Level?",
+      "answer": "In 2020."
+    },
+    {
+      "question": "What was your GCE Advanced Level admission number?",
+      "answer": "3318084."
+    },
+    {
+      "question": "What medium did you study for A/L?",
+      "answer": "Sinhala medium."
+    },
+    {
+      "question": "What subjects did you take for GCE Advanced Level?",
+      "answer": "General English, Chemistry, Combined Mathematics, and Physics."
+    },
+    {
+      "question": "What was your General English result at A/L?",
+      "answer": "B."
+    },
+    {
+      "question": "What was your Chemistry result at A/L?",
+      "answer": "S."
+    },
+    {
+      "question": "What was your Combined Mathematics result at A/L?",
+      "answer": "S."
+    },
+    {
+      "question": "What was your Physics result at A/L?",
+      "answer": "C."
+    },
+    {
+      "question": "When did you complete your GCE Ordinary Level?",
+      "answer": "In 2017."
+    },
+    {
+      "question": "What was your GCE Ordinary Level admission number?",
+      "answer": "62303872."
+    },
+    {
+      "question": "What medium did you study for O/L?",
+      "answer": "Sinhala medium."
+    },
+    {
+      "question": "What was your English result at O/L?",
+      "answer": "A."
+    },
+    {
+      "question": "What was your Mathematics result at O/L?",
+      "answer": "A."
+    },
+    {
+      "question": "What was your Sinhala result at O/L?",
+      "answer": "A."
+    },
+    {
+      "question": "What was your Dancing result at O/L?",
+      "answer": "C."
+    },
+    {
+      "question": "What was your History result at O/L?",
+      "answer": "A."
+    },
+    {
+      "question": "What was your Buddhism result at O/L?",
+      "answer": "A."
+    },
+    {
+      "question": "What was your Health and Science Education result at O/L?",
+      "answer": "A."
+    },
+    {
+      "question": "What was your Science result at O/L?",
+      "answer": "S."
+    },
+    {
+      "question": "What was your Business and Accounts result at O/L?",
+      "answer": "C."
+    },
+    {
+      "question": "How many A grades did you achieve at O/L?",
+      "answer": "Six A grades: English, Mathematics, Sinhala, History, Buddhism, and Health and Science Education."
+    },
+    {
+      "question": "Which subject was your strongest at O/L?",
+      "answer": "English, Mathematics, Sinhala, History, Buddhism, and Health and Science Education all with A grades."
+    },
+    {
+      "question": "How did your O/L results prepare you for A/L?",
+      "answer": "They built a strong foundation in core subjects like Mathematics and English."
+    },
+    {
+      "question": "What was your best A/L subject?",
+      "answer": "Physics with a C, followed by General English with a B."
+    },
+    {
+      "question": "Why did you choose the Mathematics stream for A/L?",
+      "answer": "I have a strong interest in analytical subjects and problem-solving."
+    },
+    {
+      "question": "How does your A/L Mathematics background help in IT?",
+      "answer": "Combined Mathematics develops logical thinking and problem-solving skills essential for programming."
+    },
+    {
+      "question": "What did you learn from studying Chemistry and Physics?",
+      "answer": "Analytical thinking and systematic problem-solving approaches."
+    },
+    {
+      "question": "How did your General English result help your IT career?",
+      "answer": "A B grade shows strong English proficiency, which is essential for technical documentation and communication."
+    },
+    {
+      "question": "How long did you study at Trinity College?",
+      "answer": "14 years, from 2006 to 2020."
+    },
+    {
+      "question": "What extracurricular activities did you do at Trinity College?",
+      "answer": "Member of Science Society, Buddhist Society, and Astronomical Society, plus college baseball."
+    },
+    {
+      "question": "Did you participate in any cultural activities?",
+      "answer": "Yes, I studied Dancing at O/L and was involved in the Buddhist Society."
+    },
+    {
+      "question": "Why did you transition from Mathematics stream to IT?",
+      "answer": "I wanted to combine my analytical skills with modern technology to build real-world solutions."
+    },
+    {
+      "question": "How did your O/L results influence your career path?",
+      "answer": "Strong grades in English and Mathematics gave me confidence to pursue a technical degree."
+    },
+    {
+      "question": "What skills from Trinity College help you in IT?",
+      "answer": "Discipline, teamwork from baseball, and analytical thinking from mathematics."
+    },
+    {
+      "question": "How does your Buddhist Society membership help your career?",
+      "answer": "It taught me mindfulness, patience, and respect for others."
+    },
+    {
+      "question": "How does your Astronomical Society membership relate to IT?",
+      "answer": "It developed curiosity and systematic observation skills."
+    },
+    {
+      "question": "What did you learn from the Science Society?",
+      "answer": "Collaboration and exploration of scientific concepts."
+    },
+    {
+      "question": "How do you balance academics and extracurricular activities?",
+      "answer": "Time management and prioritization, skills developed through 14 years at Trinity College."
+    },
+    {
+      "question": "How do you overcome academic challenges?",
+      "answer": "I stay persistent, seek help when needed, and focus on continuous improvement."
+    },
+    {
+      "question": "What would you do differently academically?",
+      "answer": "I would focus more on Combined Mathematics and Chemistry during A/L to improve those grades."
+    },
+    {
+      "question": "How does your education background make you unique?",
+      "answer": "A strong foundation in mathematics, sciences, and humanities gives me a well-rounded perspective."
+    },
+    {
+      "question": "What does your education journey say about you?",
+      "answer": "I am persistent, well-rounded, and committed to continuous learning."
+    },
+    {
+      "question": "What does \"excellent in fostering relationships\" mean to you?",
+      "answer": "Building strong, trusting connections with colleagues and stakeholders through open communication and collaboration."
+    },
+    {
+      "question": "How do you demonstrate that you are a fast learner?",
+      "answer": "I quickly pick up new technologies through hands-on projects, like learning Spring Security and JWT during my internship to implement a full security system."
+    },
+    {
+      "question": "What makes you reliable and pleasant?",
+      "answer": "I consistently meet my commitments and maintain a positive, approachable attitude that makes teamwork smooth."
+    },
+    {
+      "question": "How do you ensure punctuality in meeting deadlines?",
+      "answer": "I stay highly organized by breaking tasks into smaller milestones and prioritizing effectively."
+    },
+    {
+      "question": "What makes you a good team player?",
+      "answer": "I collaborate openly, share knowledge, and support teammates to achieve the highest level of results together."
+    },
+    {
+      "question": "How do you adapt quickly to new situations?",
+      "answer": "I remain calm under pressure and assess new environments or challenges with a solution-oriented mindset."
+    },
+    {
+      "question": "What drives your passion to deliver the best?",
+      "answer": "I take pride in my work and believe that every task deserves the highest quality I can provide."
+    },
+    {
+      "question": "How do you approach rational decision making?",
+      "answer": "I gather relevant facts, evaluate options objectively, and consider the impact before making a choice."
+    },
+    {
+      "question": "Can you give an example of quick adaptability?",
+      "answer": "When assigned to the CEFTS project with AS400 database, I quickly learned how to efficiently query and integrate it with Spring Boot."
+    },
+    {
+      "question": "How do your personal skills benefit an employer?",
+      "answer": "They get a reliable, adaptable team player who learns fast, meets deadlines, and consistently delivers high-quality work."
+    },
+    {
+      "question": "What can I ask this chatbot?",
+      "answer": "You can ask about my skills, projects, experience, education, and technical knowledge."
+    },
+    {
+      "question": "What is this chatbot for?",
+      "answer": "It is designed to answer questions about my professional profile and experience."
+    },
+    {
+      "question": "Who created this chatbot?",
+      "answer": "I developed this chatbot using my knowledge of AI, backend systems, and structured datasets."
+    },
+    {
+      "question": "What technologies power this chatbot?",
+      "answer": "It is powered using a custom Q&A dataset with backend processing and frontend integration."
+    },
+    {
+      "question": "Can I trust the chatbot answers?",
+      "answer": "Yes, the responses are based on my verified CV and project experience."
+    },
+    {
+      "question": "Does this chatbot use AI?",
+      "answer": "Yes, it uses structured AI logic and dataset-driven responses."
+    },
+    {
+      "question": "Why did you build this chatbot?",
+      "answer": "To provide an interactive way for recruiters to learn about me."
+    },
+    {
+      "question": "What makes this chatbot unique?",
+      "answer": "It is tailored specifically to answer professional questions about my skills and experience."
+    },
+    {
+      "question": "Can this chatbot answer technical questions?",
+      "answer": "Yes, it can answer both technical and general questions."
+    },
+    {
+      "question": "What is dependency inversion principle?",
+      "answer": "High-level modules should not depend on low-level modules; both should depend on abstractions."
+    },
+    {
+      "question": "What is SOLID principle?",
+      "answer": "A set of five design principles for writing maintainable and scalable software."
+    },
+    {
+      "question": "What is loose coupling?",
+      "answer": "Reducing dependencies between components so they can function independently."
+    },
+    {
+      "question": "What is high cohesion?",
+      "answer": "Keeping related functionality within a single module or class."
+    },
+    {
+      "question": "What is a design pattern?",
+      "answer": "A reusable solution to common software design problems."
+    },
+    {
+      "question": "What is Singleton pattern?",
+      "answer": "A design pattern that restricts a class to one instance."
+    },
+    {
+      "question": "What is Factory pattern?",
+      "answer": "A pattern used to create objects without specifying the exact class."
+    },
+    {
+      "question": "What is MVC architecture?",
+      "answer": "Model-View-Controller separates application logic, UI, and control flow."
+    },
+    {
+      "question": "What is REST constraint?",
+      "answer": "Stateless communication, client-server architecture, and uniform interface."
+    },
+    {
+      "question": "What is stateless API?",
+      "answer": "Each request contains all necessary information without relying on previous requests."
+    },
+    {
+      "question": "What is Spring Boot?",
+      "answer": "A framework for building Java-based web applications quickly."
+    },
+    {
+      "question": "What is Spring Security?",
+      "answer": "A framework for authentication and authorization."
+    },
+    {
+      "question": "What is @RestController?",
+      "answer": "A Spring annotation used to create RESTful web services."
+    },
+    {
+      "question": "What is @Autowired?",
+      "answer": "Used for dependency injection in Spring."
+    },
+    {
+      "question": "What is application properties?",
+      "answer": "Configuration file for Spring Boot applications."
+    },
+    {
+      "question": "What is exception handling in Spring Boot?",
+      "answer": "Managing errors using @ControllerAdvice and @ExceptionHandler."
+    },
+    {
+      "question": "What is JPA?",
+      "answer": "Java Persistence API for database interaction."
+    },
+    {
+      "question": "What is Hibernate?",
+      "answer": "ORM framework used with JPA."
+    },
+    {
+      "question": "What is lazy loading?",
+      "answer": "Loading data only when needed."
+    },
+    {
+      "question": "What is eager loading?",
+      "answer": "Loading data immediately."
+    },
+    {
+      "question": "What is normalization?",
+      "answer": "Process of organizing data to reduce redundancy."
+    },
+    {
+      "question": "What is denormalization?",
+      "answer": "Adding redundancy for performance optimization."
+    },
+    {
+      "question": "What is a primary key?",
+      "answer": "Unique identifier for a record."
+    },
+    {
+      "question": "What is a foreign key?",
+      "answer": "A field linking two tables."
+    },
+    {
+      "question": "What is query optimization?",
+      "answer": "Improving query performance."
+    },
+    {
+      "question": "What is indexing in MongoDB?",
+      "answer": "Improving search speed using indexes."
+    },
+    {
+      "question": "What is aggregation in MongoDB?",
+      "answer": "Processing data records to return computed results."
+    },
+    {
+      "question": "What is ACID property?",
+      "answer": "Atomicity, Consistency, Isolation, Durability."
+    },
+    {
+      "question": "What is transaction management?",
+      "answer": "Ensuring data consistency in operations."
+    },
+    {
+      "question": "What is sharding?",
+      "answer": "Splitting data across multiple servers."
+    },
+    {
+      "question": "What is ReactJS?",
+      "answer": "A JavaScript library for building user interfaces."
+    },
+    {
+      "question": "What is a component in React?",
+      "answer": "A reusable UI element."
+    },
+    {
+      "question": "What is state in React?",
+      "answer": "Data managed within a component."
+    },
+    {
+      "question": "What is props in React?",
+      "answer": "Data passed between components."
+    },
+    {
+      "question": "What is useEffect?",
+      "answer": "A hook for handling side effects."
+    },
+    {
+      "question": "What is useState?",
+      "answer": "A hook for managing state."
+    },
+    {
+      "question": "What is virtual DOM?",
+      "answer": "A lightweight representation of the real DOM."
+    },
+    {
+      "question": "What is JSX?",
+      "answer": "JavaScript syntax extension used in React."
+    },
+    {
+      "question": "What is conditional rendering?",
+      "answer": "Rendering UI based on conditions."
+    },
+    {
+      "question": "What is event handling in React?",
+      "answer": "Handling user interactions like clicks."
+    },
+    {
+      "question": "What is API gateway?",
+      "answer": "A server that manages API requests."
+    },
+    {
+      "question": "What is rate limiting?",
+      "answer": "Controlling the number of API requests."
+    },
+    {
+      "question": "What is API authentication?",
+      "answer": "Verifying user identity for API access."
+    },
+    {
+      "question": "What is OAuth?",
+      "answer": "Authorization framework for secure access."
+    },
+    {
+      "question": "What is JSON?",
+      "answer": "Data format used in APIs."
+    },
+    {
+      "question": "What is XML?",
+      "answer": "Markup language for structured data."
+    },
+    {
+      "question": "What is API versioning?",
+      "answer": "Managing changes in APIs."
+    },
+    {
+      "question": "What is error handling in APIs?",
+      "answer": "Returning meaningful error responses."
+    },
+    {
+      "question": "What is HTTP status code 200?",
+      "answer": "Success response."
+    },
+    {
+      "question": "What is HTTP status code 404?",
+      "answer": "Resource not found."
+    },
+    {
+      "question": "What is CI/CD?",
+      "answer": "Continuous Integration and Continuous Deployment."
+    },
+    {
+      "question": "What is AWS EC2?",
+      "answer": "Virtual server in the cloud."
+    },
+    {
+      "question": "What is AWS S3?",
+      "answer": "Storage service."
+    },
+    {
+      "question": "What is containerization?",
+      "answer": "Packaging applications with dependencies."
+    },
+    {
+      "question": "What is Docker image?",
+      "answer": "A template for containers."
+    },
+    {
+      "question": "What is Docker container?",
+      "answer": "Running instance of an image."
+    },
+    {
+      "question": "What is Kubernetes pod?",
+      "answer": "Smallest deployable unit in Kubernetes."
+    },
+    {
+      "question": "What is scaling?",
+      "answer": "Increasing system capacity."
+    },
+    {
+      "question": "What is load balancing?",
+      "answer": "Distributing traffic across servers."
+    },
+    {
+      "question": "What is monitoring?",
+      "answer": "Tracking system performance."
+    },
+    {
+      "question": "How do you handle tight deadlines?",
+      "answer": "I prioritize tasks and focus on efficient execution."
+    },
+    {
+      "question": "How do you deal with failure?",
+      "answer": "I analyze mistakes and improve for the future."
+    },
+    {
+      "question": "How do you handle criticism?",
+      "answer": "I take it positively and use it to improve."
+    },
+    {
+      "question": "How do you work under pressure?",
+      "answer": "I stay calm and focused on solutions."
+    },
+    {
+      "question": "How do you manage time?",
+      "answer": "By prioritizing tasks and setting deadlines."
+    },
+    {
+      "question": "How do you learn new tools quickly?",
+      "answer": "Through hands-on practice and research."
+    },
+    {
+      "question": "How do you solve bugs?",
+      "answer": "By debugging systematically and testing solutions."
+    },
+    {
+      "question": "How do you communicate in a team?",
+      "answer": "Clearly and regularly."
+    },
+    {
+      "question": "How do you handle conflicts?",
+      "answer": "By discussing and finding mutual solutions."
+    },
+    {
+      "question": "How do you stay motivated?",
+      "answer": "By setting goals and achieving them."
+    },
+    {
+      "question": "How did you handle large data in CEFTS?",
+      "answer": "By optimizing queries and processing efficiently."
+    },
+    {
+      "question": "How did you ensure accuracy in reports?",
+      "answer": "By validating data before generating reports."
+    },
+    {
+      "question": "What challenges did you face in CEFTS?",
+      "answer": "Handling large datasets and ensuring performance."
+    },
+    {
+      "question": "How did you solve performance issues?",
+      "answer": "By optimizing database queries and processing logic."
+    },
+    {
+      "question": "How did you design microservices?",
+      "answer": "By separating functionalities into independent services."
+    },
+    {
+      "question": "How did you handle authentication?",
+      "answer": "Using JWT and Spring Security."
+    },
+    {
+      "question": "How did you test APIs?",
+      "answer": "Using MockMVC and Postman."
+    },
+    {
+      "question": "How did you manage frontend-backend communication?",
+      "answer": "Using REST APIs."
+    },
+    {
+      "question": "What was the biggest challenge in your internship?",
+      "answer": "Handling real-world production data."
+    },
+    {
+      "question": "What did you learn from internships?",
+      "answer": "Industry practices and teamwork."
+    },
+    {
+      "question": "Why should we hire you?",
+      "answer": "I bring strong technical skills and real-world experience."
+    },
+    {
+      "question": "What makes you different?",
+      "answer": "My ability to learn fast and adapt quickly."
+    },
+    {
+      "question": "What is your weakness?",
+      "answer": "I sometimes focus too much on details, but I manage it with deadlines."
+    },
+    {
+      "question": "Where do you see yourself in 5 years?",
+      "answer": "A senior software engineer specializing in backend systems."
+    },
+    {
+      "question": "Why did you leave your internship?",
+      "answer": "It was a fixed-term internship."
+    },
+    {
+      "question": "Are you comfortable working in a team?",
+      "answer": "Yes, I enjoy collaboration."
+    },
+    {
+      "question": "Can you work independently?",
+      "answer": "Yes, I can manage tasks effectively on my own."
+    },
+    {
+      "question": "What type of company do you prefer?",
+      "answer": "A company that values growth and innovation."
+    },
+    {
+      "question": "Are you open to learning new technologies?",
+      "answer": "Yes, always."
+    },
+    {
+      "question": "What is your expected salary?",
+      "answer": "Open to discussion based on role and responsibilities."
+    },
+    {
+      "question": "Where can I see your projects?",
+      "answer": "On my portfolio and GitHub profile."
+    },
+    {
+      "question": "Do you have live demos?",
+      "answer": "Yes, some projects are deployed."
+    },
+    {
+      "question": "What is your strongest project?",
+      "answer": "The CEFTS system and my final year research project."
+    },
+    {
+      "question": "What project are you most proud of?",
+      "answer": "My dog monitoring system for deaf dogs."
+    },
+    {
+      "question": "Do you work on personal projects?",
+      "answer": "Yes, I continuously build and improve projects."
+    },
+    {
+      "question": "How often do you update your portfolio?",
+      "answer": "Regularly with new projects and skills."
+    },
+    {
+      "question": "Do you contribute to open source?",
+      "answer": "I am open to contributing."
+    },
+    {
+      "question": "What technologies do you prefer?",
+      "answer": "Java Spring Boot and React."
+    },
+    {
+      "question": "Do you like frontend or backend more?",
+      "answer": "Backend development."
+    },
+    {
+      "question": "Are you full-stack?",
+      "answer": "Yes, with stronger backend expertise."
+    },
+    {
+      "question": "Are you a leader?",
+      "answer": "I can take leadership when required."
+    },
+    {
+      "question": "Are you adaptable?",
+      "answer": "Yes, I adapt quickly to new environments."
+    },
+    {
+      "question": "Are you detail-oriented?",
+      "answer": "Yes, I pay attention to details."
+    },
+    {
+      "question": "Are you creative?",
+      "answer": "Yes, I enjoy solving problems creatively."
+    },
+    {
+      "question": "Are you organized?",
+      "answer": "Yes, I manage tasks effectively."
+    },
+    {
+      "question": "Are you punctual?",
+      "answer": "Yes, I meet deadlines consistently."
+    },
+    {
+      "question": "Do you take initiative?",
+      "answer": "Yes, I proactively solve problems."
+    },
+    {
+      "question": "Do you accept feedback?",
+      "answer": "Yes, I use it to improve."
+    },
+    {
+      "question": "Do you enjoy teamwork?",
+      "answer": "Yes, I value collaboration."
+    },
+    {
+      "question": "Do you handle multitasking?",
+      "answer": "Yes, with proper prioritization."
+    },
+    {
+      "question": "Who are you?",
+      "answer": "I am Nilusha Wijerathne, an IT graduate specializing in software engineering and modern web technologies."
+    },
+    {
+      "question": "Can you introduce yourself?",
+      "answer": "I am a self-driven software engineer with experience in backend and full-stack development."
+    },
+    {
+      "question": "What kind of developer are you?",
+      "answer": "I am primarily a backend-focused full-stack developer."
+    },
+    {
+      "question": "How would you describe yourself professionally?",
+      "answer": "I am a responsible and ambitious software engineer with strong technical skills."
+    },
+    {
+      "question": "What do you do?",
+      "answer": "I develop web applications and backend systems using modern technologies."
+    },
+    {
+      "question": "What is your profession?",
+      "answer": "I am a software engineer."
+    },
+    {
+      "question": "What is your specialization?",
+      "answer": "I specialize in Information Technology and backend development."
+    },
+    {
+      "question": "What is your main expertise?",
+      "answer": "Backend systems, APIs, and microservices."
+    },
+    {
+      "question": "How can I contact you?",
+      "answer": "You can contact me via phone or email listed in my portfolio."
+    },
+    {
+      "question": "What is your email?",
+      "answer": "nilushawijerathne1@gmail.com"
+    },
+    {
+      "question": "What is your phone number?",
+      "answer": "+94 77 257 6120"
+    },
+    {
+      "question": "Where can I find your LinkedIn?",
+      "answer": "On my portfolio page under LinkedIn section."
+    },
+    {
+      "question": "Where is your GitHub?",
+      "answer": "Available on my portfolio."
+    },
+    {
+      "question": "Are you available for hire?",
+      "answer": "Yes, I am open to opportunities."
+    },
+    {
+      "question": "Are you open for internships?",
+      "answer": "Yes, I am open to internships and entry-level roles."
+    },
+    {
+      "question": "Are you currently working?",
+      "answer": "I recently completed my internship and am open for new roles."
+    },
+    {
+      "question": "Can I hire you?",
+      "answer": "Yes, I am available for hiring opportunities."
+    },
+    {
+      "question": "Are you open to remote work?",
+      "answer": "Yes, I am open to remote and hybrid roles."
+    },
+    {
+      "question": "What can I find in your portfolio?",
+      "answer": "My projects, skills, experience, and contact information."
+    },
+    {
+      "question": "What is included in your portfolio?",
+      "answer": "My work experience, technical skills, and project details."
+    },
+    {
+      "question": "How do I explore your projects?",
+      "answer": "You can browse them in the projects section."
+    },
+    {
+      "question": "Where are your projects listed?",
+      "answer": "In the portfolio projects section."
+    },
+    {
+      "question": "Do you have a portfolio website?",
+      "answer": "Yes, it is available online."
+    },
+    {
+      "question": "What does your portfolio showcase?",
+      "answer": "My skills, projects, and experience."
+    },
+    {
+      "question": "Can I see your work?",
+      "answer": "Yes, through my portfolio and GitHub."
+    },
+    {
+      "question": "Do you have live demos?",
+      "answer": "Yes, some projects include live demos."
+    },
+    {
+      "question": "Is your portfolio updated?",
+      "answer": "Yes, it is regularly updated."
+    },
+    {
+      "question": "What is the purpose of your portfolio?",
+      "answer": "To showcase my skills and experience to recruiters."
+    },
+    {
+      "question": "What projects have you done?",
+      "answer": "I have completed multiple web and software development projects."
+    },
+    {
+      "question": "Can you list your projects?",
+      "answer": "I have worked on e-commerce, AI, and full-stack applications."
+    },
+    {
+      "question": "What kind of projects do you build?",
+      "answer": "Web applications, backend systems, and AI-based solutions."
+    },
+    {
+      "question": "Do you have experience in real-world projects?",
+      "answer": "Yes, through internships and academic work."
+    },
+    {
+      "question": "What is your best project?",
+      "answer": "My final year research project and CEFTS system."
+    },
+    {
+      "question": "Which project are you most proud of?",
+      "answer": "My smart dog monitoring system."
+    },
+    {
+      "question": "Do you build full-stack apps?",
+      "answer": "Yes, I build both frontend and backend systems."
+    },
+    {
+      "question": "Do you have experience in IoT?",
+      "answer": "Yes, through my research project."
+    },
+    {
+      "question": "What technologies did you use in projects?",
+      "answer": "Java, React, Node.js, Python, and more."
+    },
+    {
+      "question": "What is the CEFTS system?",
+      "answer": "A real-time interbank fund transfer system."
+    },
+    {
+      "question": "What did you do in CEFTS?",
+      "answer": "Built report generation APIs and handled large datasets."
+    },
+    {
+      "question": "How big was the CEFTS data?",
+      "answer": "Over 1 million transactions every three days."
+    },
+    {
+      "question": "What tech did you use in CEFTS?",
+      "answer": "Java, Spring Boot, MongoDB, AS400."
+    },
+    {
+      "question": "Did you work with large-scale systems?",
+      "answer": "Yes, in CEFTS."
+    },
+    {
+      "question": "What challenges did you face in CEFTS?",
+      "answer": "Handling large data efficiently."
+    },
+    {
+      "question": "How did you ensure performance in CEFTS?",
+      "answer": "Optimized queries and processing."
+    },
+    {
+      "question": "What database was used in CEFTS?",
+      "answer": "AS400 and MongoDB."
+    },
+    {
+      "question": "Did you test CEFTS APIs?",
+      "answer": "Yes, using MockMVC."
+    },
+    {
+      "question": "What is your research project?",
+      "answer": "A smart dog monitoring system for deaf dogs."
+    },
+    {
+      "question": "What problem does your project solve?",
+      "answer": "Helps deaf dogs communicate and be trained."
+    },
+    {
+      "question": "What technologies are used?",
+      "answer": "Java, Python, React, C++, IoT."
+    },
+    {
+      "question": "Is your project AI-based?",
+      "answer": "Yes, it includes AI features."
+    },
+    {
+      "question": "Does your project use IoT?",
+      "answer": "Yes, smart collar integration."
+    },
+    {
+      "question": "Who benefits from your project?",
+      "answer": "Dog owners, especially those with deaf dogs."
+    },
+    {
+      "question": "Is your project unique?",
+      "answer": "Yes, it targets a specific niche problem."
+    },
+    {
+      "question": "What features does your project include?",
+      "answer": "Monitoring, training, and communication insights."
+    },
+    {
+      "question": "Is your project deployed?",
+      "answer": "It is in development/research stage."
+    },
+    {
+      "question": "What are your skills?",
+      "answer": "Programming, backend development, APIs, and cloud tools."
+    },
+    {
+      "question": "What technologies do you know?",
+      "answer": "Java, React, Node.js, Python, etc."
+    },
+    {
+      "question": "What languages do you code in?",
+      "answer": "Java, JavaScript, PHP, Python."
+    },
+    {
+      "question": "Are you good at backend?",
+      "answer": "Yes, backend is my strength."
+    },
+    {
+      "question": "Do you know frontend?",
+      "answer": "Yes, ReactJS and UI frameworks."
+    },
+    {
+      "question": "Are you full-stack?",
+      "answer": "Yes, with stronger backend focus."
+    },
+    {
+      "question": "Do you know databases?",
+      "answer": "Yes, MySQL and MongoDB."
+    },
+    {
+      "question": "Do you use Git?",
+      "answer": "Yes, for version control."
+    },
+    {
+      "question": "Do you know cloud computing?",
+      "answer": "Yes, AWS basics."
+    },
+    {
+      "question": "Do you use Docker?",
+      "answer": "Yes, for containerization."
+    },
+    {
+      "question": "Do you have work experience?",
+      "answer": "Yes, through internships."
+    },
+    {
+      "question": "Where did you intern?",
+      "answer": "NCINGA and Sri Lanka Telecom."
+    },
+    {
+      "question": "What did you do at NCINGA?",
+      "answer": "Backend development and API implementation."
+    },
+    {
+      "question": "What did you do at SLT?",
+      "answer": "Worked on multiple software systems."
+    },
+    {
+      "question": "Do you have real industry experience?",
+      "answer": "Yes, internship-based."
+    },
+    {
+      "question": "What type of systems have you worked on?",
+      "answer": "Banking, telecom, and web systems."
+    },
+    {
+      "question": "Have you worked in teams?",
+      "answer": "Yes, in both internships."
+    },
+    {
+      "question": "Did you work on production systems?",
+      "answer": "Yes."
+    },
+    {
+      "question": "Do you have client project experience?",
+      "answer": "Yes, through internships."
+    },
+    {
+      "question": "What did you learn from industry?",
+      "answer": "Best practices and teamwork."
+    },
+    {
+      "question": "Why should I hire you?",
+      "answer": "I bring strong skills and real-world experience."
+    },
+    {
+      "question": "What makes you unique?",
+      "answer": "My adaptability and problem-solving ability."
+    },
+    {
+      "question": "Are you a fast learner?",
+      "answer": "Yes, I quickly learn new technologies."
+    },
+    {
+      "question": "Do you work under pressure?",
+      "answer": "Yes, effectively."
+    },
+    {
+      "question": "Are you reliable?",
+      "answer": "Yes, I consistently deliver results."
+    },
+    {
+      "question": "Do you meet deadlines?",
+      "answer": "Yes, always."
+    },
+    {
+      "question": "Do you take responsibility?",
+      "answer": "Yes, fully."
+    },
+    {
+      "question": "Are you self-motivated?",
+      "answer": "Yes, highly."
+    },
+    {
+      "question": "Do you need supervision?",
+      "answer": "Minimal supervision required."
+    },
+    {
+      "question": "Are you goal-oriented?",
+      "answer": "Yes."
+    },
+    {
+      "question": "What can you tell me about Nilusha?",
+      "answer": "He is a software engineer with strong backend skills."
+    },
+    {
+      "question": "Who is the developer of this portfolio?",
+      "answer": "Nilusha Wijerathne."
+    },
+    {
+      "question": "Can you describe Nilusha’s skills?",
+      "answer": "Backend, APIs, and full-stack development."
+    },
+    {
+      "question": "What does Nilusha specialize in?",
+      "answer": "Backend and microservices."
+    },
+    {
+      "question": "What is Nilusha good at?",
+      "answer": "Building scalable systems."
+    },
+    {
+      "question": "What is Nilusha’s experience?",
+      "answer": "Internship experience in real-world systems."
+    },
+    {
+      "question": "What are Nilusha’s strengths?",
+      "answer": "Problem-solving and adaptability."
+    },
+    {
+      "question": "What technologies does Nilusha use?",
+      "answer": "Java, React, Node.js, etc."
+    },
+    {
+      "question": "Is Nilusha experienced?",
+      "answer": "Yes, with internship and project experience."
+    },
+    {
+      "question": "Why choose Nilusha?",
+      "answer": "Strong skills and practical experience."
+    },
+    {
+      "question": "Hey, what do you do?",
+      "answer": "I am a software engineer."
+    },
+    {
+      "question": "What’s your background?",
+      "answer": "IT and software engineering."
+    },
+    {
+      "question": "What can you build?",
+      "answer": "Web apps, APIs, and backend systems."
+    },
+    {
+      "question": "Are you experienced?",
+      "answer": "Yes, through internships and projects."
+    },
+    {
+      "question": "Can you code?",
+      "answer": "Yes, in multiple languages."
+    },
+    {
+      "question": "What are you good at?",
+      "answer": "Backend development."
+    },
+    {
+      "question": "What do you enjoy?",
+      "answer": "Solving technical problems."
+    },
+    {
+      "question": "What do you work on?",
+      "answer": "Software systems and applications."
+    },
+    {
+      "question": "What’s your goal?",
+      "answer": "To grow as a software engineer."
+    },
+    {
+      "question": "What kind of questions can I ask here?",
+      "answer": "You can ask about my skills, experience, projects, education, and technical knowledge."
+    },
+    {
+      "question": "What does this chatbot help with?",
+      "answer": "It helps you learn about my professional background and technical expertise."
+    },
+    {
+      "question": "What information can I get from this chatbot?",
+      "answer": "You can get information about my career, projects, and skills."
+    },
+    {
+      "question": "What topics does this chatbot cover?",
+      "answer": "It covers my professional experience, projects, and technical abilities."
+    },
+    {
+      "question": "Can this chatbot explain your experience?",
+      "answer": "Yes, it can provide details about my work experience and internships."
+    },
+    {
+      "question": "Can I ask about your projects here?",
+      "answer": "Yes, you can ask about any of my projects."
+    },
+    {
+      "question": "Can this chatbot describe your skills?",
+      "answer": "Yes, it can explain my technical and soft skills."
+    },
+    {
+      "question": "Does this chatbot know your CV?",
+      "answer": "Yes, it is trained using my CV and professional data."
+    },
+    {
+      "question": "Can I learn about your education here?",
+      "answer": "Yes, it can provide details about my academic background."
+    },
+    {
+      "question": "Is this chatbot only about you?",
+      "answer": "Yes, it is specifically designed to answer questions about me."
+    },
+    {
+      "question": "What is the purpose of this chatbot?",
+      "answer": "It is designed to provide an interactive way to explore my portfolio."
+    },
+    {
+      "question": "Why should I use this chatbot?",
+      "answer": "It helps you quickly find information about my skills and experience."
+    },
+    {
+      "question": "What makes this chatbot useful?",
+      "answer": "It provides instant answers about my professional profile."
+    },
+    {
+      "question": "How does this chatbot improve your portfolio?",
+      "answer": "It makes my portfolio interactive and user-friendly."
+    },
+    {
+      "question": "Is this chatbot part of your portfolio?",
+      "answer": "Yes, it is integrated into my portfolio website."
+    },
+    {
+      "question": "What problem does this chatbot solve?",
+      "answer": "It allows recruiters to quickly access relevant information about me."
+    },
+    {
+      "question": "Why did you add a chatbot to your portfolio?",
+      "answer": "To enhance user experience and engagement."
+    },
+    {
+      "question": "What is the goal of this chatbot?",
+      "answer": "To present my profile in an interactive and modern way."
+    },
+    {
+      "question": "How does this chatbot benefit recruiters?",
+      "answer": "It helps them quickly understand my qualifications."
+    },
+    {
+      "question": "Is this chatbot meant for employers?",
+      "answer": "Yes, primarily for recruiters and hiring managers."
+    },
+    {
+      "question": "How does this chatbot work?",
+      "answer": "It processes questions and matches them with relevant answers from a dataset."
+    },
+    {
+      "question": "What technology is behind this chatbot?",
+      "answer": "It uses a structured dataset and backend processing logic."
+    },
+    {
+      "question": "Is this chatbot rule-based or AI-based?",
+      "answer": "It combines structured logic with AI-based matching techniques."
+    },
+    {
+      "question": "Does this chatbot use machine learning?",
+      "answer": "Yes, it can use ML-based similarity matching."
+    },
+    {
+      "question": "How are answers generated?",
+      "answer": "Answers are retrieved from a trained dataset based on user queries."
+    },
+    {
+      "question": "Is this chatbot connected to a database?",
+      "answer": "Yes, it can use a backend database for storing responses."
+    },
+    {
+      "question": "Does this chatbot use NLP?",
+      "answer": "Yes, it uses natural language processing techniques."
+    },
+    {
+      "question": "Can this chatbot understand different questions?",
+      "answer": "Yes, it supports multiple variations of questions."
+    },
+    {
+      "question": "How accurate is this chatbot?",
+      "answer": "It is designed to provide accurate answers based on my data."
+    },
+    {
+      "question": "Does this chatbot improve over time?",
+      "answer": "Yes, by adding more data and training."
+    },
+    {
+      "question": "Can I ask complex questions?",
+      "answer": "Yes, it can handle both simple and complex questions."
+    },
+    {
+      "question": "Can this chatbot answer technical questions?",
+      "answer": "Yes, including programming and development topics."
+    },
+    {
+      "question": "Can this chatbot answer personal questions?",
+      "answer": "It focuses mainly on professional-related questions."
+    },
+    {
+      "question": "Can I ask about your experience here?",
+      "answer": "Yes, it provides detailed answers about my experience."
+    },
+    {
+      "question": "Can I ask about your skills here?",
+      "answer": "Yes, it can list and explain my skills."
+    },
+    {
+      "question": "Can I ask about your certifications?",
+      "answer": "Yes, it includes information about my certifications."
+    },
+    {
+      "question": "Can I ask about your internships?",
+      "answer": "Yes, it can describe my internship experience."
+    },
+    {
+      "question": "Can I ask about your projects in detail?",
+      "answer": "Yes, it can explain each project."
+    },
+    {
+      "question": "Can I ask about your achievements?",
+      "answer": "Yes, it can highlight my achievements."
+    },
+    {
+      "question": "Can I ask about your career goals?",
+      "answer": "Yes, it can describe my future goals."
+    },
+    {
+      "question": "Who should use this chatbot?",
+      "answer": "Recruiters, hiring managers, and anyone interested in my profile."
+    },
+    {
+      "question": "Is this chatbot useful for hiring decisions?",
+      "answer": "Yes, it provides quick insights into my qualifications."
+    },
+    {
+      "question": "Can employers rely on this chatbot?",
+      "answer": "Yes, it is based on verified professional data."
+    },
+    {
+      "question": "Is this chatbot suitable for technical evaluation?",
+      "answer": "Yes, it can answer technical questions."
+    },
+    {
+      "question": "Can this chatbot replace reading your CV?",
+      "answer": "It complements my CV by providing interactive answers."
+    },
+    {
+      "question": "Is this chatbot better than a resume?",
+      "answer": "It enhances the resume experience interactively."
+    },
+    {
+      "question": "Does this chatbot provide real-time answers?",
+      "answer": "Yes, it responds instantly."
+    },
+    {
+      "question": "Is this chatbot easy to use?",
+      "answer": "Yes, it is designed to be simple and user-friendly."
+    },
+    {
+      "question": "Do I need instructions to use this chatbot?",
+      "answer": "No, just ask questions naturally."
+    },
+    {
+      "question": "Can non-technical users use this chatbot?",
+      "answer": "Yes, it is designed for all users."
+    },
+    {
+      "question": "Is this chatbot custom-built?",
+      "answer": "Yes, it is developed specifically for my portfolio."
+    },
+    {
+      "question": "Did you build this chatbot yourself?",
+      "answer": "Yes, I developed it using my technical skills."
+    },
+    {
+      "question": "What inspired you to build this chatbot?",
+      "answer": "To create a modern and interactive portfolio."
+    },
+    {
+      "question": "Is this chatbot part of your projects?",
+      "answer": "Yes, it is one of my featured implementations."
+    },
+    {
+      "question": "Does this chatbot demonstrate your skills?",
+      "answer": "Yes, it showcases my development and AI skills."
+    },
+    {
+      "question": "What skills does this chatbot highlight?",
+      "answer": "Backend, frontend, AI, and API integration skills."
+    },
+    {
+      "question": "Is this chatbot a real-world application?",
+      "answer": "Yes, similar chatbots are used in industries."
+    },
+    {
+      "question": "Can this chatbot be extended further?",
+      "answer": "Yes, it can be improved with more features."
+    },
+    {
+      "question": "Can this chatbot be integrated into other systems?",
+      "answer": "Yes, it can be integrated into various platforms."
+    },
+    {
+      "question": "Is this chatbot scalable?",
+      "answer": "Yes, it can be scaled with better infrastructure."
+    },
+    {
+      "question": "Can this chatbot be improved?",
+      "answer": "Yes, by adding more training data and features."
+    },
+    {
+      "question": "What features can be added to this chatbot?",
+      "answer": "Voice input, better AI, and analytics."
+    },
+    {
+      "question": "Can this chatbot support multiple languages?",
+      "answer": "Yes, with additional implementation."
+    },
+    {
+      "question": "Can this chatbot learn automatically?",
+      "answer": "It can be improved with machine learning models."
+    },
+    {
+      "question": "Is this chatbot production-ready?",
+      "answer": "It is a strong prototype with real-world potential."
+    },
+    {
+      "question": "Can this chatbot handle multiple users?",
+      "answer": "Yes, with proper backend scaling."
+    },
+    {
+      "question": "Is this chatbot secure?",
+      "answer": "Yes, with proper backend security implementation."
+    },
+    {
+      "question": "Can this chatbot store conversations?",
+      "answer": "Yes, if integrated with a database."
+    },
+    {
+      "question": "Does this chatbot log queries?",
+      "answer": "It can log queries for improvement."
+    },
+    {
+      "question": "Can this chatbot analyze user behavior?",
+      "answer": "Yes, with analytics integration."
+    },
+    {
+      "question": "Is this chatbot mobile-friendly?",
+      "answer": "Yes, it works on both desktop and mobile devices."
+    },
+    {
+      "question": "Can I use this chatbot anytime?",
+      "answer": "Yes, it is available 24/7."
+    },
+    {
+      "question": "Does this chatbot require login?",
+      "answer": "No, it is accessible without authentication."
+    },
+    {
+      "question": "Is this chatbot fast?",
+      "answer": "Yes, it provides quick responses."
+    },
+    {
+      "question": "Does this chatbot have UI design considerations?",
+      "answer": "Yes, it follows modern UI/UX principles."
+    },
+    {
+      "question": "Is this chatbot interactive?",
+      "answer": "Yes, it allows real-time interaction."
+    },
+    {
+      "question": "Can I test your chatbot freely?",
+      "answer": "Yes, you can interact with it anytime."
+    },
+    {
+      "question": "Does this chatbot support continuous conversation?",
+      "answer": "Yes, depending on implementation."
+    },
+    {
+      "question": "Is this chatbot responsive?",
+      "answer": "Yes, it adapts to different screen sizes."
+    },
+    {
+      "question": "Can this chatbot guide users?",
+      "answer": "Yes, it helps users explore my portfolio."
+    },
+    {
+      "question": "What makes your chatbot different?",
+      "answer": "It is personalized specifically for my professional profile."
+    },
+    {
+      "question": "How is your chatbot better than others?",
+      "answer": "It provides accurate, tailored responses."
+    },
+    {
+      "question": "Is this chatbot unique?",
+      "answer": "Yes, it is customized for my portfolio."
+    },
+    {
+      "question": "Does this chatbot show your creativity?",
+      "answer": "Yes, it reflects innovation and technical ability."
+    },
+    {
+      "question": "Why is this chatbot impressive?",
+      "answer": "It combines AI, development, and UX design."
+    },
+    {
+      "question": "What value does this chatbot add?",
+      "answer": "It improves user engagement and accessibility."
+    },
+    {
+      "question": "Is this chatbot innovative?",
+      "answer": "Yes, it adds a modern touch to portfolios."
+    },
+    {
+      "question": "Does this chatbot reflect your skills?",
+      "answer": "Yes, it demonstrates real-world implementation."
+    },
+    {
+      "question": "Can this chatbot impress recruiters?",
+      "answer": "Yes, it creates a strong first impression."
+    },
+    {
+      "question": "Is this chatbot a good portfolio feature?",
+      "answer": "Yes, it is a standout feature."
+    },
+    {
+      "question": "What is polymorphism in Java?",
+      "answer": "It allows objects to take multiple forms using method overloading and overriding."
+    },
+    {
+      "question": "What is encapsulation?",
+      "answer": "Wrapping data and methods into a single unit while restricting access."
+    },
+    {
+      "question": "What is inheritance?",
+      "answer": "A mechanism where one class acquires properties of another class."
+    },
+    {
+      "question": "What is abstraction?",
+      "answer": "Hiding implementation details and showing only essential features."
+    },
+    {
+      "question": "What is method overloading?",
+      "answer": "Defining multiple methods with the same name but different parameters."
+    },
+    {
+      "question": "What is method overriding?",
+      "answer": "Redefining a method in a subclass."
+    },
+    {
+      "question": "What is an interface?",
+      "answer": "A contract that defines abstract methods."
+    },
+    {
+      "question": "What is an abstract class?",
+      "answer": "A class that cannot be instantiated and may contain abstract methods."
+    },
+    {
+      "question": "What is the difference between interface and abstract class?",
+      "answer": "Interfaces are fully abstract while abstract classes can have implemented methods."
+    },
+    {
+      "question": "What is the final keyword?",
+      "answer": "Used to restrict modification of classes, methods, or variables."
+    },
+    {
+      "question": "What would you do if a NullPointerException occurs?",
+      "answer": "Check for null values and add proper validations."
+    },
+    {
+      "question": "How do you debug Java code?",
+      "answer": "Use logs, breakpoints, and debugging tools."
+    },
+    {
+      "question": "What if your application crashes randomly?",
+      "answer": "Analyze logs and identify root causes."
+    },
+    {
+      "question": "How do you handle memory leaks?",
+      "answer": "Optimize object usage and use garbage collection properly."
+    },
+    {
+      "question": "What if a method runs too slow?",
+      "answer": "Optimize logic and reduce unnecessary operations."
+    },
+    {
+      "question": "What is Spring Boot Auto Configuration?",
+      "answer": "Automatically configures beans based on dependencies."
+    },
+    {
+      "question": "What is @ComponentScan?",
+      "answer": "Scans for components in a package."
+    },
+    {
+      "question": "What is @Bean?",
+      "answer": "Defines a bean in Spring context."
+    },
+    {
+      "question": "What is Spring Boot Actuator?",
+      "answer": "Provides monitoring and management endpoints."
+    },
+    {
+      "question": "What is a filter in Spring Boot?",
+      "answer": "Used to process requests and responses."
+    },
+    {
+      "question": "What if your API returns 500 error?",
+      "answer": "Check logs and validate backend logic."
+    },
+    {
+      "question": "How do you secure an API?",
+      "answer": "Use JWT and Spring Security."
+    },
+    {
+      "question": "What if authentication fails?",
+      "answer": "Validate token and credentials."
+    },
+    {
+      "question": "How do you handle exceptions globally?",
+      "answer": "Use @ControllerAdvice."
+    },
+    {
+      "question": "What if your API is slow?",
+      "answer": "Optimize queries and use caching."
+    },
+    {
+      "question": "What is indexing?",
+      "answer": "Improving query performance using data structures."
+    },
+    {
+      "question": "What is normalization vs denormalization?",
+      "answer": "Normalization reduces redundancy, denormalization improves performance."
+    },
+    {
+      "question": "What is a composite key?",
+      "answer": "A key made of multiple columns."
+    },
+    {
+      "question": "What is a stored procedure?",
+      "answer": "Predefined SQL queries stored in the database."
+    },
+    {
+      "question": "What is a trigger?",
+      "answer": "Automatically executed SQL code on events."
+    },
+    {
+      "question": "What if a query is slow?",
+      "answer": "Add indexes and optimize queries."
+    },
+    {
+      "question": "What if database connection fails?",
+      "answer": "Check credentials and server status."
+    },
+    {
+      "question": "How do you handle large datasets?",
+      "answer": "Use pagination and indexing."
+    },
+    {
+      "question": "What if duplicate data appears?",
+      "answer": "Enforce constraints and validation."
+    },
+    {
+      "question": "How do you ensure data consistency?",
+      "answer": "Use transactions."
+    },
+    {
+      "question": "What is a document in MongoDB?",
+      "answer": "A JSON-like data structure."
+    },
+    {
+      "question": "What is a collection?",
+      "answer": "A group of documents."
+    },
+    {
+      "question": "What is aggregation pipeline?",
+      "answer": "Used for data processing."
+    },
+    {
+      "question": "What is $match?",
+      "answer": "Filters documents."
+    },
+    {
+      "question": "What is $group?",
+      "answer": "Groups data for aggregation."
+    },
+    {
+      "question": "What if MongoDB query is slow?",
+      "answer": "Use indexes."
+    },
+    {
+      "question": "How do you handle large collections?",
+      "answer": "Use sharding."
+    },
+    {
+      "question": "What if data is inconsistent?",
+      "answer": "Validate schema."
+    },
+    {
+      "question": "How do you optimize queries?",
+      "answer": "Use projection."
+    },
+    {
+      "question": "What if duplicate documents exist?",
+      "answer": "Use unique indexes."
+    },
+    {
+      "question": "What is React lifecycle?",
+      "answer": "Phases of component rendering."
+    },
+    {
+      "question": "What is useEffect dependency array?",
+      "answer": "Controls when effect runs."
+    },
+    {
+      "question": "What is memoization?",
+      "answer": "Optimizing performance by caching results."
+    },
+    {
+      "question": "What is React Router?",
+      "answer": "Used for navigation."
+    },
+    {
+      "question": "What is Redux?",
+      "answer": "State management library."
+    },
+    {
+      "question": "What if UI is slow?",
+      "answer": "Optimize rendering and use memoization."
+    },
+    {
+      "question": "What if state is not updating?",
+      "answer": "Check state logic and hooks."
+    },
+    {
+      "question": "How do you debug React?",
+      "answer": "Use console logs and dev tools."
+    },
+    {
+      "question": "What if API data is not loading?",
+      "answer": "Check API calls."
+    },
+    {
+      "question": "How do you manage forms?",
+      "answer": "Controlled components."
+    },
+    {
+      "question": "What is idempotency?",
+      "answer": "Same request produces same result."
+    },
+    {
+      "question": "What is rate limiting?",
+      "answer": "Restricting API requests."
+    },
+    {
+      "question": "What is API throttling?",
+      "answer": "Controlling request rate."
+    },
+    {
+      "question": "What is webhook?",
+      "answer": "Event-driven API communication."
+    },
+    {
+      "question": "What is serialization?",
+      "answer": "Converting objects into JSON."
+    },
+    {
+      "question": "What if API fails?",
+      "answer": "Handle errors and retry."
+    },
+    {
+      "question": "What if API response is incorrect?",
+      "answer": "Validate backend logic."
+    },
+    {
+      "question": "How do you secure APIs?",
+      "answer": "Use authentication tokens."
+    },
+    {
+      "question": "What if API latency is high?",
+      "answer": "Optimize backend and caching."
+    },
+    {
+      "question": "How do you test APIs?",
+      "answer": "Use Postman."
+    },
+    {
+      "question": "What is cloud computing?",
+      "answer": "Delivering services over internet."
+    },
+    {
+      "question": "What is AWS EC2?",
+      "answer": "Virtual machine service."
+    },
+    {
+      "question": "What is AWS S3?",
+      "answer": "Storage service."
+    },
+    {
+      "question": "What is CI/CD pipeline?",
+      "answer": "Automating build and deployment."
+    },
+    {
+      "question": "What is container orchestration?",
+      "answer": "Managing containers."
+    },
+    {
+      "question": "What if deployment fails?",
+      "answer": "Check logs and configs."
+    },
+    {
+      "question": "How do you rollback?",
+      "answer": "Use previous stable version."
+    },
+    {
+      "question": "What if server crashes?",
+      "answer": "Restart and analyze logs."
+    },
+    {
+      "question": "How do you monitor apps?",
+      "answer": "Use AppDynamics."
+    },
+    {
+      "question": "What if traffic spikes?",
+      "answer": "Scale servers."
+    },
+    {
+      "question": "What is XSS?",
+      "answer": "Cross-site scripting attack."
+    },
+    {
+      "question": "What is CSRF?",
+      "answer": "Cross-site request forgery."
+    },
+    {
+      "question": "What is encryption?",
+      "answer": "Securing data using algorithms."
+    },
+    {
+      "question": "What is hashing?",
+      "answer": "One-way data conversion."
+    },
+    {
+      "question": "What is SSL/TLS?",
+      "answer": "Secure communication protocol."
+    },
+    {
+      "question": "What if a user hacks your system?",
+      "answer": "Analyze logs and patch vulnerabilities."
+    },
+    {
+      "question": "How do you prevent SQL injection?",
+      "answer": "Use prepared statements."
+    },
+    {
+      "question": "How do you secure passwords?",
+      "answer": "Hash and salt them."
+    },
+    {
+      "question": "What if token is stolen?",
+      "answer": "Invalidate and reissue."
+    },
+    {
+      "question": "How do you handle unauthorized access?",
+      "answer": "Implement role-based access."
+    },
+    {
+      "question": "How do I interact with this bot?",
+      "answer": "Just type your question and get instant answers."
+    },
+    {
+      "question": "How can I use this chatbot effectively?",
+      "answer": "Ask clear questions about my skills or experience."
+    },
+    {
+      "question": "Is there a limit to questions?",
+      "answer": "No, you can ask unlimited questions."
+    },
+    {
+      "question": "Can I ask follow-up questions?",
+      "answer": "Yes, you can continue asking related questions."
+    },
+    {
+      "question": "Does this chatbot understand simple words?",
+      "answer": "Yes, it can handle simple queries."
+    },
+    {
+      "question": "Can I ask incomplete questions?",
+      "answer": "Yes, it will try to understand and respond."
+    },
+    {
+      "question": "What if I misspell words?",
+      "answer": "It may still match similar questions."
+    },
+    {
+      "question": "Can I ask in different formats?",
+      "answer": "Yes, it supports different question styles."
+    },
+    {
+      "question": "Can I test random queries?",
+      "answer": "Yes, but it works best with relevant questions."
+    },
+    {
+      "question": "Is this chatbot interactive?",
+      "answer": "Yes, it provides real-time interaction."
+    },
+    {
+      "question": "How smart is this chatbot?",
+      "answer": "It is designed to answer based on trained data and similarity matching."
+    },
+    {
+      "question": "Does this chatbot think like a human?",
+      "answer": "It simulates human-like responses using data."
+    },
+    {
+      "question": "Is this chatbot intelligent?",
+      "answer": "Yes, within the scope of its dataset."
+    },
+    {
+      "question": "Can this chatbot understand context?",
+      "answer": "To some extent, based on input similarity."
+    },
+    {
+      "question": "Does this chatbot remember previous questions?",
+      "answer": "It depends on implementation."
+    },
+    {
+      "question": "Can this chatbot handle complex queries?",
+      "answer": "Yes, if they match trained patterns."
+    },
+    {
+      "question": "How does it choose answers?",
+      "answer": "By comparing input with trained questions."
+    },
+    {
+      "question": "Does it learn automatically?",
+      "answer": "It improves when new data is added."
+    },
+    {
+      "question": "Can it improve accuracy?",
+      "answer": "Yes, by adding more variations."
+    },
+    {
+      "question": "Does it support NLP?",
+      "answer": "Yes, it uses basic NLP techniques."
+    },
+    {
+      "question": "What backend supports this chatbot?",
+      "answer": "A backend system processes and matches queries."
+    },
+    {
+      "question": "Is this chatbot API-based?",
+      "answer": "Yes, it can use APIs for communication."
+    },
+    {
+      "question": "How is data stored?",
+      "answer": "In structured datasets or databases."
+    },
+    {
+      "question": "Does this chatbot use JSON?",
+      "answer": "Yes, for structured data handling."
+    },
+    {
+      "question": "Is there a training dataset?",
+      "answer": "Yes, built from my CV and Q&A."
+    },
+    {
+      "question": "How do you update answers?",
+      "answer": "By updating the dataset."
+    },
+    {
+      "question": "Is this chatbot scalable?",
+      "answer": "Yes, with proper backend support."
+    },
+    {
+      "question": "Can it handle concurrent users?",
+      "answer": "Yes, with proper scaling."
+    },
+    {
+      "question": "What algorithm is used?",
+      "answer": "Similarity matching like TF-IDF or cosine similarity."
+    },
+    {
+      "question": "Does it use embeddings?",
+      "answer": "It can be extended to use embeddings."
+    },
+    {
+      "question": "What should I look at first?",
+      "answer": "Start with the projects section."
+    },
+    {
+      "question": "What is the highlight of your portfolio?",
+      "answer": "My projects and chatbot feature."
+    },
+    {
+      "question": "What is the most important section?",
+      "answer": "Projects and experience."
+    },
+    {
+      "question": "What makes your site interesting?",
+      "answer": "Interactive chatbot and real projects."
+    },
+    {
+      "question": "Is your portfolio beginner-friendly?",
+      "answer": "Yes, it is easy to navigate."
+    },
+    {
+      "question": "Can I understand your skills quickly?",
+      "answer": "Yes, through chatbot and sections."
+    },
+    {
+      "question": "Is everything explained clearly?",
+      "answer": "Yes, with structured information."
+    },
+    {
+      "question": "Does your portfolio show real work?",
+      "answer": "Yes, real projects and experience."
+    },
+    {
+      "question": "Is this portfolio professional?",
+      "answer": "Yes, designed for recruiters."
+    },
+    {
+      "question": "Does this portfolio reflect your personality?",
+      "answer": "Yes, it reflects my approach and skills."
+    },
+    {
+      "question": "What can I evaluate here?",
+      "answer": "Skills, experience, and project quality."
+    },
+    {
+      "question": "Does this portfolio show real experience?",
+      "answer": "Yes, including internships."
+    },
+    {
+      "question": "Can I assess your coding ability?",
+      "answer": "Yes, through projects and GitHub."
+    },
+    {
+      "question": "Does this show industry readiness?",
+      "answer": "Yes, through practical work."
+    },
+    {
+      "question": "Is your experience relevant?",
+      "answer": "Yes, aligned with software engineering roles."
+    },
+    {
+      "question": "Can I see your technical depth?",
+      "answer": "Yes, through project details."
+    },
+    {
+      "question": "Does this portfolio show problem-solving?",
+      "answer": "Yes, through real-world projects."
+    },
+    {
+      "question": "Can I trust your experience?",
+      "answer": "Yes, based on real implementations."
+    },
+    {
+      "question": "Is your work production-level?",
+      "answer": "Some projects include production exposure."
+    },
+    {
+      "question": "Does your portfolio show growth?",
+      "answer": "Yes, through continuous learning."
+    },
+    {
+      "question": "What kind of applications have you built?",
+      "answer": "Web apps, APIs, and AI-based systems."
+    },
+    {
+      "question": "Do you have AI projects?",
+      "answer": "Yes, including chatbot and dog monitoring system."
+    },
+    {
+      "question": "Have you built backend systems?",
+      "answer": "Yes, using Java Spring Boot."
+    },
+    {
+      "question": "Have you worked on microservices?",
+      "answer": "Yes, in CEFTS project."
+    },
+    {
+      "question": "Do you have frontend projects?",
+      "answer": "Yes, using ReactJS."
+    },
+    {
+      "question": "Do you have mobile projects?",
+      "answer": "Yes, using Kotlin and Firebase."
+    },
+    {
+      "question": "Do you build full systems?",
+      "answer": "Yes, full-stack applications."
+    },
+    {
+      "question": "Have you worked with databases?",
+      "answer": "Yes, SQL and NoSQL."
+    },
+    {
+      "question": "Do your projects solve real problems?",
+      "answer": "Yes, real-world use cases."
+    },
+    {
+      "question": "Are your projects complex?",
+      "answer": "Yes, involving multiple technologies."
+    },
+    {
+      "question": "Is your chatbot optimized?",
+      "answer": "Yes, for fast responses."
+    },
+    {
+      "question": "How fast is your chatbot?",
+      "answer": "It responds instantly."
+    },
+    {
+      "question": "Does it handle large datasets?",
+      "answer": "Yes, depending on backend."
+    },
+    {
+      "question": "Is your portfolio optimized?",
+      "answer": "Yes, for speed and usability."
+    },
+    {
+      "question": "Does your chatbot slow down?",
+      "answer": "No, optimized for performance."
+    },
+    {
+      "question": "How do you improve performance?",
+      "answer": "Optimize logic and queries."
+    },
+    {
+      "question": "Is your code efficient?",
+      "answer": "Yes, written with performance in mind."
+    },
+    {
+      "question": "Do you test performance?",
+      "answer": "Yes, during development."
+    },
+    {
+      "question": "Can performance be improved?",
+      "answer": "Yes, continuously."
+    },
+    {
+      "question": "Is scalability considered?",
+      "answer": "Yes, in design."
+    },
+    {
+      "question": "Is your chatbot secure?",
+      "answer": "Yes, with proper backend handling."
+    },
+    {
+      "question": "Does your portfolio follow security practices?",
+      "answer": "Yes."
+    },
+    {
+      "question": "Can data be misused?",
+      "answer": "No sensitive data is exposed."
+    },
+    {
+      "question": "Do you validate inputs?",
+      "answer": "Yes, to prevent errors."
+    },
+    {
+      "question": "Is your backend protected?",
+      "answer": "Yes, with secure logic."
+    },
+    {
+      "question": "Do you handle errors safely?",
+      "answer": "Yes, with error handling."
+    },
+    {
+      "question": "Is your system reliable?",
+      "answer": "Yes, designed for stability."
+    },
+    {
+      "question": "Can your chatbot crash?",
+      "answer": "It is designed to handle errors gracefully."
+    },
+    {
+      "question": "Do you log errors?",
+      "answer": "It can log errors for improvement."
+    },
+    {
+      "question": "Is your code safe?",
+      "answer": "Yes, following best practices."
+    },
+    {
+      "question": "who?",
+      "answer": "Nilusha Wijerathne, software engineer."
+    },
+    {
+      "question": "what?",
+      "answer": "Software engineer portfolio."
+    },
+    {
+      "question": "skills list?",
+      "answer": "Java, React, Node, Python."
+    },
+    {
+      "question": "projects list?",
+      "answer": "Multiple full-stack and AI projects."
+    },
+    {
+      "question": "experience details?",
+      "answer": "Internship experience."
+    },
+    {
+      "question": "education details?",
+      "answer": "IT degree from SLIIT."
+    },
+    {
+      "question": "contact info?",
+      "answer": "Email and phone available."
+    },
+    {
+      "question": "hire?",
+      "answer": "Yes, available for hire."
+    },
+    {
+      "question": "location?",
+      "answer": "Sri Lanka."
+    },
+    {
+      "question": "availability?",
+      "answer": "Open for opportunities."
+    },
+    {
+      "question": "hey what’s this site?",
+      "answer": "It’s my personal portfolio website."
+    },
+    {
+      "question": "yo what u do?",
+      "answer": "I build software applications."
+    },
+    {
+      "question": "what can u show?",
+      "answer": "My projects and skills."
+    },
+    {
+      "question": "u legit?",
+      "answer": "Yes, all info is real."
+    },
+    {
+      "question": "u built this bot?",
+      "answer": "Yes, I developed it."
+    },
+    {
+      "question": "this site yours?",
+      "answer": "Yes, it’s my portfolio."
+    },
+    {
+      "question": "u available?",
+      "answer": "Yes, open for work."
+    },
+    {
+      "question": "u got experience?",
+      "answer": "Yes, internships and projects."
+    },
+    {
+      "question": "what u specialize in?",
+      "answer": "Backend systems."
+    },
+    {
+      "question": "What if I ask unrelated questions?",
+      "answer": "It may not respond accurately."
+    },
+    {
+      "question": "Can I trick this chatbot?",
+      "answer": "It tries to handle queries logically."
+    },
+    {
+      "question": "Does it support slang?",
+      "answer": "It can handle some casual language."
+    },
+    {
+      "question": "What if I type incomplete words?",
+      "answer": "It may still match similar queries."
+    },
+    {
+      "question": "Does it understand synonyms?",
+      "answer": "Yes, to some extent."
+    },
+    {
+      "question": "Can it handle spelling mistakes?",
+      "answer": "Sometimes, depending on similarity."
+    },
+    {
+      "question": "Does it support multi-language?",
+      "answer": "Currently focused on English."
+    },
+    {
+      "question": "Can it be trained further?",
+      "answer": "Yes, easily extendable."
+    },
+    {
+      "question": "Is this chatbot rule-based?",
+      "answer": "It uses structured logic with AI enhancements."
+    },
+    {
+      "question": "Can it be improved with ML?",
+      "answer": "Yes, significantly."
+    },
+    {
+      "question": "Should I hire you?",
+      "answer": "Yes, I bring strong technical and practical skills."
+    },
+    {
+      "question": "Are you worth considering?",
+      "answer": "Yes, based on skills and experience."
+    },
+    {
+      "question": "Do you fit a developer role?",
+      "answer": "Yes, especially backend roles."
+    },
+    {
+      "question": "Can you handle real-world tasks?",
+      "answer": "Yes, through internship experience."
+    },
+    {
+      "question": "What is the Java memory model?",
+      "answer": "It defines how threads interact through memory and ensures visibility and ordering."
+    },
+    {
+      "question": "What is multithreading?",
+      "answer": "Running multiple threads concurrently within a program."
+    },
+    {
+      "question": "What is synchronization?",
+      "answer": "Controlling thread access to shared resources."
+    },
+    {
+      "question": "What is a deadlock?",
+      "answer": "A situation where threads wait indefinitely for each other."
+    },
+    {
+      "question": "What is a race condition?",
+      "answer": "When multiple threads access shared data causing inconsistent results."
+    },
+    {
+      "question": "What is volatile keyword?",
+      "answer": "Ensures visibility of changes across threads."
+    },
+    {
+      "question": "What is thread pool?",
+      "answer": "A collection of reusable threads."
+    },
+    {
+      "question": "What is ExecutorService?",
+      "answer": "A framework to manage thread execution."
+    },
+    {
+      "question": "What is Callable vs Runnable?",
+      "answer": "Callable returns a result, Runnable does not."
+    },
+    {
+      "question": "How do you handle deadlocks?",
+      "answer": "Avoid circular dependencies and use timeout mechanisms."
+    },
+    {
+      "question": "What if multiple threads update the same variable?",
+      "answer": "Use synchronization or locks."
+    },
+    {
+      "question": "How do you improve multithreading performance?",
+      "answer": "Use thread pools and avoid excessive locking."
+    },
+    {
+      "question": "What if memory usage is high?",
+      "answer": "Optimize object creation and use profiling tools."
+    },
+    {
+      "question": "How do you debug concurrency issues?",
+      "answer": "Use logs and thread dump analysis."
+    },
+    {
+      "question": "What is Spring Boot Starter?",
+      "answer": "Predefined dependency sets."
+    },
+    {
+      "question": "What is Spring Bean lifecycle?",
+      "answer": "Initialization → usage → destruction."
+    },
+    {
+      "question": "What is @Transactional?",
+      "answer": "Ensures atomic database operations."
+    },
+    {
+      "question": "What is AOP?",
+      "answer": "Aspect-Oriented Programming for cross-cutting concerns."
+    },
+    {
+      "question": "What is interceptor?",
+      "answer": "Pre/post processing of requests."
+    },
+    {
+      "question": "What is DTO?",
+      "answer": "Data Transfer Object for transferring data between layers."
+    },
+    {
+      "question": "What is service layer?",
+      "answer": "Contains business logic."
+    },
+    {
+      "question": "What is repository layer?",
+      "answer": "Handles database operations."
+    },
+    {
+      "question": "What is controller layer?",
+      "answer": "Handles HTTP requests."
+    },
+    {
+      "question": "What is dependency injection?",
+      "answer": "Injecting dependencies automatically."
+    },
+    {
+      "question": "What if a transaction fails midway?",
+      "answer": "Rollback using @Transactional."
+    },
+    {
+      "question": "How do you handle API versioning?",
+      "answer": "Use URI versioning or headers."
+    },
+    {
+      "question": "What if multiple services depend on each other?",
+      "answer": "Use loose coupling and interfaces."
+    },
+    {
+      "question": "How do you secure microservices?",
+      "answer": "Use JWT and API Gateway."
+    },
+    {
+      "question": "What if service crashes?",
+      "answer": "Use retries and fallback mechanisms."
+    },
+    {
+      "question": "What is a join?",
+      "answer": "Combining data from multiple tables."
+    },
+    {
+      "question": "What is an inner join?",
+      "answer": "Returns matching rows only."
+    },
+    {
+      "question": "What is left join?",
+      "answer": "Returns all left table rows."
+    },
+    {
+      "question": "What is right join?",
+      "answer": "Returns all right table rows."
+    },
+    {
+      "question": "What is full join?",
+      "answer": "Returns all rows from both tables."
+    },
+    {
+      "question": "What is a subquery?",
+      "answer": "Query inside another query."
+    },
+    {
+      "question": "What is indexing?",
+      "answer": "Improves query performance."
+    },
+    {
+      "question": "What is clustering index?",
+      "answer": "Defines physical data order."
+    },
+    {
+      "question": "What is non-clustered index?",
+      "answer": "Separate structure pointing to data."
+    },
+    {
+      "question": "What is query execution plan?",
+      "answer": "Shows how database executes queries."
+    },
+    {
+      "question": "What if query is very slow?",
+      "answer": "Add indexes and optimize joins."
+    },
+    {
+      "question": "What if duplicate records appear?",
+      "answer": "Use constraints and validation."
+    },
+    {
+      "question": "How do you handle large tables?",
+      "answer": "Partitioning and indexing."
+    },
+    {
+      "question": "What if database crashes?",
+      "answer": "Restore from backup."
+    },
+    {
+      "question": "How do you prevent data loss?",
+      "answer": "Use transactions and backups."
+    },
+    {
+      "question": "What is BSON?",
+      "answer": "Binary JSON format used by MongoDB."
+    },
+    {
+      "question": "What is replica set?",
+      "answer": "Provides redundancy and high availability."
+    },
+    {
+      "question": "What is sharding?",
+      "answer": "Distributes data across servers."
+    },
+    {
+      "question": "What is capped collection?",
+      "answer": "Fixed-size collection."
+    },
+    {
+      "question": "What is document embedding?",
+      "answer": "Storing related data in one document."
+    },
+    {
+      "question": "What is referencing?",
+      "answer": "Linking documents via IDs."
+    },
+    {
+      "question": "What is indexing in MongoDB?",
+      "answer": "Improves search speed."
+    },
+    {
+      "question": "What is aggregation framework?",
+      "answer": "Processes data pipelines."
+    },
+    {
+      "question": "What is schema design?",
+      "answer": "Structuring data efficiently."
+    },
+    {
+      "question": "What is TTL index?",
+      "answer": "Automatically deletes expired data."
+    },
+    {
+      "question": "What if data grows rapidly?",
+      "answer": "Use sharding."
+    },
+    {
+      "question": "How do you ensure high availability?",
+      "answer": "Use replica sets."
+    },
+    {
+      "question": "What if query performance drops?",
+      "answer": "Optimize indexes."
+    },
+    {
+      "question": "How do you model relationships?",
+      "answer": "Embedding or referencing."
+    },
+    {
+      "question": "What if data duplication occurs?",
+      "answer": "Normalize structure."
+    },
+    {
+      "question": "What is reconciliation?",
+      "answer": "Updating DOM efficiently."
+    },
+    {
+      "question": "What is key prop?",
+      "answer": "Identifies list elements uniquely."
+    },
+    {
+      "question": "What is lazy loading?",
+      "answer": "Loading components on demand."
+    },
+    {
+      "question": "What is code splitting?",
+      "answer": "Splitting code into smaller chunks."
+    },
+    {
+      "question": "What is context API?",
+      "answer": "Global state management."
+    },
+    {
+      "question": "What is hooks?",
+      "answer": "Functions for managing state and lifecycle."
+    },
+    {
+      "question": "What is useMemo?",
+      "answer": "Memoizes computed values."
+    },
+    {
+      "question": "What is useCallback?",
+      "answer": "Memoizes functions."
+    },
+    {
+      "question": "What is controlled component?",
+      "answer": "Form controlled by React state."
+    },
+    {
+      "question": "What is uncontrolled component?",
+      "answer": "Form handled by DOM."
+    },
+    {
+      "question": "What if component re-renders too often?",
+      "answer": "Use memoization."
+    },
+    {
+      "question": "How do you optimize React performance?",
+      "answer": "Use lazy loading and memo."
+    },
+    {
+      "question": "What if state is lost?",
+      "answer": "Manage state properly."
+    },
+    {
+      "question": "How do you debug UI bugs?",
+      "answer": "Use React DevTools."
+    },
+    {
+      "question": "What if API fails in React?",
+      "answer": "Handle errors and fallback UI."
+    },
+    {
+      "question": "What is REST?",
+      "answer": "Architectural style for APIs."
+    },
+    {
+      "question": "What is GraphQL?",
+      "answer": "Query language for APIs."
+    },
+    {
+      "question": "What is idempotent method?",
+      "answer": "Same result for repeated calls."
+    },
+    {
+      "question": "What is stateless API?",
+      "answer": "No session stored on server."
+    },
+    {
+      "question": "What is caching in APIs?",
+      "answer": "Storing responses to reduce load."
+    },
+    {
+      "question": "What is pagination?",
+      "answer": "Splitting data into pages."
+    },
+    {
+      "question": "What is filtering?",
+      "answer": "Selecting specific data."
+    },
+    {
+      "question": "What is rate limiting?",
+      "answer": "Limiting API usage."
+    },
+    {
+      "question": "What is API gateway?",
+      "answer": "Centralized API management."
+    },
+    {
+      "question": "What is service discovery?",
+      "answer": "Locating services dynamically."
+    },
+    {
+      "question": "What if API returns wrong data?",
+      "answer": "Validate logic and DB queries."
+    },
+    {
+      "question": "What if API is slow?",
+      "answer": "Optimize backend and caching."
+    },
+    {
+      "question": "How do you secure APIs?",
+      "answer": "Use authentication tokens."
+    },
+    {
+      "question": "What if API fails frequently?",
+      "answer": "Add retries and logging."
+    },
+    {
+      "question": "How do you handle large responses?",
+      "answer": "Use pagination."
+    },
+    {
+      "question": "What is virtualization?",
+      "answer": "Running multiple systems on one machine."
+    },
+    {
+      "question": "What is containerization?",
+      "answer": "Packaging apps with dependencies."
+    },
+    {
+      "question": "What is Dockerfile?",
+      "answer": "Script to build Docker images."
+    },
+    {
+      "question": "What is Kubernetes?",
+      "answer": "Container orchestration tool."
+    },
+    {
+      "question": "What is pod?",
+      "answer": "Smallest unit in Kubernetes."
+    },
+    {
+      "question": "What is deployment?",
+      "answer": "Running applications in environment."
+    },
+    {
+      "question": "What is scaling?",
+      "answer": "Increasing capacity."
+    },
+    {
+      "question": "What is CI/CD?",
+      "answer": "Automating build and deployment."
+    },
+    {
+      "question": "What is monitoring?",
+      "answer": "Tracking system health."
+    },
+    {
+      "question": "What is logging?",
+      "answer": "Recording system activity."
+    },
+    {
+      "question": "What if deployment fails?",
+      "answer": "Check logs and configs."
+    },
+    {
+      "question": "How do you scale apps?",
+      "answer": "Use load balancing."
+    },
+    {
+      "question": "What if server crashes?",
+      "answer": "Restart and debug logs."
+    },
+    {
+      "question": "How do you ensure uptime?",
+      "answer": "Use monitoring tools."
+    },
+    {
+      "question": "What if traffic spikes?",
+      "answer": "Auto-scale servers."
+    },
+    {
+      "question": "What is authentication?",
+      "answer": "Verifying identity."
+    },
+    {
+      "question": "What is authorization?",
+      "answer": "Granting access."
+    },
+    {
+      "question": "What is hashing?",
+      "answer": "One-way encryption."
+    },
+    {
+      "question": "What is salting?",
+      "answer": "Adding randomness to hashes."
+    },
+    {
+      "question": "What is encryption?",
+      "answer": "Securing data."
+    },
+    {
+      "question": "What is JWT?",
+      "answer": "Token-based authentication."
+    },
+    {
+      "question": "What is OAuth?",
+      "answer": "Authorization protocol."
+    },
+    {
+      "question": "What is SSL/TLS?",
+      "answer": "Secure communication."
+    },
+    {
+      "question": "What is XSS?",
+      "answer": "Script injection attack."
+    },
+    {
+      "question": "What is SQL injection?",
+      "answer": "Malicious SQL execution."
+    },
+    {
+      "question": "What if user data is leaked?",
+      "answer": "Patch vulnerability and notify users."
+    },
+    {
+      "question": "How do you prevent hacking?",
+      "answer": "Use secure coding practices."
+    },
+    {
+      "question": "What if password is weak?",
+      "answer": "Enforce strong password rules."
+    },
+    {
+      "question": "How do you secure APIs?",
+      "answer": "Use tokens and validation."
+    },
+    {
+      "question": "What if unauthorized access occurs?",
+      "answer": "Restrict access and log events."
+    },
+    {
+      "question": "What is microservices architecture?",
+      "answer": "Independent services."
+    },
+    {
+      "question": "What is monolithic architecture?",
+      "answer": "Single unified system."
+    },
+    {
+      "question": "What is scalability?",
+      "answer": "Handling growth."
+    },
+    {
+      "question": "What is fault tolerance?",
+      "answer": "System survives failures."
+    },
+    {
+      "question": "What is load balancing?",
+      "answer": "Distributing traffic."
+    },
+    {
+      "question": "What is caching?",
+      "answer": "Storing frequently used data."
+    },
+    {
+      "question": "What is CDN?",
+      "answer": "Content delivery network."
+    },
+    {
+      "question": "What is database replication?",
+      "answer": "Copying data across servers."
+    },
+    {
+      "question": "What is eventual consistency?",
+      "answer": "Data consistency over time."
+    },
+    {
+      "question": "What is horizontal scaling?",
+      "answer": "Adding more machines."
+    },
+    {
+      "question": "How would you design a large-scale system?",
+      "answer": "Use microservices and scaling."
+    },
+    {
+      "question": "How do you design a chat system?",
+      "answer": "Use real-time messaging and APIs."
+    },
+    {
+      "question": "What if system fails?",
+      "answer": "Use redundancy."
+    },
+    {
+      "question": "How do you handle millions of users?",
+      "answer": "Scale infrastructure."
+    },
+    {
+      "question": "What if latency is high?",
+      "answer": "Use caching and CDN."
+    },
+    {
+      "question": "How does this chatbot work?",
+      "answer": "It works by matching your question with a trained dataset and returning the most relevant answer."
+    },
+    {
+      "question": "How does your chatbot function?",
+      "answer": "The chatbot processes user input and finds the closest matching response from a structured dataset."
+    },
+    {
+      "question": "How is this chatbot implemented?",
+      "answer": "It is implemented using a frontend interface and a backend system that matches queries to answers."
+    },
+    {
+      "question": "What is the working mechanism of this chatbot?",
+      "answer": "It uses similarity matching techniques to compare user questions with stored data and return the best match."
+    },
+    {
+      "question": "Can you explain how this chatbot works?",
+      "answer": "It analyzes your input and retrieves the most relevant answer from its trained dataset."
+    },
+    {
+      "question": "What happens when I ask a question?",
+      "answer": "Your question is processed and compared with stored questions to find the closest answer."
+    },
+    {
+      "question": "How does the chatbot generate responses?",
+      "answer": "Responses are selected from a dataset based on similarity between your input and stored questions."
+    },
+    {
+      "question": "Is this chatbot rule-based?",
+      "answer": "It uses structured logic combined with similarity matching techniques."
+    },
+    {
+      "question": "Does this chatbot use AI?",
+      "answer": "Yes, it uses basic AI concepts like natural language processing and similarity matching."
+    },
+    {
+      "question": "How does it understand my question?",
+      "answer": "It compares your input text with known patterns in its dataset."
+    },
+    {
+      "question": "What algorithm does this chatbot use?",
+      "answer": "It can use TF-IDF with cosine similarity to match questions and answers."
+    },
+    {
+      "question": "Does this chatbot use machine learning?",
+      "answer": "It can incorporate machine learning techniques for better accuracy."
+    },
+    {
+      "question": "How does similarity matching work here?",
+      "answer": "It calculates how similar your question is to stored questions and selects the closest one."
+    },
+    {
+      "question": "What is TF-IDF in this chatbot?",
+      "answer": "It is a method used to convert text into numerical vectors for comparison."
+    },
+    {
+      "question": "What is cosine similarity?",
+      "answer": "It measures how similar two text vectors are to find the best match."
+    },
+    {
+      "question": "Does the chatbot learn automatically?",
+      "answer": "It improves when more data is added to its dataset."
+    },
+    {
+      "question": "Can this chatbot be trained further?",
+      "answer": "Yes, by adding more questions and answers."
+    },
+    {
+      "question": "How do you improve chatbot accuracy?",
+      "answer": "By increasing dataset size and adding paraphrased questions."
+    },
+    {
+      "question": "Does it support NLP?",
+      "answer": "Yes, it uses basic natural language processing techniques."
+    },
+    {
+      "question": "Can it understand different phrasings?",
+      "answer": "Yes, if similar variations are included in the dataset."
+    },
+    {
+      "question": "Is there a backend behind this chatbot?",
+      "answer": "Yes, a backend processes queries and returns responses."
+    },
+    {
+      "question": "Does this chatbot use APIs?",
+      "answer": "Yes, it can communicate through APIs between frontend and backend."
+    },
+    {
+      "question": "Where are the answers stored?",
+      "answer": "Answers are stored in a structured dataset or database."
+    },
+    {
+      "question": "Is this chatbot connected to a database?",
+      "answer": "Yes, it can use databases like MongoDB."
+    },
+    {
+      "question": "Does it process data in real time?",
+      "answer": "Yes, it processes user queries instantly."
+    },
+    {
+      "question": "How fast is the response time?",
+      "answer": "Responses are generated almost instantly."
+    },
+    {
+      "question": "Does this chatbot handle multiple users?",
+      "answer": "Yes, with proper backend scaling."
+    },
+    {
+      "question": "Is the chatbot scalable?",
+      "answer": "Yes, it can be scaled using cloud infrastructure."
+    },
+    {
+      "question": "Can this chatbot be deployed online?",
+      "answer": "Yes, it can be deployed as a web application."
+    },
+    {
+      "question": "Does it require internet?",
+      "answer": "Yes, for real-time interaction."
+    },
+    {
+      "question": "What happens if the chatbot doesn’t find an answer?",
+      "answer": "It may return a default response indicating no match was found."
+    },
+    {
+      "question": "Why does the chatbot sometimes give wrong answers?",
+      "answer": "Because it depends on similarity matching and dataset quality."
+    },
+    {
+      "question": "How can you fix incorrect answers?",
+      "answer": "By improving dataset quality and adding more variations."
+    },
+    {
+      "question": "What if I ask a new question?",
+      "answer": "It will try to match it with the closest known question."
+    },
+    {
+      "question": "Does it understand context?",
+      "answer": "Limited context understanding based on input similarity."
+    },
+    {
+      "question": "Can it handle long questions?",
+      "answer": "Yes, if the key terms match stored data."
+    },
+    {
+      "question": "Can it handle short queries?",
+      "answer": "Yes, including single-word queries."
+    },
+    {
+      "question": "Does it support typo handling?",
+      "answer": "Partially, depending on similarity matching."
+    },
+    {
+      "question": "Can it be improved with AI models?",
+      "answer": "Yes, by integrating advanced NLP or deep learning models."
+    },
+    {
+      "question": "What technologies are used in this chatbot?",
+      "answer": "It uses frontend UI, backend logic, and a structured dataset."
+    },
+    {
+      "question": "What programming languages are used?",
+      "answer": "Typically Java, JavaScript, or Python."
+    },
+    {
+      "question": "Does it use React?",
+      "answer": "Yes, React can be used for frontend."
+    },
+    {
+      "question": "Does it use Spring Boot?",
+      "answer": "Yes, Spring Boot can be used for backend APIs."
+    },
+    {
+      "question": "Does it use MongoDB?",
+      "answer": "Yes, MongoDB can store chat data."
+    },
+    {
+      "question": "Is this chatbot full-stack?",
+      "answer": "Yes, it involves both frontend and backend development."
+    },
+    {
+      "question": "Can this chatbot be integrated into apps?",
+      "answer": "Yes, it can be integrated into web or mobile apps."
+    },
+    {
+      "question": "Can this chatbot be reused?",
+      "answer": "Yes, with modifications for other use cases."
+    },
+    {
+      "question": "Is this chatbot production-ready?",
+      "answer": "It is a strong prototype that can be enhanced for production."
+    },
+    {
+      "question": "What is the difference between HashMap and ConcurrentHashMap?",
+      "answer": "HashMap is not thread-safe while ConcurrentHashMap is thread-safe and supports concurrent access."
+    },
+    {
+      "question": "What is the difference between String, StringBuilder, and StringBuffer?",
+      "answer": "String is immutable, StringBuilder is mutable and not thread-safe, StringBuffer is mutable and thread-safe."
+    },
+    {
+      "question": "What is immutability in Java?",
+      "answer": "Objects whose state cannot be changed after creation."
+    },
+    {
+      "question": "What is the difference between equals() and ==?",
+      "answer": "equals() compares values, == compares memory references."
+    },
+    {
+      "question": "What is garbage collection?",
+      "answer": "Automatic memory management that removes unused objects."
+    },
+    {
+      "question": "What is finalize() method?",
+      "answer": "A method called before garbage collection, now deprecated."
+    },
+    {
+      "question": "What is a thread?",
+      "answer": "A lightweight process for executing tasks concurrently."
+    },
+    {
+      "question": "What is thread pool?",
+      "answer": "A pool of reusable threads to improve performance."
+    },
+    {
+      "question": "What is ExecutorService?",
+      "answer": "A framework for managing threads."
+    },
+    {
+      "question": "What is deadlock?",
+      "answer": "A situation where threads block each other permanently."
+    },
+    {
+      "question": "What is Spring Boot auto-configuration?",
+      "answer": "Automatically configures application based on dependencies."
+    },
+    {
+      "question": "What is @ComponentScan?",
+      "answer": "Scans for components in packages."
+    },
+    {
+      "question": "What is @Bean?",
+      "answer": "Defines a bean manually in Spring context."
+    },
+    {
+      "question": "What is Spring Bean lifecycle?",
+      "answer": "Creation, initialization, usage, destruction."
+    },
+    {
+      "question": "What is AOP?",
+      "answer": "Aspect-Oriented Programming for cross-cutting concerns."
+    },
+    {
+      "question": "What is @Transactional?",
+      "answer": "Ensures database operations are executed as a transaction."
+    },
+    {
+      "question": "What is lazy initialization?",
+      "answer": "Beans created only when needed."
+    },
+    {
+      "question": "What is eager initialization?",
+      "answer": "Beans created at startup."
+    },
+    {
+      "question": "What is Spring profile?",
+      "answer": "Used to define environment-specific configurations."
+    },
+    {
+      "question": "What is configuration class?",
+      "answer": "Class that defines beans and settings."
+    },
+    {
+      "question": "What is idempotency in APIs?",
+      "answer": "Same request produces same result every time."
+    },
+    {
+      "question": "Which HTTP methods are idempotent?",
+      "answer": "GET, PUT, DELETE."
+    },
+    {
+      "question": "What is API throttling?",
+      "answer": "Limiting number of API requests."
+    },
+    {
+      "question": "What is pagination?",
+      "answer": "Dividing results into pages."
+    },
+    {
+      "question": "What is filtering in APIs?",
+      "answer": "Returning specific data based on conditions."
+    },
+    {
+      "question": "What is HATEOAS?",
+      "answer": "Hypermedia-driven REST API design."
+    },
+    {
+      "question": "What is API versioning?",
+      "answer": "Managing changes without breaking clients."
+    },
+    {
+      "question": "What is rate limiting?",
+      "answer": "Restricting API usage per user."
+    },
+    {
+      "question": "What is API gateway role?",
+      "answer": "Centralized request routing and security."
+    },
+    {
+      "question": "What is request validation?",
+      "answer": "Ensuring correct data before processing."
+    },
+    {
+      "question": "What is indexing strategy?",
+      "answer": "Choosing indexes to optimize queries."
+    },
+    {
+      "question": "What is composite index?",
+      "answer": "Index on multiple columns."
+    },
+    {
+      "question": "What is database sharding?",
+      "answer": "Splitting database into smaller parts."
+    },
+    {
+      "question": "What is replication?",
+      "answer": "Copying data across servers."
+    },
+    {
+      "question": "What is eventual consistency?",
+      "answer": "Data becomes consistent over time."
+    },
+    {
+      "question": "What is strong consistency?",
+      "answer": "Immediate consistency after update."
+    },
+    {
+      "question": "What is query optimization?",
+      "answer": "Improving performance of queries."
+    },
+    {
+      "question": "What is execution plan?",
+      "answer": "Steps database takes to execute query."
+    },
+    {
+      "question": "What is deadlock in DB?",
+      "answer": "Two transactions blocking each other."
+    },
+    {
+      "question": "What is connection pooling?",
+      "answer": "Reusing database connections."
+    },
+    {
+      "question": "What is MongoDB aggregation pipeline?",
+      "answer": "Framework for processing data in stages."
+    },
+    {
+      "question": "What is $match in MongoDB?",
+      "answer": "Filters documents."
+    },
+    {
+      "question": "What is $group?",
+      "answer": "Groups data by fields."
+    },
+    {
+      "question": "What is $lookup?",
+      "answer": "Performs join operation."
+    },
+    {
+      "question": "What is capped collection?",
+      "answer": "Fixed-size collection."
+    },
+    {
+      "question": "What is TTL index?",
+      "answer": "Automatically deletes expired data."
+    },
+    {
+      "question": "What is document embedding?",
+      "answer": "Storing related data in one document."
+    },
+    {
+      "question": "What is referencing?",
+      "answer": "Linking documents using IDs."
+    },
+    {
+      "question": "What is write concern?",
+      "answer": "Level of acknowledgment for writes."
+    },
+    {
+      "question": "What is read preference?",
+      "answer": "Determines how data is read from replicas."
+    },
+    {
+      "question": "What is React lifecycle?",
+      "answer": "Phases of component rendering."
+    },
+    {
+      "question": "What is useMemo?",
+      "answer": "Optimizes performance by memoizing values."
+    },
+    {
+      "question": "What is useCallback?",
+      "answer": "Memoizes functions."
+    },
+    {
+      "question": "What is context API?",
+      "answer": "Shares state globally."
+    },
+    {
+      "question": "What is Redux?",
+      "answer": "State management library."
+    },
+    {
+      "question": "What is prop drilling?",
+      "answer": "Passing props through multiple layers."
+    },
+    {
+      "question": "What is lazy loading?",
+      "answer": "Loading components only when needed."
+    },
+    {
+      "question": "What is code splitting?",
+      "answer": "Splitting code for performance."
+    },
+    {
+      "question": "What is reconciliation?",
+      "answer": "React updating DOM efficiently."
+    },
+    {
+      "question": "What is hooks rule?",
+      "answer": "Hooks must be called at top level."
+    },
+    {
+      "question": "What is Infrastructure as Code?",
+      "answer": "Managing infrastructure using code."
+    },
+    {
+      "question": "What is Dockerfile?",
+      "answer": "Instructions to build Docker image."
+    },
+    {
+      "question": "What is Kubernetes deployment?",
+      "answer": "Managing application deployment."
+    },
+    {
+      "question": "What is rolling update?",
+      "answer": "Updating app without downtime."
+    },
+    {
+      "question": "What is blue-green deployment?",
+      "answer": "Two environments for safe deployment."
+    },
+    {
+      "question": "What is CI pipeline?",
+      "answer": "Automates build and testing."
+    },
+    {
+      "question": "What is CD pipeline?",
+      "answer": "Automates deployment."
+    },
+    {
+      "question": "What is cloud scalability?",
+      "answer": "Adjusting resources dynamically."
+    },
+    {
+      "question": "What is fault tolerance?",
+      "answer": "System continues despite failures."
+    },
+    {
+      "question": "What is high availability?",
+      "answer": "System uptime with minimal downtime."
+    },
+    {
+      "question": "How do you design a scalable API?",
+      "answer": "Use load balancing, caching, and microservices."
+    },
+    {
+      "question": "How do you design a chat system?",
+      "answer": "Use WebSockets and real-time messaging."
+    },
+    {
+      "question": "How do you design a notification system?",
+      "answer": "Use queues and event-driven architecture."
+    },
+    {
+      "question": "How do you design a large database?",
+      "answer": "Use sharding and replication."
+    },
+    {
+      "question": "How do you reduce latency?",
+      "answer": "Use caching and CDN."
+    },
+    {
+      "question": "How do you handle millions of users?",
+      "answer": "Use scaling and distributed systems."
+    },
+    {
+      "question": "How do you design logging system?",
+      "answer": "Centralized logging with monitoring tools."
+    },
+    {
+      "question": "What is horizontal scaling?",
+      "answer": "Adding more machines."
+    },
+    {
+      "question": "What is vertical scaling?",
+      "answer": "Increasing resources of a single machine."
+    },
+    {
+      "question": "What is CDN?",
+      "answer": "Content delivery network for fast content access."
+    },
+    {
+      "question": "What is token-based authentication?",
+      "answer": "Authentication using tokens instead of sessions."
+    },
+    {
+      "question": "What is refresh token?",
+      "answer": "Used to renew access tokens."
+    },
+    {
+      "question": "What is session hijacking?",
+      "answer": "Unauthorized access to session."
+    },
+    {
+      "question": "What is encryption vs hashing?",
+      "answer": "Encryption reversible, hashing not."
+    },
+    {
+      "question": "What is salting?",
+      "answer": "Adding random data before hashing."
+    },
+    {
+      "question": "What is API security best practice?",
+      "answer": "Use HTTPS and authentication."
+    },
+    {
+      "question": "What is role-based access control?",
+      "answer": "Access based on user roles."
+    },
+    {
+      "question": "What is brute force attack?",
+      "answer": "Trying many passwords."
+    },
+    {
+      "question": "What is rate limiting security?",
+      "answer": "Prevent abuse."
+    },
+    {
+      "question": "What is firewall?",
+      "answer": "Network security system."
+    },
+    {
+      "question": "What is TDD?",
+      "answer": "Test Driven Development."
+    },
+    {
+      "question": "What is mocking?",
+      "answer": "Simulating dependencies."
+    },
+    {
+      "question": "What is test coverage?",
+      "answer": "Percentage of code tested."
+    },
+    {
+      "question": "What is integration testing?",
+      "answer": "Testing combined modules."
+    },
+    {
+      "question": "What is load testing?",
+      "answer": "Testing system under heavy load."
+    },
+    {
+      "question": "What is stress testing?",
+      "answer": "Testing beyond limits."
+    },
+    {
+      "question": "What is smoke testing?",
+      "answer": "Basic functionality testing."
+    },
+    {
+      "question": "What is test automation?",
+      "answer": "Automated testing scripts."
+    },
+    {
+      "question": "What is API mocking?",
+      "answer": "Simulating API responses."
+    },
+    {
+      "question": "What is CI testing?",
+      "answer": "Running tests in CI pipeline."
+    },
+    {
+      "question": "How do you fix a slow database query?",
+      "answer": "Add indexes and optimize joins."
+    },
+    {
+      "question": "How do you handle high traffic?",
+      "answer": "Use load balancing and scaling."
+    },
+    {
+      "question": "How do you debug production issues?",
+      "answer": "Analyze logs and monitor systems."
+    },
+    {
+      "question": "How do you handle API failure?",
+      "answer": "Retry and fallback mechanisms."
+    },
+    {
+      "question": "How do you prevent duplicate requests?",
+      "answer": "Use idempotency keys."
+    },
+    {
+      "question": "How do you manage sessions?",
+      "answer": "Use tokens or session storage."
+    },
+    {
+      "question": "How do you ensure system reliability?",
+      "answer": "Use redundancy and monitoring."
+    },
+    {
+      "question": "How do you design fault-tolerant systems?",
+      "answer": "Use backup and failover."
+    },
+    {
+      "question": "How do you handle memory leaks?",
+      "answer": "Monitor and optimize memory usage."
+    },
+    {
+      "question": "How do you improve application performance?",
+      "answer": "Optimize code and caching."
+    }
+  ],
+  "documents": [
+    {
+      "programming": 1,
+      "languages": 1,
+      "proficient": 1
+    },
+    {
+      "databases": 1,
+      "worked": 1
+    },
+    {
+      "frameworks": 1,
+      "use": 1,
+      "java": 1
+    },
+    {
+      "frontend": 1,
+      "frameworks": 1,
+      "know": 1
+    },
+    {
+      "restful": 1,
+      "api": 1
+    },
+    {
+      "microservices": 1,
+      "architecture": 1
+    },
+    {
+      "jwt": 1,
+      "use": 1
+    },
+    {
+      "mongodb": 1,
+      "use": 1
+    },
+    {
+      "difference": 1,
+      "sql": 1,
+      "nosql": 1
+    },
+    {
+      "version": 1,
+      "control": 1,
+      "tools": 1,
+      "use": 1
+    },
+    {
+      "cefts": 1,
+      "reconciliation": 1,
+      "application": 1
+    },
+    {
+      "transactions": 1,
+      "handle": 1,
+      "cefts": 1,
+      "project": 1
+    },
+    {
+      "database": 1,
+      "cefts": 1,
+      "use": 1
+    },
+    {
+      "generate": 1,
+      "reports": 1,
+      "cefts": 1,
+      "project": 1
+    },
+    {
+      "testing": 1,
+      "framework": 1,
+      "use": 1,
+      "apis": 1
+    },
+    {
+      "captive": 1,
+      "portal": 1,
+      "project": 1
+    },
+    {
+      "sri": 1,
+      "lanka": 1,
+      "telecom": 1
+    },
+    {
+      "final": 1,
+      "year": 1,
+      "research": 1,
+      "project": 1
+    },
+    {
+      "technologies": 1,
+      "using": 1,
+      "final": 1,
+      "year": 1,
+      "project": 1
+    },
+    {
+      "online": 1,
+      "hardware": 1,
+      "store": 1,
+      "project": 1
+    },
+    {
+      "cloud": 1,
+      "platforms": 1,
+      "worked": 1
+    },
+    {
+      "monitoring": 1,
+      "tools": 1,
+      "know": 1
+    },
+    {
+      "api": 1,
+      "tools": 1,
+      "used": 1
+    },
+    {
+      "docker": 1
+    },
+    {
+      "kubernetes": 1
+    },
+    {
+      "maven": 1
+    },
+    {
+      "design": 1,
+      "tools": 1,
+      "used": 1
+    },
+    {
+      "linux": 1,
+      "commands": 1,
+      "familiar": 1
+    },
+    {
+      "studying": 1
+    },
+    {
+      "study": 1,
+      "gce": 1,
+      "advanced": 1,
+      "level": 1
+    },
+    {
+      "gce": 1,
+      "ordinary": 1,
+      "level": 1,
+      "results": 1
+    },
+    {
+      "extracurricular": 1,
+      "activities": 1,
+      "involved": 1
+    },
+    {
+      "play": 1,
+      "sports": 1
+    },
+    {
+      "describe": 1,
+      "personality": 1
+    },
+    {
+      "handle": 1,
+      "stressful": 1,
+      "situations": 1
+    },
+    {
+      "work": 1,
+      "team": 1
+    },
+    {
+      "approach": 1,
+      "learning": 1,
+      "new": 1,
+      "technologies": 1
+    },
+    {
+      "difference": 1,
+      "authentication": 1,
+      "authorization": 1
+    },
+    {
+      "api": 1
+    },
+    {
+      "difference": 1,
+      "put": 1,
+      "post": 1
+    },
+    {
+      "dependency": 1,
+      "injection": 1
+    },
+    {
+      "purpose": 1,
+      "springbootapplication": 1,
+      "annotation": 1
+    },
+    {
+      "difference": 1,
+      "mongodb": 1,
+      "mysql": 1,
+      "terms": 1,
+      "schema": 1
+    },
+    {
+      "cap": 1,
+      "theorem": 1
+    },
+    {
+      "index": 1,
+      "database": 1
+    },
+    {
+      "difference": 1,
+      "inner": 1,
+      "join": 2,
+      "left": 1
+    },
+    {
+      "purpose": 1,
+      "git": 1,
+      "branching": 1
+    },
+    {
+      "difference": 1,
+      "http": 1,
+      "https": 1
+    },
+    {
+      "jwt": 1,
+      "token": 1,
+      "structure": 1
+    },
+    {
+      "use": 1,
+      "postman": 1,
+      "api": 1,
+      "development": 1
+    },
+    {
+      "difference": 1,
+      "monolithic": 1,
+      "microservices": 1,
+      "architecture": 1
+    },
+    {
+      "purpose": 1,
+      "docker": 1,
+      "compose": 1
+    },
+    {
+      "difference": 1,
+      "agile": 1,
+      "waterfall": 1
+    },
+    {
+      "role": 1,
+      "software": 1,
+      "engineer": 1,
+      "internship": 1
+    },
+    {
+      "choose": 1,
+      "career": 1
+    },
+    {
+      "future": 1,
+      "career": 1,
+      "goals": 1
+    },
+    {
+      "frame": 2,
+      "harmony": 1,
+      "feature": 1,
+      "wall": 1,
+      "store": 1,
+      "project": 1
+    },
+    {
+      "purpose": 1,
+      "job": 1,
+      "portal": 1,
+      "mobile": 1,
+      "application": 1
+    },
+    {
+      "office": 1,
+      "automation": 1,
+      "system": 1
+    },
+    {
+      "health": 1,
+      "fitness": 1,
+      "tracking": 1,
+      "web": 1,
+      "application": 1
+    },
+    {
+      "nilusha": 1,
+      "wijerathne": 1
+    },
+    {
+      "describe": 1,
+      "one": 1,
+      "sentence": 1
+    },
+    {
+      "handle": 1,
+      "stressful": 1,
+      "conditions": 1
+    },
+    {
+      "educational": 1,
+      "background": 1
+    },
+    {
+      "contact": 1,
+      "information": 1
+    },
+    {
+      "role": 1,
+      "ncinga": 1
+    },
+    {
+      "cefts": 1
+    },
+    {
+      "implement": 1,
+      "cefts": 1
+    },
+    {
+      "generate": 1,
+      "reports": 1,
+      "cefts": 1
+    },
+    {
+      "store": 1,
+      "cefts": 1,
+      "report": 1,
+      "data": 1
+    },
+    {
+      "testing": 1,
+      "cefts": 1,
+      "apis": 1
+    },
+    {
+      "captive": 1,
+      "portal": 1,
+      "project": 1
+    },
+    {
+      "security": 1,
+      "features": 1,
+      "implement": 1,
+      "captive": 1,
+      "portal": 1
+    },
+    {
+      "frontend": 1,
+      "technologies": 1,
+      "use": 1,
+      "ncinga": 1
+    },
+    {
+      "role": 1,
+      "sri": 1,
+      "lanka": 1,
+      "telecom": 1
+    },
+    {
+      "gis": 1,
+      "project": 1,
+      "slt": 1
+    },
+    {
+      "visualize": 1,
+      "gis": 1,
+      "project": 1
+    },
+    {
+      "features": 1,
+      "build": 1,
+      "gis": 1,
+      "project": 1
+    },
+    {
+      "uae": 1,
+      "embassy": 1,
+      "system": 1
+    },
+    {
+      "security": 1,
+      "features": 1,
+      "implement": 1,
+      "uae": 1,
+      "embassy": 1,
+      "system": 1
+    },
+    {
+      "cr": 1,
+      "uat": 1,
+      "production": 1,
+      "check": 1,
+      "system": 1
+    },
+    {
+      "features": 1,
+      "add": 1,
+      "workflow": 1,
+      "system": 1
+    },
+    {
+      "final": 1,
+      "year": 1,
+      "research": 1,
+      "project": 1
+    },
+    {
+      "technologies": 1,
+      "using": 1,
+      "final": 1,
+      "year": 1,
+      "project": 1
+    },
+    {
+      "problem": 1,
+      "final": 1,
+      "year": 1,
+      "project": 1,
+      "solve": 1
+    },
+    {
+      "online": 1,
+      "hardware": 1,
+      "store": 1
+    },
+    {
+      "technologies": 1,
+      "use": 1,
+      "online": 1,
+      "hardware": 1,
+      "store": 1
+    },
+    {
+      "online": 1,
+      "workers": 1,
+      "hiring": 1,
+      "app": 1
+    },
+    {
+      "technologies": 1,
+      "use": 1,
+      "hiring": 1,
+      "app": 1
+    },
+    {
+      "office": 1,
+      "automation": 1,
+      "system": 1
+    },
+    {
+      "technologies": 1,
+      "use": 1,
+      "office": 1,
+      "automation": 1,
+      "system": 1
+    },
+    {
+      "health": 1,
+      "fitness": 1,
+      "tracker": 1
+    },
+    {
+      "stack": 1,
+      "use": 1,
+      "health": 1,
+      "fitness": 1,
+      "tracker": 1
+    },
+    {
+      "wall": 1,
+      "frame": 1,
+      "store": 1
+    },
+    {
+      "stack": 1,
+      "use": 1,
+      "wall": 1,
+      "frame": 1,
+      "store": 1
+    },
+    {
+      "programming": 1,
+      "languages": 1,
+      "know": 1
+    },
+    {
+      "frameworks": 1,
+      "proficient": 1
+    },
+    {
+      "databases": 1,
+      "worked": 1
+    },
+    {
+      "cloud": 1,
+      "devops": 1,
+      "tools": 1,
+      "know": 1
+    },
+    {
+      "version": 1,
+      "control": 1,
+      "tools": 1,
+      "use": 1
+    },
+    {
+      "api": 1,
+      "concepts": 1,
+      "familiar": 1
+    },
+    {
+      "development": 1,
+      "tools": 1,
+      "use": 1
+    },
+    {
+      "aws": 1,
+      "certifications": 1
+    },
+    {
+      "postman": 1,
+      "certification": 1
+    },
+    {
+      "appdynamics": 1,
+      "certifications": 1
+    },
+    {
+      "mongodb": 1,
+      "certification": 1
+    },
+    {
+      "societies": 1,
+      "member": 1
+    },
+    {
+      "play": 1,
+      "sports": 1
+    },
+    {
+      "learn": 1,
+      "astronomical": 1,
+      "society": 1
+    },
+    {
+      "playing": 1,
+      "baseball": 1,
+      "relate": 1,
+      "work": 1,
+      "ethic": 1
+    },
+    {
+      "type": 1,
+      "problems": 1,
+      "enjoy": 1,
+      "solving": 1
+    },
+    {
+      "approach": 1,
+      "learning": 1,
+      "new": 1,
+      "technologies": 1
+    },
+    {
+      "greatest": 1,
+      "strength": 1
+    },
+    {
+      "looking": 1,
+      "next": 1,
+      "role": 1
+    },
+    {
+      "someone": 1,
+      "hire": 1
+    },
+    {
+      "complete": 1,
+      "school": 1,
+      "education": 1
+    },
+    {
+      "complete": 1,
+      "gce": 1,
+      "advanced": 1,
+      "level": 1
+    },
+    {
+      "gce": 1,
+      "advanced": 1,
+      "level": 1,
+      "admission": 1,
+      "number": 1
+    },
+    {
+      "medium": 1,
+      "study": 1
+    },
+    {
+      "subjects": 1,
+      "gce": 1,
+      "advanced": 1,
+      "level": 1
+    },
+    {
+      "general": 1,
+      "english": 1,
+      "result": 1
+    },
+    {
+      "chemistry": 1,
+      "result": 1
+    },
+    {
+      "combined": 1,
+      "mathematics": 1,
+      "result": 1
+    },
+    {
+      "physics": 1,
+      "result": 1
+    },
+    {
+      "complete": 1,
+      "gce": 1,
+      "ordinary": 1,
+      "level": 1
+    },
+    {
+      "gce": 1,
+      "ordinary": 1,
+      "level": 1,
+      "admission": 1,
+      "number": 1
+    },
+    {
+      "medium": 1,
+      "study": 1
+    },
+    {
+      "english": 1,
+      "result": 1
+    },
+    {
+      "mathematics": 1,
+      "result": 1
+    },
+    {
+      "sinhala": 1,
+      "result": 1
+    },
+    {
+      "dancing": 1,
+      "result": 1
+    },
+    {
+      "history": 1,
+      "result": 1
+    },
+    {
+      "buddhism": 1,
+      "result": 1
+    },
+    {
+      "health": 1,
+      "science": 1,
+      "education": 1,
+      "result": 1
+    },
+    {
+      "science": 1,
+      "result": 1
+    },
+    {
+      "business": 1,
+      "accounts": 1,
+      "result": 1
+    },
+    {
+      "grades": 1,
+      "achieve": 1
+    },
+    {
+      "subject": 1,
+      "strongest": 1
+    },
+    {
+      "results": 1,
+      "prepare": 1
+    },
+    {
+      "best": 1,
+      "subject": 1
+    },
+    {
+      "choose": 1,
+      "mathematics": 1,
+      "stream": 1
+    },
+    {
+      "mathematics": 1,
+      "background": 1,
+      "help": 1
+    },
+    {
+      "learn": 1,
+      "studying": 1,
+      "chemistry": 1,
+      "physics": 1
+    },
+    {
+      "general": 1,
+      "english": 1,
+      "result": 1,
+      "help": 1,
+      "career": 1
+    },
+    {
+      "long": 1,
+      "study": 1,
+      "trinity": 1,
+      "college": 1
+    },
+    {
+      "extracurricular": 1,
+      "activities": 1,
+      "trinity": 1,
+      "college": 1
+    },
+    {
+      "participate": 1,
+      "cultural": 1,
+      "activities": 1
+    },
+    {
+      "transition": 1,
+      "mathematics": 1,
+      "stream": 1
+    },
+    {
+      "results": 1,
+      "influence": 1,
+      "career": 1,
+      "path": 1
+    },
+    {
+      "skills": 1,
+      "trinity": 1,
+      "college": 1,
+      "help": 1
+    },
+    {
+      "buddhist": 1,
+      "society": 1,
+      "membership": 1,
+      "help": 1,
+      "career": 1
+    },
+    {
+      "astronomical": 1,
+      "society": 1,
+      "membership": 1,
+      "relate": 1
+    },
+    {
+      "learn": 1,
+      "science": 1,
+      "society": 1
+    },
+    {
+      "balance": 1,
+      "academics": 1,
+      "extracurricular": 1,
+      "activities": 1
+    },
+    {
+      "overcome": 1,
+      "academic": 1,
+      "challenges": 1
+    },
+    {
+      "differently": 1,
+      "academically": 1
+    },
+    {
+      "education": 1,
+      "background": 1,
+      "unique": 1
+    },
+    {
+      "education": 1,
+      "journey": 1,
+      "say": 1
+    },
+    {
+      "excellent": 1,
+      "fostering": 1,
+      "relationships": 1,
+      "mean": 1
+    },
+    {
+      "demonstrate": 1,
+      "fast": 1,
+      "learner": 1
+    },
+    {
+      "makes": 1,
+      "reliable": 1,
+      "pleasant": 1
+    },
+    {
+      "ensure": 1,
+      "punctuality": 1,
+      "meeting": 1,
+      "deadlines": 1
+    },
+    {
+      "makes": 1,
+      "good": 1,
+      "team": 1,
+      "player": 1
+    },
+    {
+      "adapt": 1,
+      "quickly": 1,
+      "new": 1,
+      "situations": 1
+    },
+    {
+      "drives": 1,
+      "passion": 1,
+      "deliver": 1,
+      "best": 1
+    },
+    {
+      "approach": 1,
+      "rational": 1,
+      "decision": 1,
+      "making": 1
+    },
+    {
+      "give": 1,
+      "example": 1,
+      "quick": 1,
+      "adaptability": 1
+    },
+    {
+      "personal": 1,
+      "skills": 1,
+      "benefit": 1,
+      "employer": 1
+    },
+    {
+      "ask": 1,
+      "chatbot": 1
+    },
+    {
+      "chatbot": 1
+    },
+    {
+      "created": 1,
+      "chatbot": 1
+    },
+    {
+      "technologies": 1,
+      "power": 1,
+      "chatbot": 1
+    },
+    {
+      "trust": 1,
+      "chatbot": 1,
+      "answers": 1
+    },
+    {
+      "chatbot": 1,
+      "use": 1,
+      "ai": 1
+    },
+    {
+      "build": 1,
+      "chatbot": 1
+    },
+    {
+      "makes": 1,
+      "chatbot": 1,
+      "unique": 1
+    },
+    {
+      "chatbot": 1,
+      "answer": 1,
+      "technical": 1,
+      "questions": 1
+    },
+    {
+      "dependency": 1,
+      "inversion": 1,
+      "principle": 1
+    },
+    {
+      "solid": 1,
+      "principle": 1
+    },
+    {
+      "loose": 1,
+      "coupling": 1
+    },
+    {
+      "high": 1,
+      "cohesion": 1
+    },
+    {
+      "design": 1,
+      "pattern": 1
+    },
+    {
+      "singleton": 1,
+      "pattern": 1
+    },
+    {
+      "factory": 1,
+      "pattern": 1
+    },
+    {
+      "mvc": 1,
+      "architecture": 1
+    },
+    {
+      "rest": 1,
+      "constraint": 1
+    },
+    {
+      "stateless": 1,
+      "api": 1
+    },
+    {
+      "spring": 1,
+      "boot": 1
+    },
+    {
+      "spring": 1,
+      "security": 1
+    },
+    {
+      "restcontroller": 1
+    },
+    {
+      "autowired": 1
+    },
+    {
+      "application": 1,
+      "properties": 1
+    },
+    {
+      "exception": 1,
+      "handling": 1,
+      "spring": 1,
+      "boot": 1
+    },
+    {
+      "jpa": 1
+    },
+    {
+      "hibernate": 1
+    },
+    {
+      "lazy": 1,
+      "loading": 1
+    },
+    {
+      "eager": 1,
+      "loading": 1
+    },
+    {
+      "normalization": 1
+    },
+    {
+      "denormalization": 1
+    },
+    {
+      "primary": 1,
+      "key": 1
+    },
+    {
+      "foreign": 1,
+      "key": 1
+    },
+    {
+      "query": 1,
+      "optimization": 1
+    },
+    {
+      "indexing": 1,
+      "mongodb": 1
+    },
+    {
+      "aggregation": 1,
+      "mongodb": 1
+    },
+    {
+      "acid": 1,
+      "property": 1
+    },
+    {
+      "transaction": 1,
+      "management": 1
+    },
+    {
+      "sharding": 1
+    },
+    {
+      "reactjs": 1
+    },
+    {
+      "component": 1,
+      "react": 1
+    },
+    {
+      "state": 1,
+      "react": 1
+    },
+    {
+      "props": 1,
+      "react": 1
+    },
+    {
+      "useeffect": 1
+    },
+    {
+      "usestate": 1
+    },
+    {
+      "virtual": 1,
+      "dom": 1
+    },
+    {
+      "jsx": 1
+    },
+    {
+      "conditional": 1,
+      "rendering": 1
+    },
+    {
+      "event": 1,
+      "handling": 1,
+      "react": 1
+    },
+    {
+      "api": 1,
+      "gateway": 1
+    },
+    {
+      "rate": 1,
+      "limiting": 1
+    },
+    {
+      "api": 1,
+      "authentication": 1
+    },
+    {
+      "oauth": 1
+    },
+    {
+      "json": 1
+    },
+    {
+      "xml": 1
+    },
+    {
+      "api": 1,
+      "versioning": 1
+    },
+    {
+      "error": 1,
+      "handling": 1,
+      "apis": 1
+    },
+    {
+      "200": 1,
+      "http": 1,
+      "status": 1,
+      "code": 1
+    },
+    {
+      "404": 1,
+      "http": 1,
+      "status": 1,
+      "code": 1
+    },
+    {
+      "ci": 1,
+      "cd": 1
+    },
+    {
+      "aws": 1,
+      "ec2": 1
+    },
+    {
+      "aws": 1,
+      "s3": 1
+    },
+    {
+      "containerization": 1
+    },
+    {
+      "docker": 1,
+      "image": 1
+    },
+    {
+      "docker": 1,
+      "container": 1
+    },
+    {
+      "kubernetes": 1,
+      "pod": 1
+    },
+    {
+      "scaling": 1
+    },
+    {
+      "load": 1,
+      "balancing": 1
+    },
+    {
+      "monitoring": 1
+    },
+    {
+      "handle": 1,
+      "tight": 1,
+      "deadlines": 1
+    },
+    {
+      "deal": 1,
+      "failure": 1
+    },
+    {
+      "handle": 1,
+      "criticism": 1
+    },
+    {
+      "work": 1,
+      "pressure": 1
+    },
+    {
+      "manage": 1,
+      "time": 1
+    },
+    {
+      "learn": 1,
+      "new": 1,
+      "tools": 1,
+      "quickly": 1
+    },
+    {
+      "solve": 1,
+      "bugs": 1
+    },
+    {
+      "communicate": 1,
+      "team": 1
+    },
+    {
+      "handle": 1,
+      "conflicts": 1
+    },
+    {
+      "stay": 1,
+      "motivated": 1
+    },
+    {
+      "handle": 1,
+      "large": 1,
+      "data": 1,
+      "cefts": 1
+    },
+    {
+      "ensure": 1,
+      "accuracy": 1,
+      "reports": 1
+    },
+    {
+      "challenges": 1,
+      "face": 1,
+      "cefts": 1
+    },
+    {
+      "solve": 1,
+      "performance": 1,
+      "issues": 1
+    },
+    {
+      "design": 1,
+      "microservices": 1
+    },
+    {
+      "handle": 1,
+      "authentication": 1
+    },
+    {
+      "test": 1,
+      "apis": 1
+    },
+    {
+      "manage": 1,
+      "frontend": 1,
+      "backend": 1,
+      "communication": 1
+    },
+    {
+      "biggest": 1,
+      "challenge": 1,
+      "internship": 1
+    },
+    {
+      "learn": 1,
+      "internships": 1
+    },
+    {
+      "hire": 1
+    },
+    {
+      "makes": 1,
+      "different": 1
+    },
+    {
+      "weakness": 1
+    },
+    {
+      "years": 1
+    },
+    {
+      "leave": 1,
+      "internship": 1
+    },
+    {
+      "comfortable": 1,
+      "working": 1,
+      "team": 1
+    },
+    {
+      "work": 1,
+      "independently": 1
+    },
+    {
+      "type": 1,
+      "company": 1,
+      "prefer": 1
+    },
+    {
+      "open": 1,
+      "learning": 1,
+      "new": 1,
+      "technologies": 1
+    },
+    {
+      "expected": 1,
+      "salary": 1
+    },
+    {
+      "projects": 1
+    },
+    {
+      "live": 1,
+      "demos": 1
+    },
+    {
+      "strongest": 1,
+      "project": 1
+    },
+    {
+      "project": 1,
+      "proud": 1
+    },
+    {
+      "work": 1,
+      "personal": 1,
+      "projects": 1
+    },
+    {
+      "often": 1,
+      "update": 1,
+      "portfolio": 1
+    },
+    {
+      "contribute": 1,
+      "open": 1,
+      "source": 1
+    },
+    {
+      "technologies": 1,
+      "prefer": 1
+    },
+    {
+      "frontend": 1,
+      "backend": 1
+    },
+    {
+      "full": 1,
+      "stack": 1
+    },
+    {
+      "leader": 1
+    },
+    {
+      "adaptable": 1
+    },
+    {
+      "detail": 1,
+      "oriented": 1
+    },
+    {
+      "creative": 1
+    },
+    {
+      "organized": 1
+    },
+    {
+      "punctual": 1
+    },
+    {
+      "initiative": 1
+    },
+    {
+      "accept": 1,
+      "feedback": 1
+    },
+    {
+      "enjoy": 1,
+      "teamwork": 1
+    },
+    {
+      "handle": 1,
+      "multitasking": 1
+    },
+    {},
+    {
+      "introduce": 1
+    },
+    {
+      "kind": 1,
+      "developer": 1
+    },
+    {
+      "describe": 1,
+      "professionally": 1
+    },
+    {},
+    {
+      "profession": 1
+    },
+    {
+      "specialization": 1
+    },
+    {
+      "main": 1,
+      "expertise": 1
+    },
+    {
+      "contact": 1
+    },
+    {
+      "email": 1
+    },
+    {
+      "phone": 1,
+      "number": 1
+    },
+    {
+      "find": 1,
+      "linkedin": 1
+    },
+    {
+      "github": 1
+    },
+    {
+      "available": 1,
+      "hire": 1
+    },
+    {
+      "open": 1,
+      "internships": 1
+    },
+    {
+      "currently": 1,
+      "working": 1
+    },
+    {
+      "hire": 1
+    },
+    {
+      "open": 1,
+      "remote": 1,
+      "work": 1
+    },
+    {
+      "find": 1,
+      "portfolio": 1
+    },
+    {
+      "included": 1,
+      "portfolio": 1
+    },
+    {
+      "explore": 1,
+      "projects": 1
+    },
+    {
+      "projects": 1,
+      "listed": 1
+    },
+    {
+      "portfolio": 1,
+      "website": 1
+    },
+    {
+      "portfolio": 1,
+      "showcase": 1
+    },
+    {
+      "work": 1
+    },
+    {
+      "live": 1,
+      "demos": 1
+    },
+    {
+      "portfolio": 1,
+      "updated": 1
+    },
+    {
+      "purpose": 1,
+      "portfolio": 1
+    },
+    {
+      "projects": 1,
+      "done": 1
+    },
+    {
+      "list": 1,
+      "projects": 1
+    },
+    {
+      "kind": 1,
+      "projects": 1,
+      "build": 1
+    },
+    {
+      "experience": 1,
+      "real": 1,
+      "world": 1,
+      "projects": 1
+    },
+    {
+      "best": 1,
+      "project": 1
+    },
+    {
+      "project": 1,
+      "proud": 1
+    },
+    {
+      "build": 1,
+      "full": 1,
+      "stack": 1,
+      "apps": 1
+    },
+    {
+      "experience": 1,
+      "iot": 1
+    },
+    {
+      "technologies": 1,
+      "use": 1,
+      "projects": 1
+    },
+    {
+      "cefts": 1,
+      "system": 1
+    },
+    {
+      "cefts": 1
+    },
+    {
+      "big": 1,
+      "cefts": 1,
+      "data": 1
+    },
+    {
+      "tech": 1,
+      "use": 1,
+      "cefts": 1
+    },
+    {
+      "work": 1,
+      "large": 1,
+      "scale": 1,
+      "systems": 1
+    },
+    {
+      "challenges": 1,
+      "face": 1,
+      "cefts": 1
+    },
+    {
+      "ensure": 1,
+      "performance": 1,
+      "cefts": 1
+    },
+    {
+      "database": 1,
+      "used": 1,
+      "cefts": 1
+    },
+    {
+      "test": 1,
+      "cefts": 1,
+      "apis": 1
+    },
+    {
+      "research": 1,
+      "project": 1
+    },
+    {
+      "problem": 1,
+      "project": 1,
+      "solve": 1
+    },
+    {
+      "technologies": 1,
+      "used": 1
+    },
+    {
+      "project": 1,
+      "ai": 1,
+      "based": 1
+    },
+    {
+      "project": 1,
+      "use": 1,
+      "iot": 1
+    },
+    {
+      "benefits": 1,
+      "project": 1
+    },
+    {
+      "project": 1,
+      "unique": 1
+    },
+    {
+      "features": 1,
+      "project": 1,
+      "include": 1
+    },
+    {
+      "project": 1,
+      "deployed": 1
+    },
+    {
+      "skills": 1
+    },
+    {
+      "technologies": 1,
+      "know": 1
+    },
+    {
+      "languages": 1,
+      "code": 1
+    },
+    {
+      "good": 1,
+      "backend": 1
+    },
+    {
+      "know": 1,
+      "frontend": 1
+    },
+    {
+      "full": 1,
+      "stack": 1
+    },
+    {
+      "know": 1,
+      "databases": 1
+    },
+    {
+      "use": 1,
+      "git": 1
+    },
+    {
+      "know": 1,
+      "cloud": 1,
+      "computing": 1
+    },
+    {
+      "use": 1,
+      "docker": 1
+    },
+    {
+      "work": 1,
+      "experience": 1
+    },
+    {
+      "intern": 1
+    },
+    {
+      "ncinga": 1
+    },
+    {
+      "slt": 1
+    },
+    {
+      "real": 1,
+      "industry": 1,
+      "experience": 1
+    },
+    {
+      "type": 1,
+      "systems": 1,
+      "worked": 1
+    },
+    {
+      "worked": 1,
+      "teams": 1
+    },
+    {
+      "work": 1,
+      "production": 1,
+      "systems": 1
+    },
+    {
+      "client": 1,
+      "project": 1,
+      "experience": 1
+    },
+    {
+      "learn": 1,
+      "industry": 1
+    },
+    {
+      "hire": 1
+    },
+    {
+      "makes": 1,
+      "unique": 1
+    },
+    {
+      "fast": 1,
+      "learner": 1
+    },
+    {
+      "work": 1,
+      "pressure": 1
+    },
+    {
+      "reliable": 1
+    },
+    {
+      "meet": 1,
+      "deadlines": 1
+    },
+    {
+      "responsibility": 1
+    },
+    {
+      "self": 1,
+      "motivated": 1
+    },
+    {
+      "need": 1,
+      "supervision": 1
+    },
+    {
+      "goal": 1,
+      "oriented": 1
+    },
+    {
+      "tell": 1,
+      "nilusha": 1
+    },
+    {
+      "developer": 1,
+      "portfolio": 1
+    },
+    {
+      "describe": 1,
+      "nilusha": 1,
+      "skills": 1
+    },
+    {
+      "nilusha": 1,
+      "specialize": 1
+    },
+    {
+      "nilusha": 1,
+      "good": 1
+    },
+    {
+      "nilusha": 1,
+      "experience": 1
+    },
+    {
+      "nilusha": 1,
+      "strengths": 1
+    },
+    {
+      "technologies": 1,
+      "nilusha": 1,
+      "use": 1
+    },
+    {
+      "nilusha": 1,
+      "experienced": 1
+    },
+    {
+      "choose": 1,
+      "nilusha": 1
+    },
+    {
+      "hey": 1
+    },
+    {
+      "background": 1
+    },
+    {
+      "build": 1
+    },
+    {
+      "experienced": 1
+    },
+    {
+      "code": 1
+    },
+    {
+      "good": 1
+    },
+    {
+      "enjoy": 1
+    },
+    {
+      "work": 1
+    },
+    {
+      "goal": 1
+    },
+    {
+      "kind": 1,
+      "questions": 1,
+      "ask": 1
+    },
+    {
+      "chatbot": 1,
+      "help": 1
+    },
+    {
+      "information": 1,
+      "chatbot": 1
+    },
+    {
+      "topics": 1,
+      "chatbot": 1,
+      "cover": 1
+    },
+    {
+      "chatbot": 1,
+      "explain": 1,
+      "experience": 1
+    },
+    {
+      "ask": 1,
+      "projects": 1
+    },
+    {
+      "chatbot": 1,
+      "describe": 1,
+      "skills": 1
+    },
+    {
+      "chatbot": 1,
+      "know": 1,
+      "cv": 1
+    },
+    {
+      "learn": 1,
+      "education": 1
+    },
+    {
+      "chatbot": 1
+    },
+    {
+      "purpose": 1,
+      "chatbot": 1
+    },
+    {
+      "use": 1,
+      "chatbot": 1
+    },
+    {
+      "makes": 1,
+      "chatbot": 1,
+      "useful": 1
+    },
+    {
+      "chatbot": 1,
+      "improve": 1,
+      "portfolio": 1
+    },
+    {
+      "chatbot": 1,
+      "part": 1,
+      "portfolio": 1
+    },
+    {
+      "problem": 1,
+      "chatbot": 1,
+      "solve": 1
+    },
+    {
+      "add": 1,
+      "chatbot": 1,
+      "portfolio": 1
+    },
+    {
+      "goal": 1,
+      "chatbot": 1
+    },
+    {
+      "chatbot": 1,
+      "benefit": 1,
+      "recruiters": 1
+    },
+    {
+      "chatbot": 1,
+      "meant": 1,
+      "employers": 1
+    },
+    {
+      "chatbot": 1,
+      "work": 1
+    },
+    {
+      "technology": 1,
+      "behind": 1,
+      "chatbot": 1
+    },
+    {
+      "chatbot": 1,
+      "rule": 1,
+      "based": 2,
+      "ai": 1
+    },
+    {
+      "chatbot": 1,
+      "use": 1,
+      "machine": 1,
+      "learning": 1
+    },
+    {
+      "answers": 1,
+      "generated": 1
+    },
+    {
+      "chatbot": 1,
+      "connected": 1,
+      "database": 1
+    },
+    {
+      "chatbot": 1,
+      "use": 1,
+      "nlp": 1
+    },
+    {
+      "chatbot": 1,
+      "understand": 1,
+      "different": 1,
+      "questions": 1
+    },
+    {
+      "accurate": 1,
+      "chatbot": 1
+    },
+    {
+      "chatbot": 1,
+      "improve": 1,
+      "time": 1
+    },
+    {
+      "ask": 1,
+      "complex": 1,
+      "questions": 1
+    },
+    {
+      "chatbot": 1,
+      "answer": 1,
+      "technical": 1,
+      "questions": 1
+    },
+    {
+      "chatbot": 1,
+      "answer": 1,
+      "personal": 1,
+      "questions": 1
+    },
+    {
+      "ask": 1,
+      "experience": 1
+    },
+    {
+      "ask": 1,
+      "skills": 1
+    },
+    {
+      "ask": 1,
+      "certifications": 1
+    },
+    {
+      "ask": 1,
+      "internships": 1
+    },
+    {
+      "ask": 1,
+      "projects": 1,
+      "detail": 1
+    },
+    {
+      "ask": 1,
+      "achievements": 1
+    },
+    {
+      "ask": 1,
+      "career": 1,
+      "goals": 1
+    },
+    {
+      "use": 1,
+      "chatbot": 1
+    },
+    {
+      "chatbot": 1,
+      "useful": 1,
+      "hiring": 1,
+      "decisions": 1
+    },
+    {
+      "employers": 1,
+      "rely": 1,
+      "chatbot": 1
+    },
+    {
+      "chatbot": 1,
+      "suitable": 1,
+      "technical": 1,
+      "evaluation": 1
+    },
+    {
+      "chatbot": 1,
+      "replace": 1,
+      "reading": 1,
+      "cv": 1
+    },
+    {
+      "chatbot": 1,
+      "better": 1,
+      "resume": 1
+    },
+    {
+      "chatbot": 1,
+      "provide": 1,
+      "real": 1,
+      "time": 1,
+      "answers": 1
+    },
+    {
+      "chatbot": 1,
+      "easy": 1,
+      "use": 1
+    },
+    {
+      "need": 1,
+      "instructions": 1,
+      "use": 1,
+      "chatbot": 1
+    },
+    {
+      "non": 1,
+      "technical": 1,
+      "users": 1,
+      "use": 1,
+      "chatbot": 1
+    },
+    {
+      "chatbot": 1,
+      "custom": 1,
+      "built": 1
+    },
+    {
+      "build": 1,
+      "chatbot": 1
+    },
+    {
+      "inspired": 1,
+      "build": 1,
+      "chatbot": 1
+    },
+    {
+      "chatbot": 1,
+      "part": 1,
+      "projects": 1
+    },
+    {
+      "chatbot": 1,
+      "demonstrate": 1,
+      "skills": 1
+    },
+    {
+      "skills": 1,
+      "chatbot": 1,
+      "highlight": 1
+    },
+    {
+      "chatbot": 1,
+      "real": 1,
+      "world": 1,
+      "application": 1
+    },
+    {
+      "chatbot": 1,
+      "extended": 1
+    },
+    {
+      "chatbot": 1,
+      "integrated": 1,
+      "systems": 1
+    },
+    {
+      "chatbot": 1,
+      "scalable": 1
+    },
+    {
+      "chatbot": 1,
+      "improved": 1
+    },
+    {
+      "features": 1,
+      "added": 1,
+      "chatbot": 1
+    },
+    {
+      "chatbot": 1,
+      "support": 1,
+      "multiple": 1,
+      "languages": 1
+    },
+    {
+      "chatbot": 1,
+      "learn": 1,
+      "automatically": 1
+    },
+    {
+      "chatbot": 1,
+      "production": 1,
+      "ready": 1
+    },
+    {
+      "chatbot": 1,
+      "handle": 1,
+      "multiple": 1,
+      "users": 1
+    },
+    {
+      "chatbot": 1,
+      "secure": 1
+    },
+    {
+      "chatbot": 1,
+      "store": 1,
+      "conversations": 1
+    },
+    {
+      "chatbot": 1,
+      "log": 1,
+      "queries": 1
+    },
+    {
+      "chatbot": 1,
+      "analyze": 1,
+      "user": 1,
+      "behavior": 1
+    },
+    {
+      "chatbot": 1,
+      "mobile": 1,
+      "friendly": 1
+    },
+    {
+      "use": 1,
+      "chatbot": 1,
+      "anytime": 1
+    },
+    {
+      "chatbot": 1,
+      "require": 1,
+      "login": 1
+    },
+    {
+      "chatbot": 1,
+      "fast": 1
+    },
+    {
+      "chatbot": 1,
+      "ui": 1,
+      "design": 1,
+      "considerations": 1
+    },
+    {
+      "chatbot": 1,
+      "interactive": 1
+    },
+    {
+      "test": 1,
+      "chatbot": 1,
+      "freely": 1
+    },
+    {
+      "chatbot": 1,
+      "support": 1,
+      "continuous": 1,
+      "conversation": 1
+    },
+    {
+      "chatbot": 1,
+      "responsive": 1
+    },
+    {
+      "chatbot": 1,
+      "guide": 1,
+      "users": 1
+    },
+    {
+      "makes": 1,
+      "chatbot": 1,
+      "different": 1
+    },
+    {
+      "chatbot": 1,
+      "better": 1,
+      "others": 1
+    },
+    {
+      "chatbot": 1,
+      "unique": 1
+    },
+    {
+      "chatbot": 1,
+      "show": 1,
+      "creativity": 1
+    },
+    {
+      "chatbot": 1,
+      "impressive": 1
+    },
+    {
+      "value": 1,
+      "chatbot": 1,
+      "add": 1
+    },
+    {
+      "chatbot": 1,
+      "innovative": 1
+    },
+    {
+      "chatbot": 1,
+      "reflect": 1,
+      "skills": 1
+    },
+    {
+      "chatbot": 1,
+      "impress": 1,
+      "recruiters": 1
+    },
+    {
+      "chatbot": 1,
+      "good": 1,
+      "portfolio": 1,
+      "feature": 1
+    },
+    {
+      "polymorphism": 1,
+      "java": 1
+    },
+    {
+      "encapsulation": 1
+    },
+    {
+      "inheritance": 1
+    },
+    {
+      "abstraction": 1
+    },
+    {
+      "method": 1,
+      "overloading": 1
+    },
+    {
+      "method": 1,
+      "overriding": 1
+    },
+    {
+      "interface": 1
+    },
+    {
+      "abstract": 1,
+      "class": 1
+    },
+    {
+      "difference": 1,
+      "interface": 1,
+      "abstract": 1,
+      "class": 1
+    },
+    {
+      "final": 1,
+      "keyword": 1
+    },
+    {
+      "nullpointerexception": 1,
+      "occurs": 1
+    },
+    {
+      "debug": 1,
+      "java": 1,
+      "code": 1
+    },
+    {
+      "application": 1,
+      "crashes": 1,
+      "randomly": 1
+    },
+    {
+      "handle": 1,
+      "memory": 1,
+      "leaks": 1
+    },
+    {
+      "method": 1,
+      "runs": 1,
+      "slow": 1
+    },
+    {
+      "spring": 1,
+      "boot": 1,
+      "auto": 1,
+      "configuration": 1
+    },
+    {
+      "componentscan": 1
+    },
+    {
+      "bean": 1
+    },
+    {
+      "spring": 1,
+      "boot": 1,
+      "actuator": 1
+    },
+    {
+      "filter": 1,
+      "spring": 1,
+      "boot": 1
+    },
+    {
+      "500": 1,
+      "api": 1,
+      "returns": 1,
+      "error": 1
+    },
+    {
+      "secure": 1,
+      "api": 1
+    },
+    {
+      "authentication": 1,
+      "fails": 1
+    },
+    {
+      "handle": 1,
+      "exceptions": 1,
+      "globally": 1
+    },
+    {
+      "api": 1,
+      "slow": 1
+    },
+    {
+      "indexing": 1
+    },
+    {
+      "normalization": 1,
+      "vs": 1,
+      "denormalization": 1
+    },
+    {
+      "composite": 1,
+      "key": 1
+    },
+    {
+      "stored": 1,
+      "procedure": 1
+    },
+    {
+      "trigger": 1
+    },
+    {
+      "query": 1,
+      "slow": 1
+    },
+    {
+      "database": 1,
+      "connection": 1,
+      "fails": 1
+    },
+    {
+      "handle": 1,
+      "large": 1,
+      "datasets": 1
+    },
+    {
+      "duplicate": 1,
+      "data": 1,
+      "appears": 1
+    },
+    {
+      "ensure": 1,
+      "data": 1,
+      "consistency": 1
+    },
+    {
+      "document": 1,
+      "mongodb": 1
+    },
+    {
+      "collection": 1
+    },
+    {
+      "aggregation": 1,
+      "pipeline": 1
+    },
+    {
+      "match": 1
+    },
+    {
+      "group": 1
+    },
+    {
+      "mongodb": 1,
+      "query": 1,
+      "slow": 1
+    },
+    {
+      "handle": 1,
+      "large": 1,
+      "collections": 1
+    },
+    {
+      "data": 1,
+      "inconsistent": 1
+    },
+    {
+      "optimize": 1,
+      "queries": 1
+    },
+    {
+      "duplicate": 1,
+      "documents": 1,
+      "exist": 1
+    },
+    {
+      "react": 1,
+      "lifecycle": 1
+    },
+    {
+      "useeffect": 1,
+      "dependency": 1,
+      "array": 1
+    },
+    {
+      "memoization": 1
+    },
+    {
+      "react": 1,
+      "router": 1
+    },
+    {
+      "redux": 1
+    },
+    {
+      "ui": 1,
+      "slow": 1
+    },
+    {
+      "state": 1,
+      "not": 1,
+      "updating": 1
+    },
+    {
+      "debug": 1,
+      "react": 1
+    },
+    {
+      "api": 1,
+      "data": 1,
+      "not": 1,
+      "loading": 1
+    },
+    {
+      "manage": 1,
+      "forms": 1
+    },
+    {
+      "idempotency": 1
+    },
+    {
+      "rate": 1,
+      "limiting": 1
+    },
+    {
+      "api": 1,
+      "throttling": 1
+    },
+    {
+      "webhook": 1
+    },
+    {
+      "serialization": 1
+    },
+    {
+      "api": 1,
+      "fails": 1
+    },
+    {
+      "api": 1,
+      "response": 1,
+      "incorrect": 1
+    },
+    {
+      "secure": 1,
+      "apis": 1
+    },
+    {
+      "api": 1,
+      "latency": 1,
+      "high": 1
+    },
+    {
+      "test": 1,
+      "apis": 1
+    },
+    {
+      "cloud": 1,
+      "computing": 1
+    },
+    {
+      "aws": 1,
+      "ec2": 1
+    },
+    {
+      "aws": 1,
+      "s3": 1
+    },
+    {
+      "ci": 1,
+      "cd": 1,
+      "pipeline": 1
+    },
+    {
+      "container": 1,
+      "orchestration": 1
+    },
+    {
+      "deployment": 1,
+      "fails": 1
+    },
+    {
+      "rollback": 1
+    },
+    {
+      "server": 1,
+      "crashes": 1
+    },
+    {
+      "monitor": 1,
+      "apps": 1
+    },
+    {
+      "traffic": 1,
+      "spikes": 1
+    },
+    {
+      "xss": 1
+    },
+    {
+      "csrf": 1
+    },
+    {
+      "encryption": 1
+    },
+    {
+      "hashing": 1
+    },
+    {
+      "ssl": 1,
+      "tls": 1
+    },
+    {
+      "user": 1,
+      "hacks": 1,
+      "system": 1
+    },
+    {
+      "prevent": 1,
+      "sql": 1,
+      "injection": 1
+    },
+    {
+      "secure": 1,
+      "passwords": 1
+    },
+    {
+      "token": 1,
+      "stolen": 1
+    },
+    {
+      "handle": 1,
+      "unauthorized": 1,
+      "access": 1
+    },
+    {
+      "interact": 1,
+      "bot": 1
+    },
+    {
+      "use": 1,
+      "chatbot": 1,
+      "effectively": 1
+    },
+    {
+      "limit": 1,
+      "questions": 1
+    },
+    {
+      "ask": 1,
+      "follow": 1,
+      "questions": 1
+    },
+    {
+      "chatbot": 1,
+      "understand": 1,
+      "simple": 1,
+      "words": 1
+    },
+    {
+      "ask": 1,
+      "incomplete": 1,
+      "questions": 1
+    },
+    {
+      "misspell": 1,
+      "words": 1
+    },
+    {
+      "ask": 1,
+      "different": 1,
+      "formats": 1
+    },
+    {
+      "test": 1,
+      "random": 1,
+      "queries": 1
+    },
+    {
+      "chatbot": 1,
+      "interactive": 1
+    },
+    {
+      "smart": 1,
+      "chatbot": 1
+    },
+    {
+      "chatbot": 1,
+      "think": 1,
+      "human": 1
+    },
+    {
+      "chatbot": 1,
+      "intelligent": 1
+    },
+    {
+      "chatbot": 1,
+      "understand": 1,
+      "context": 1
+    },
+    {
+      "chatbot": 1,
+      "remember": 1,
+      "previous": 1,
+      "questions": 1
+    },
+    {
+      "chatbot": 1,
+      "handle": 1,
+      "complex": 1,
+      "queries": 1
+    },
+    {
+      "choose": 1,
+      "answers": 1
+    },
+    {
+      "learn": 1,
+      "automatically": 1
+    },
+    {
+      "improve": 1,
+      "accuracy": 1
+    },
+    {
+      "support": 1,
+      "nlp": 1
+    },
+    {
+      "backend": 1,
+      "supports": 1,
+      "chatbot": 1
+    },
+    {
+      "chatbot": 1,
+      "api": 1,
+      "based": 1
+    },
+    {
+      "data": 1,
+      "stored": 1
+    },
+    {
+      "chatbot": 1,
+      "use": 1,
+      "json": 1
+    },
+    {
+      "training": 1,
+      "dataset": 1
+    },
+    {
+      "update": 1,
+      "answers": 1
+    },
+    {
+      "chatbot": 1,
+      "scalable": 1
+    },
+    {
+      "handle": 1,
+      "concurrent": 1,
+      "users": 1
+    },
+    {
+      "algorithm": 1,
+      "used": 1
+    },
+    {
+      "use": 1,
+      "embeddings": 1
+    },
+    {
+      "look": 1,
+      "first": 1
+    },
+    {
+      "highlight": 1,
+      "portfolio": 1
+    },
+    {
+      "important": 1,
+      "section": 1
+    },
+    {
+      "makes": 1,
+      "site": 1,
+      "interesting": 1
+    },
+    {
+      "portfolio": 1,
+      "beginner": 1,
+      "friendly": 1
+    },
+    {
+      "understand": 1,
+      "skills": 1,
+      "quickly": 1
+    },
+    {
+      "everything": 1,
+      "explained": 1,
+      "clearly": 1
+    },
+    {
+      "portfolio": 1,
+      "show": 1,
+      "real": 1,
+      "work": 1
+    },
+    {
+      "portfolio": 1,
+      "professional": 1
+    },
+    {
+      "portfolio": 1,
+      "reflect": 1,
+      "personality": 1
+    },
+    {
+      "evaluate": 1
+    },
+    {
+      "portfolio": 1,
+      "show": 1,
+      "real": 1,
+      "experience": 1
+    },
+    {
+      "assess": 1,
+      "coding": 1,
+      "ability": 1
+    },
+    {
+      "show": 1,
+      "industry": 1,
+      "readiness": 1
+    },
+    {
+      "experience": 1,
+      "relevant": 1
+    },
+    {
+      "technical": 1,
+      "depth": 1
+    },
+    {
+      "portfolio": 1,
+      "show": 1,
+      "problem": 1,
+      "solving": 1
+    },
+    {
+      "trust": 1,
+      "experience": 1
+    },
+    {
+      "work": 1,
+      "production": 1,
+      "level": 1
+    },
+    {
+      "portfolio": 1,
+      "show": 1,
+      "growth": 1
+    },
+    {
+      "kind": 1,
+      "applications": 1,
+      "built": 1
+    },
+    {
+      "ai": 1,
+      "projects": 1
+    },
+    {
+      "built": 1,
+      "backend": 1,
+      "systems": 1
+    },
+    {
+      "worked": 1,
+      "microservices": 1
+    },
+    {
+      "frontend": 1,
+      "projects": 1
+    },
+    {
+      "mobile": 1,
+      "projects": 1
+    },
+    {
+      "build": 1,
+      "full": 1,
+      "systems": 1
+    },
+    {
+      "worked": 1,
+      "databases": 1
+    },
+    {
+      "projects": 1,
+      "solve": 1,
+      "real": 1,
+      "problems": 1
+    },
+    {
+      "projects": 1,
+      "complex": 1
+    },
+    {
+      "chatbot": 1,
+      "optimized": 1
+    },
+    {
+      "fast": 1,
+      "chatbot": 1
+    },
+    {
+      "handle": 1,
+      "large": 1,
+      "datasets": 1
+    },
+    {
+      "portfolio": 1,
+      "optimized": 1
+    },
+    {
+      "chatbot": 1,
+      "slow": 1,
+      "down": 1
+    },
+    {
+      "improve": 1,
+      "performance": 1
+    },
+    {
+      "code": 1,
+      "efficient": 1
+    },
+    {
+      "test": 1,
+      "performance": 1
+    },
+    {
+      "performance": 1,
+      "improved": 1
+    },
+    {
+      "scalability": 1,
+      "considered": 1
+    },
+    {
+      "chatbot": 1,
+      "secure": 1
+    },
+    {
+      "portfolio": 1,
+      "follow": 1,
+      "security": 1,
+      "practices": 1
+    },
+    {
+      "data": 1,
+      "misused": 1
+    },
+    {
+      "validate": 1,
+      "inputs": 1
+    },
+    {
+      "backend": 1,
+      "protected": 1
+    },
+    {
+      "handle": 1,
+      "errors": 1,
+      "safely": 1
+    },
+    {
+      "system": 1,
+      "reliable": 1
+    },
+    {
+      "chatbot": 1,
+      "crash": 1
+    },
+    {
+      "log": 1,
+      "errors": 1
+    },
+    {
+      "code": 1,
+      "safe": 1
+    },
+    {},
+    {},
+    {
+      "skills": 1,
+      "list": 1
+    },
+    {
+      "projects": 1,
+      "list": 1
+    },
+    {
+      "experience": 1,
+      "details": 1
+    },
+    {
+      "education": 1,
+      "details": 1
+    },
+    {
+      "contact": 1,
+      "info": 1
+    },
+    {
+      "hire": 1
+    },
+    {
+      "location": 1
+    },
+    {
+      "availability": 1
+    },
+    {
+      "hey": 1,
+      "site": 1
+    },
+    {
+      "yo": 1
+    },
+    {
+      "show": 1
+    },
+    {
+      "legit": 1
+    },
+    {
+      "built": 1,
+      "bot": 1
+    },
+    {
+      "site": 1
+    },
+    {
+      "available": 1
+    },
+    {
+      "experience": 1
+    },
+    {
+      "specialize": 1
+    },
+    {
+      "ask": 1,
+      "unrelated": 1,
+      "questions": 1
+    },
+    {
+      "trick": 1,
+      "chatbot": 1
+    },
+    {
+      "support": 1,
+      "slang": 1
+    },
+    {
+      "type": 1,
+      "incomplete": 1,
+      "words": 1
+    },
+    {
+      "understand": 1,
+      "synonyms": 1
+    },
+    {
+      "handle": 1,
+      "spelling": 1,
+      "mistakes": 1
+    },
+    {
+      "support": 1,
+      "multi": 1,
+      "language": 1
+    },
+    {
+      "trained": 1
+    },
+    {
+      "chatbot": 1,
+      "rule": 1,
+      "based": 1
+    },
+    {
+      "improved": 1,
+      "ml": 1
+    },
+    {
+      "hire": 1
+    },
+    {
+      "worth": 1,
+      "considering": 1
+    },
+    {
+      "fit": 1,
+      "developer": 1,
+      "role": 1
+    },
+    {
+      "handle": 1,
+      "real": 1,
+      "world": 1,
+      "tasks": 1
+    },
+    {
+      "java": 1,
+      "memory": 1,
+      "model": 1
+    },
+    {
+      "multithreading": 1
+    },
+    {
+      "synchronization": 1
+    },
+    {
+      "deadlock": 1
+    },
+    {
+      "race": 1,
+      "condition": 1
+    },
+    {
+      "volatile": 1,
+      "keyword": 1
+    },
+    {
+      "thread": 1,
+      "pool": 1
+    },
+    {
+      "executorservice": 1
+    },
+    {
+      "callable": 1,
+      "vs": 1,
+      "runnable": 1
+    },
+    {
+      "handle": 1,
+      "deadlocks": 1
+    },
+    {
+      "multiple": 1,
+      "threads": 1,
+      "update": 1,
+      "variable": 1
+    },
+    {
+      "improve": 1,
+      "multithreading": 1,
+      "performance": 1
+    },
+    {
+      "memory": 1,
+      "usage": 1,
+      "high": 1
+    },
+    {
+      "debug": 1,
+      "concurrency": 1,
+      "issues": 1
+    },
+    {
+      "spring": 1,
+      "boot": 1,
+      "starter": 1
+    },
+    {
+      "spring": 1,
+      "bean": 1,
+      "lifecycle": 1
+    },
+    {
+      "transactional": 1
+    },
+    {
+      "aop": 1
+    },
+    {
+      "interceptor": 1
+    },
+    {
+      "dto": 1
+    },
+    {
+      "service": 1,
+      "layer": 1
+    },
+    {
+      "repository": 1,
+      "layer": 1
+    },
+    {
+      "controller": 1,
+      "layer": 1
+    },
+    {
+      "dependency": 1,
+      "injection": 1
+    },
+    {
+      "transaction": 1,
+      "fails": 1,
+      "midway": 1
+    },
+    {
+      "handle": 1,
+      "api": 1,
+      "versioning": 1
+    },
+    {
+      "multiple": 1,
+      "services": 1,
+      "depend": 1
+    },
+    {
+      "secure": 1,
+      "microservices": 1
+    },
+    {
+      "service": 1,
+      "crashes": 1
+    },
+    {
+      "join": 1
+    },
+    {
+      "inner": 1,
+      "join": 1
+    },
+    {
+      "left": 1,
+      "join": 1
+    },
+    {
+      "right": 1,
+      "join": 1
+    },
+    {
+      "full": 1,
+      "join": 1
+    },
+    {
+      "subquery": 1
+    },
+    {
+      "indexing": 1
+    },
+    {
+      "clustering": 1,
+      "index": 1
+    },
+    {
+      "non": 1,
+      "clustered": 1,
+      "index": 1
+    },
+    {
+      "query": 1,
+      "execution": 1,
+      "plan": 1
+    },
+    {
+      "query": 1,
+      "slow": 1
+    },
+    {
+      "duplicate": 1,
+      "records": 1,
+      "appear": 1
+    },
+    {
+      "handle": 1,
+      "large": 1,
+      "tables": 1
+    },
+    {
+      "database": 1,
+      "crashes": 1
+    },
+    {
+      "prevent": 1,
+      "data": 1,
+      "loss": 1
+    },
+    {
+      "bson": 1
+    },
+    {
+      "replica": 1,
+      "set": 1
+    },
+    {
+      "sharding": 1
+    },
+    {
+      "capped": 1,
+      "collection": 1
+    },
+    {
+      "document": 1,
+      "embedding": 1
+    },
+    {
+      "referencing": 1
+    },
+    {
+      "indexing": 1,
+      "mongodb": 1
+    },
+    {
+      "aggregation": 1,
+      "framework": 1
+    },
+    {
+      "schema": 1,
+      "design": 1
+    },
+    {
+      "ttl": 1,
+      "index": 1
+    },
+    {
+      "data": 1,
+      "grows": 1,
+      "rapidly": 1
+    },
+    {
+      "ensure": 1,
+      "high": 1,
+      "availability": 1
+    },
+    {
+      "query": 1,
+      "performance": 1,
+      "drops": 1
+    },
+    {
+      "model": 1,
+      "relationships": 1
+    },
+    {
+      "data": 1,
+      "duplication": 1,
+      "occurs": 1
+    },
+    {
+      "reconciliation": 1
+    },
+    {
+      "key": 1,
+      "prop": 1
+    },
+    {
+      "lazy": 1,
+      "loading": 1
+    },
+    {
+      "code": 1,
+      "splitting": 1
+    },
+    {
+      "context": 1,
+      "api": 1
+    },
+    {
+      "hooks": 1
+    },
+    {
+      "usememo": 1
+    },
+    {
+      "usecallback": 1
+    },
+    {
+      "controlled": 1,
+      "component": 1
+    },
+    {
+      "uncontrolled": 1,
+      "component": 1
+    },
+    {
+      "component": 1,
+      "re": 1,
+      "renders": 1,
+      "often": 1
+    },
+    {
+      "optimize": 1,
+      "react": 1,
+      "performance": 1
+    },
+    {
+      "state": 1,
+      "lost": 1
+    },
+    {
+      "debug": 1,
+      "ui": 1,
+      "bugs": 1
+    },
+    {
+      "api": 1,
+      "fails": 1,
+      "react": 1
+    },
+    {
+      "rest": 1
+    },
+    {
+      "graphql": 1
+    },
+    {
+      "idempotent": 1,
+      "method": 1
+    },
+    {
+      "stateless": 1,
+      "api": 1
+    },
+    {
+      "caching": 1,
+      "apis": 1
+    },
+    {
+      "pagination": 1
+    },
+    {
+      "filtering": 1
+    },
+    {
+      "rate": 1,
+      "limiting": 1
+    },
+    {
+      "api": 1,
+      "gateway": 1
+    },
+    {
+      "service": 1,
+      "discovery": 1
+    },
+    {
+      "api": 1,
+      "returns": 1,
+      "wrong": 1,
+      "data": 1
+    },
+    {
+      "api": 1,
+      "slow": 1
+    },
+    {
+      "secure": 1,
+      "apis": 1
+    },
+    {
+      "api": 1,
+      "fails": 1,
+      "frequently": 1
+    },
+    {
+      "handle": 1,
+      "large": 1,
+      "responses": 1
+    },
+    {
+      "virtualization": 1
+    },
+    {
+      "containerization": 1
+    },
+    {
+      "dockerfile": 1
+    },
+    {
+      "kubernetes": 1
+    },
+    {
+      "pod": 1
+    },
+    {
+      "deployment": 1
+    },
+    {
+      "scaling": 1
+    },
+    {
+      "ci": 1,
+      "cd": 1
+    },
+    {
+      "monitoring": 1
+    },
+    {
+      "logging": 1
+    },
+    {
+      "deployment": 1,
+      "fails": 1
+    },
+    {
+      "scale": 1,
+      "apps": 1
+    },
+    {
+      "server": 1,
+      "crashes": 1
+    },
+    {
+      "ensure": 1,
+      "uptime": 1
+    },
+    {
+      "traffic": 1,
+      "spikes": 1
+    },
+    {
+      "authentication": 1
+    },
+    {
+      "authorization": 1
+    },
+    {
+      "hashing": 1
+    },
+    {
+      "salting": 1
+    },
+    {
+      "encryption": 1
+    },
+    {
+      "jwt": 1
+    },
+    {
+      "oauth": 1
+    },
+    {
+      "ssl": 1,
+      "tls": 1
+    },
+    {
+      "xss": 1
+    },
+    {
+      "sql": 1,
+      "injection": 1
+    },
+    {
+      "user": 1,
+      "data": 1,
+      "leaked": 1
+    },
+    {
+      "prevent": 1,
+      "hacking": 1
+    },
+    {
+      "password": 1,
+      "weak": 1
+    },
+    {
+      "secure": 1,
+      "apis": 1
+    },
+    {
+      "unauthorized": 1,
+      "access": 1,
+      "occurs": 1
+    },
+    {
+      "microservices": 1,
+      "architecture": 1
+    },
+    {
+      "monolithic": 1,
+      "architecture": 1
+    },
+    {
+      "scalability": 1
+    },
+    {
+      "fault": 1,
+      "tolerance": 1
+    },
+    {
+      "load": 1,
+      "balancing": 1
+    },
+    {
+      "caching": 1
+    },
+    {
+      "cdn": 1
+    },
+    {
+      "database": 1,
+      "replication": 1
+    },
+    {
+      "eventual": 1,
+      "consistency": 1
+    },
+    {
+      "horizontal": 1,
+      "scaling": 1
+    },
+    {
+      "design": 1,
+      "large": 1,
+      "scale": 1,
+      "system": 1
+    },
+    {
+      "design": 1,
+      "chat": 1,
+      "system": 1
+    },
+    {
+      "system": 1,
+      "fails": 1
+    },
+    {
+      "handle": 1,
+      "millions": 1,
+      "users": 1
+    },
+    {
+      "latency": 1,
+      "high": 1
+    },
+    {
+      "chatbot": 1,
+      "work": 1
+    },
+    {
+      "chatbot": 1,
+      "function": 1
+    },
+    {
+      "chatbot": 1,
+      "implemented": 1
+    },
+    {
+      "working": 1,
+      "mechanism": 1,
+      "chatbot": 1
+    },
+    {
+      "explain": 1,
+      "chatbot": 1,
+      "works": 1
+    },
+    {
+      "happens": 1,
+      "ask": 1,
+      "question": 1
+    },
+    {
+      "chatbot": 1,
+      "generate": 1,
+      "responses": 1
+    },
+    {
+      "chatbot": 1,
+      "rule": 1,
+      "based": 1
+    },
+    {
+      "chatbot": 1,
+      "use": 1,
+      "ai": 1
+    },
+    {
+      "understand": 1,
+      "question": 1
+    },
+    {
+      "algorithm": 1,
+      "chatbot": 1,
+      "use": 1
+    },
+    {
+      "chatbot": 1,
+      "use": 1,
+      "machine": 1,
+      "learning": 1
+    },
+    {
+      "similarity": 1,
+      "matching": 1,
+      "work": 1
+    },
+    {
+      "tf": 1,
+      "idf": 1,
+      "chatbot": 1
+    },
+    {
+      "cosine": 1,
+      "similarity": 1
+    },
+    {
+      "chatbot": 1,
+      "learn": 1,
+      "automatically": 1
+    },
+    {
+      "chatbot": 1,
+      "trained": 1
+    },
+    {
+      "improve": 1,
+      "chatbot": 1,
+      "accuracy": 1
+    },
+    {
+      "support": 1,
+      "nlp": 1
+    },
+    {
+      "understand": 1,
+      "different": 1,
+      "phrasings": 1
+    },
+    {
+      "backend": 1,
+      "behind": 1,
+      "chatbot": 1
+    },
+    {
+      "chatbot": 1,
+      "use": 1,
+      "apis": 1
+    },
+    {
+      "answers": 1,
+      "stored": 1
+    },
+    {
+      "chatbot": 1,
+      "connected": 1,
+      "database": 1
+    },
+    {
+      "process": 1,
+      "data": 1,
+      "real": 1,
+      "time": 1
+    },
+    {
+      "fast": 1,
+      "response": 1,
+      "time": 1
+    },
+    {
+      "chatbot": 1,
+      "handle": 1,
+      "multiple": 1,
+      "users": 1
+    },
+    {
+      "chatbot": 1,
+      "scalable": 1
+    },
+    {
+      "chatbot": 1,
+      "deployed": 1,
+      "online": 1
+    },
+    {
+      "require": 1,
+      "internet": 1
+    },
+    {
+      "happens": 1,
+      "chatbot": 1,
+      "doesn": 1,
+      "find": 1,
+      "answer": 1
+    },
+    {
+      "chatbot": 1,
+      "sometimes": 1,
+      "give": 1,
+      "wrong": 1,
+      "answers": 1
+    },
+    {
+      "fix": 1,
+      "incorrect": 1,
+      "answers": 1
+    },
+    {
+      "ask": 1,
+      "new": 1,
+      "question": 1
+    },
+    {
+      "understand": 1,
+      "context": 1
+    },
+    {
+      "handle": 1,
+      "long": 1,
+      "questions": 1
+    },
+    {
+      "handle": 1,
+      "short": 1,
+      "queries": 1
+    },
+    {
+      "support": 1,
+      "typo": 1,
+      "handling": 1
+    },
+    {
+      "improved": 1,
+      "ai": 1,
+      "models": 1
+    },
+    {
+      "technologies": 1,
+      "used": 1,
+      "chatbot": 1
+    },
+    {
+      "programming": 1,
+      "languages": 1,
+      "used": 1
+    },
+    {
+      "use": 1,
+      "react": 1
+    },
+    {
+      "use": 1,
+      "spring": 1,
+      "boot": 1
+    },
+    {
+      "use": 1,
+      "mongodb": 1
+    },
+    {
+      "chatbot": 1,
+      "full": 1,
+      "stack": 1
+    },
+    {
+      "chatbot": 1,
+      "integrated": 1,
+      "apps": 1
+    },
+    {
+      "chatbot": 1,
+      "reused": 1
+    },
+    {
+      "chatbot": 1,
+      "production": 1,
+      "ready": 1
+    },
+    {
+      "difference": 1,
+      "hashmap": 1,
+      "concurrenthashmap": 1
+    },
+    {
+      "difference": 1,
+      "string": 1,
+      "stringbuilder": 1,
+      "stringbuffer": 1
+    },
+    {
+      "immutability": 1,
+      "java": 1
+    },
+    {
+      "difference": 1,
+      "equals": 1
+    },
+    {
+      "garbage": 1,
+      "collection": 1
+    },
+    {
+      "finalize": 1,
+      "method": 1
+    },
+    {
+      "thread": 1
+    },
+    {
+      "thread": 1,
+      "pool": 1
+    },
+    {
+      "executorservice": 1
+    },
+    {
+      "deadlock": 1
+    },
+    {
+      "spring": 1,
+      "boot": 1,
+      "auto": 1,
+      "configuration": 1
+    },
+    {
+      "componentscan": 1
+    },
+    {
+      "bean": 1
+    },
+    {
+      "spring": 1,
+      "bean": 1,
+      "lifecycle": 1
+    },
+    {
+      "aop": 1
+    },
+    {
+      "transactional": 1
+    },
+    {
+      "lazy": 1,
+      "initialization": 1
+    },
+    {
+      "eager": 1,
+      "initialization": 1
+    },
+    {
+      "spring": 1,
+      "profile": 1
+    },
+    {
+      "configuration": 1,
+      "class": 1
+    },
+    {
+      "idempotency": 1,
+      "apis": 1
+    },
+    {
+      "http": 1,
+      "methods": 1,
+      "idempotent": 1
+    },
+    {
+      "api": 1,
+      "throttling": 1
+    },
+    {
+      "pagination": 1
+    },
+    {
+      "filtering": 1,
+      "apis": 1
+    },
+    {
+      "hateoas": 1
+    },
+    {
+      "api": 1,
+      "versioning": 1
+    },
+    {
+      "rate": 1,
+      "limiting": 1
+    },
+    {
+      "api": 1,
+      "gateway": 1,
+      "role": 1
+    },
+    {
+      "request": 1,
+      "validation": 1
+    },
+    {
+      "indexing": 1,
+      "strategy": 1
+    },
+    {
+      "composite": 1,
+      "index": 1
+    },
+    {
+      "database": 1,
+      "sharding": 1
+    },
+    {
+      "replication": 1
+    },
+    {
+      "eventual": 1,
+      "consistency": 1
+    },
+    {
+      "strong": 1,
+      "consistency": 1
+    },
+    {
+      "query": 1,
+      "optimization": 1
+    },
+    {
+      "execution": 1,
+      "plan": 1
+    },
+    {
+      "deadlock": 1,
+      "db": 1
+    },
+    {
+      "connection": 1,
+      "pooling": 1
+    },
+    {
+      "mongodb": 1,
+      "aggregation": 1,
+      "pipeline": 1
+    },
+    {
+      "match": 1,
+      "mongodb": 1
+    },
+    {
+      "group": 1
+    },
+    {
+      "lookup": 1
+    },
+    {
+      "capped": 1,
+      "collection": 1
+    },
+    {
+      "ttl": 1,
+      "index": 1
+    },
+    {
+      "document": 1,
+      "embedding": 1
+    },
+    {
+      "referencing": 1
+    },
+    {
+      "write": 1,
+      "concern": 1
+    },
+    {
+      "read": 1,
+      "preference": 1
+    },
+    {
+      "react": 1,
+      "lifecycle": 1
+    },
+    {
+      "usememo": 1
+    },
+    {
+      "usecallback": 1
+    },
+    {
+      "context": 1,
+      "api": 1
+    },
+    {
+      "redux": 1
+    },
+    {
+      "prop": 1,
+      "drilling": 1
+    },
+    {
+      "lazy": 1,
+      "loading": 1
+    },
+    {
+      "code": 1,
+      "splitting": 1
+    },
+    {
+      "reconciliation": 1
+    },
+    {
+      "hooks": 1,
+      "rule": 1
+    },
+    {
+      "infrastructure": 1,
+      "code": 1
+    },
+    {
+      "dockerfile": 1
+    },
+    {
+      "kubernetes": 1,
+      "deployment": 1
+    },
+    {
+      "rolling": 1,
+      "update": 1
+    },
+    {
+      "blue": 1,
+      "green": 1,
+      "deployment": 1
+    },
+    {
+      "ci": 1,
+      "pipeline": 1
+    },
+    {
+      "cd": 1,
+      "pipeline": 1
+    },
+    {
+      "cloud": 1,
+      "scalability": 1
+    },
+    {
+      "fault": 1,
+      "tolerance": 1
+    },
+    {
+      "high": 1,
+      "availability": 1
+    },
+    {
+      "design": 1,
+      "scalable": 1,
+      "api": 1
+    },
+    {
+      "design": 1,
+      "chat": 1,
+      "system": 1
+    },
+    {
+      "design": 1,
+      "notification": 1,
+      "system": 1
+    },
+    {
+      "design": 1,
+      "large": 1,
+      "database": 1
+    },
+    {
+      "reduce": 1,
+      "latency": 1
+    },
+    {
+      "handle": 1,
+      "millions": 1,
+      "users": 1
+    },
+    {
+      "design": 1,
+      "logging": 1,
+      "system": 1
+    },
+    {
+      "horizontal": 1,
+      "scaling": 1
+    },
+    {
+      "vertical": 1,
+      "scaling": 1
+    },
+    {
+      "cdn": 1
+    },
+    {
+      "token": 1,
+      "based": 1,
+      "authentication": 1
+    },
+    {
+      "refresh": 1,
+      "token": 1
+    },
+    {
+      "session": 1,
+      "hijacking": 1
+    },
+    {
+      "encryption": 1,
+      "vs": 1,
+      "hashing": 1
+    },
+    {
+      "salting": 1
+    },
+    {
+      "api": 1,
+      "security": 1,
+      "best": 1,
+      "practice": 1
+    },
+    {
+      "role": 1,
+      "based": 1,
+      "access": 1,
+      "control": 1
+    },
+    {
+      "brute": 1,
+      "force": 1,
+      "attack": 1
+    },
+    {
+      "rate": 1,
+      "limiting": 1,
+      "security": 1
+    },
+    {
+      "firewall": 1
+    },
+    {
+      "tdd": 1
+    },
+    {
+      "mocking": 1
+    },
+    {
+      "test": 1,
+      "coverage": 1
+    },
+    {
+      "integration": 1,
+      "testing": 1
+    },
+    {
+      "load": 1,
+      "testing": 1
+    },
+    {
+      "stress": 1,
+      "testing": 1
+    },
+    {
+      "smoke": 1,
+      "testing": 1
+    },
+    {
+      "test": 1,
+      "automation": 1
+    },
+    {
+      "api": 1,
+      "mocking": 1
+    },
+    {
+      "ci": 1,
+      "testing": 1
+    },
+    {
+      "fix": 1,
+      "slow": 1,
+      "database": 1,
+      "query": 1
+    },
+    {
+      "handle": 1,
+      "high": 1,
+      "traffic": 1
+    },
+    {
+      "debug": 1,
+      "production": 1,
+      "issues": 1
+    },
+    {
+      "handle": 1,
+      "api": 1,
+      "failure": 1
+    },
+    {
+      "prevent": 1,
+      "duplicate": 1,
+      "requests": 1
+    },
+    {
+      "manage": 1,
+      "sessions": 1
+    },
+    {
+      "ensure": 1,
+      "system": 1,
+      "reliability": 1
+    },
+    {
+      "design": 1,
+      "fault": 1,
+      "tolerant": 1,
+      "systems": 1
+    },
+    {
+      "handle": 1,
+      "memory": 1,
+      "leaks": 1
+    },
+    {
+      "improve": 1,
+      "application": 1,
+      "performance": 1
+    }
+  ]
+}
